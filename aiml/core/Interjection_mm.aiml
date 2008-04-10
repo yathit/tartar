@@ -12,26 +12,26 @@
 <!-- Revision Interjection 1.02 -->
 <!-- Last Modified  Sep 10 2005 -->
    
-<category><pattern>AFFIRMATIVE</pattern><template>   <srai>yes</srai>    </template></category>                       
-<category><pattern>AH YES</pattern><template>   <srai>yes</srai>    </template></category>                       
-<category><pattern>APPARENTLY</pattern><template>   <srai>yes</srai>    </template></category>                       
+<category><pattern>AFFIRMATIVE</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
+<category><pattern>AH YES</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
+<category><pattern>APPARENTLY</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
 <category><pattern>AW</pattern><template>   <srai>interjection</srai>    </template></category>     
-<category><pattern>AYE</pattern><template>   <srai>yes</srai>    </template></category>                       
+<category><pattern>AYE</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
 <category><pattern>BLIMEY</pattern><template>   <srai>interjection </srai>    </template></category>     
 <category><pattern>BY NO MEANS</pattern><template><srai>no</srai></template></category>                      
 <category><pattern>CERTAINLY NOT</pattern><template>   <srai>no</srai>    </template></category>                       
-<category><pattern>CERTAINLY</pattern><template>   <srai>yes</srai>    </template></category>                       
-<category><pattern>COMPLETELY</pattern><template>   <srai>yes</srai>    </template></category>                       
-<category><pattern>CONSTANTLY</pattern><template>   <srai>yes</srai>    </template></category>                       
-<category><pattern>DA</pattern><template>   <srai>yes</srai>    </template></category>                       
+<category><pattern>CERTAINLY</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
+<category><pattern>COMPLETELY</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
+<category><pattern>CONSTANTLY</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
+<category><pattern>DA</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
 <category><pattern>DEFINITELY NOT</pattern><template>   <srai>no</srai>    </template></category>                       
 <category><pattern>DOUBTFUL</pattern><template>   <srai>no</srai>    </template></category>                       
-<category><pattern>ESPECIALLY</pattern><template>   <srai>yes</srai>    </template></category>                       
-<category><pattern>EVIDENTLY</pattern>  <template><srai>yes</srai></template> </category>         
-<category><pattern>EXTREMELY</pattern><template>   <srai>yes</srai>    </template></category>                       
-<category><pattern>FULLY</pattern><template>   <srai>yes</srai>    </template></category>                       
+<category><pattern>ESPECIALLY</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
+<category><pattern>EVIDENTLY</pattern>  <template><srai>ဟုတ္</srai></template> </category>         
+<category><pattern>EXTREMELY</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
+<category><pattern>FULLY</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
 <category><pattern>FURTHERMORE</pattern><template>   <srai>interjection </srai>    </template></category>     
-<category><pattern>GENERALLY</pattern><template><srai>yes</srai></template></category>                       
+<category><pattern>GENERALLY</pattern><template><srai>ဟုတ္</srai></template></category>                       
 <category><pattern>GOD DAMN *</pattern><template><srai>interjection</srai></template></category>   
 <category><pattern>HAI</pattern><template>   <srai>yes</srai>    </template></category>                       
 <category><pattern>HARDLY</pattern><template>   <srai>no</srai>    </template></category>                       
