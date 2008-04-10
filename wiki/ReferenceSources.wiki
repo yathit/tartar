@@ -1,0 +1,5 @@
+#summary link to useful information.
+
+= Basic =
+  * [http://www.alicebot.org AIML] The base project
+  * [http://www.alicebot.org/aiml/aaa/ AAA] Base AIML
