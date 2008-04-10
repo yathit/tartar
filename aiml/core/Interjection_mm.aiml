@@ -24,7 +24,7 @@
 <category><pattern>COMPLETELY</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
 <category><pattern>CONSTANTLY</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
 <category><pattern>DA</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
-<category><pattern>DEFINITELY NOT</pattern><template>   <srai>no</srai>    </template></category>                       
+<category><pattern>DEFINITELY NOT</pattern><template>   <srai>ma hote</srai>    </template></category>                       
 <category><pattern>DOUBTFUL</pattern><template>   <srai>no</srai>    </template></category>                       
 <category><pattern>ESPECIALLY</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
 <category><pattern>EVIDENTLY</pattern>  <template><srai>ဟုတ္</srai></template> </category>         
