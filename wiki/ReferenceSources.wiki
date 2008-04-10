@@ -1,5 +1,8 @@
 #summary link to useful information.
 
-= Basic =
+== Basic ==
   * [http://www.alicebot.org AIML] The base project
   * [http://www.alicebot.org/aiml/aaa/ AAA] Base AIML
+
+== Utilities ==
+  * [http://em1.mmdictionary.net/lookup.htm EN-MMDictionary]
