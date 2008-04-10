@@ -4,6 +4,9 @@
   * [http://www.alicebot.org AIML] The base project
   * [http://www.alicebot.org/aiml/aaa/ AAA] Base AIML
 
+== References ==
+  * [http://www.hnandar.com/cmt/hdn/2bb965b7-c6ab-47d6-88c2-3365b91421b4.pdf semweb] Enhancing AIML Bots using Semantic Web Technologies
+
 == Utilities ==
   * [http://em1.mmdictionary.net/lookup.htm online] EN->MM Dictionary
   * [http://www.zawgyi.org/Myanmar_Text_Editor.aspx online] Myanmar Text Editor
