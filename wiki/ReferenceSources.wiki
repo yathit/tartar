@@ -5,4 +5,4 @@
   * [http://www.alicebot.org/aiml/aaa/ AAA] Base AIML
 
 == Utilities ==
-  * [http://em1.mmdictionary.net/lookup.htm EN-MMDictionary]
+  * [http://em1.mmdictionary.net/lookup.htm online] EN->MM Dictionary
