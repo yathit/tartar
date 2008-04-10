@@ -1,6 +1,6 @@
 #summary AIML Interpractor
 
-Basically we don't need to impliment an integractor to talk Burmese. We just need to select an intepractor that support Unicode.
+Basically we don't need to impliment an integractor to talk Burmese. We just need to select an intepractor that support Unicode. [http://www.alicebot.org/downloads/programs.html Intrepractors] can be found here.
 
   * C# chat bot is too taxing to the server
   * I think Java version will also have the performance issue
