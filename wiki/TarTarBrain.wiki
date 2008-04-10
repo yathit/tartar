@@ -1,0 +1,11 @@
+#summary AIML Interpractor
+
+Basically we don't need to impliment an integractor to talk Burmese. We just need to select an intepractor that support Unicode.
+
+  * C# chat bot is too taxing to the server
+  * I think Java version will also be the same or even worse
+  * i don't like PHP and Perl
+  * Pascal is out of trend, so as lisp
+  * Ruby variance has gone
+  * C++ is there but seem inmature
+  * I like Python but unstable version
