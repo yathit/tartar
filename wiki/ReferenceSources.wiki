@@ -6,3 +6,5 @@
 
 == Utilities ==
   * [http://em1.mmdictionary.net/lookup.htm online] EN->MM Dictionary
+  * [http://www.zawgyi.org/Myanmar_Text_Editor.aspx online] Myanmar Text Editor
+  * [http://code.google.com/p/waitzar/downloads/list WaiZar] - Romaized Myanmar Input System 
