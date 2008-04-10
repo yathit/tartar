@@ -7,7 +7,7 @@ Basically we don't need to impliment an interpreter to talk Burmese. We just nee
   * Kyaw don't like PHP and Perl, but you may like.
   * Pascal is out of trend, so as lisp.
   * Ruby variance has gone.
-  * C++ is there but seem inmature.
+  * Many variance of C++ are available, some are immeture.
   * Python version is interesting but available in unstable version. Also no server version.
 
 Anyways desktop application should be fine.
