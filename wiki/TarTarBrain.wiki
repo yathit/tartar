@@ -3,11 +3,11 @@
 Basically we don't need to impliment an interpreter to talk Burmese. We just need to select an intepractor that support Unicode. [http://www.alicebot.org/downloads/programs.html Interpreters] can be found here.
 
   * C# chat bot is too taxing to the server
-  * I think Java version will also have the performance issue
-  * i don't like PHP and Perl
-  * Pascal is out of trend, so as lisp
-  * Ruby variance has gone
-  * C++ is there but seem inmature
-  * I like Python but unstable version
+  * Java implimentation seems to be the best interprater available. But I think Java version will also have the performance issue on server.
+  * Kyaw don't like PHP and Perl, but you may like.
+  * Pascal is out of trend, so as lisp.
+  * Ruby variance has gone.
+  * C++ is there but seem inmature.
+  * Kyaw like Python but available in unstable version.
 
 Anyways desktop application should be fine.
