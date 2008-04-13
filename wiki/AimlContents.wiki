@@ -13,4 +13,5 @@ The following content are Core AIML Content to work Burmese conversation agent (
 
   * append `_mm` to the file name, eg: Interjection.aiml --> Interjection_mm.aiml and keep in same location
   * Version: AIML 1.0.1
+  * Unicode 5.1 Font
   
