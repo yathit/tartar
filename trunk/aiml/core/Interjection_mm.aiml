@@ -44,7 +44,7 @@
 <category><pattern>ျဖစ္ပုံေပါက္္တယ္</pattern><template><srai>ဟုတ္</srai></template></category>                       
 <category><pattern>JA</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
 <category><pattern>KNOW</pattern><template><srai>မဟုတ္</srai></template></category>                      
-<category><pattern>N</pattern>  <template><srai>မဟုတ္</srai></template> </category>                        
+<category><pattern>မဟုတ္</pattern>  <template><srai>မဟုတ္</srai></template> </category>                        
 <category><pattern>NAH</pattern><template><srai>မဟုတ္</srai></template></category>                      
 <category><pattern>NAW</pattern><template><srai>မဟုတ္</srai></template></category>                      
 <category><pattern>NAY</pattern>  <template><srai>မဟုတ္</srai></template> </category>                        
