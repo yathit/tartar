@@ -9,9 +9,9 @@
 <!-- as adopted by the ALICE A.I. Foundation. --> 
 <!-- Badanswer.aiml: Demo of Pandorabots learning, AIML unquoting and eval --> 
 <!-- Revision Badanswer-0.01 --> 
-<!-- Last Modified Feb 23 2005 -->
-<!-- Extended by KnyteTrypper, March 3, 2005 --> 
-<!-- Last modified by John Campbell to allow multi-sentence inputs, June 30, 2005 --> 
+<!-- Last Modified  April 21 2008 -->
+<!-- Author: Khin Temoe -->
+<!-- Free software Copyright © Hnandar --> 
 
 <category>
 <pattern>BAD ANSWER</pattern> 
