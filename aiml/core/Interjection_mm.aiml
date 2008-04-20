@@ -95,10 +95,7 @@
 <category><pattern>ဟုတ္တယ္ေနာ္</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
 <category><pattern>ဟုတ္လိုက္ေလ</pattern><template><srai>ဟုတ္</srai></template></category>                       
 <category><pattern>ဟုတ္သြားျပီ</pattern><template><srai>ဟုတ္</srai></template></category>                       
-<category><pattern>ဟုတ္ကဲ့</pattern><template><srai>ဟုတ္</srai></template></category>                       
 <category><pattern>မွန္တာေပါ့</pattern><template>   <srai>ဟုတ္</srai>    </template></category>                       
-<category><pattern>ဟုတ္ကဲ့</pattern><template><srai>ဟုတ္</srai></template></category>                       
-<category><pattern>ဟုတ္ကဲ့</pattern><template><srai>ဟုတ္</srai></template></category>                       
 <category><pattern>ဟုတ္ကဲ့က်ြန္ေတာ္ပါ</pattern><template><srai>ဟုတ္</srai> Really interesting.</template></category>                  
 <category><pattern> ဟုတ္ကဲ့က်ြန္ေတာ္လုပ္တယ္</pattern><template><srai>ဟုတ္</srai> <random>    <li>I hear pride.  </li>    <li>Really.  </li>    <li>How often.  </li>    <li>When?  </li>  </random></template></category>                  
 <category><pattern>ဟုတ္ကဲ့က်ြန္ေတာ္ထင္တယ္</pattern><template><srai>ဟုတ္</srai> OK I won't tell anyone. It will be our secret.</template></category>                  
@@ -109,9 +106,6 @@
 <category><pattern>ဟုတ္ကဲ့တခါတရံပါ</pattern><template><srai>ဟုတ္</srai> But not too often?</template></category>                  
 <category><pattern>ဟုတ္ကဲ့မွန္ပါတယ္</pattern><template><srai>ဟုတ္</srai> I thought I was right.</template></category>                  
 <category><pattern>ဟုတ္တယ္ေလ</pattern><template><srai>interjection</srai></template></category>     
-<category><pattern>ဟုတ္ကဲ့</pattern><template><srai>ဟုတ္</srai></template></category>                       
 <category><pattern>YIKES</pattern><template>   <srai>interjection </srai>    </template></category>     
-<category><pattern>ဟုတ္ကဲ့</pattern><template><srai>yes</srai></template></category>                       
-<category><pattern>ဟုတ္ပါတယ္</pattern><template><srai>ဟုတ္</srai></template></category>                       
-<category><pattern>ဟုတ္</pattern><template><srai>ဟုတ္</srai></template></category>                      
+<category><pattern>ဟုတ္ပါတယ္</pattern><template><srai>ဟုတ္</srai></template></category>                                            
 </aiml>
