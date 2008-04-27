@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
 <aiml version="1.0.1" xmlns="http://alicebot.org/2001/AIML-1.0.1"
       xmlns:html="http://www.w3.org/1999/xhtml"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -23,31 +23,31 @@
 
    
 <category><pattern>1 0</pattern><template>One.</template></category>                   
-<category><pattern>1 CENT</pattern><template>That won't buy anything.</template></category>                   
-<category><pattern>1 OR 2</pattern><template>A couple.</template></category>                   
-<category><pattern>1 YEAR</pattern><template>That can seem like a long time.</template></category>                   
-<category><pattern>123456789</pattern><template>Ten.</template></category>                   
-<category><pattern>153</pattern><template>One hundred fifty three.</template></category>                   
-<category><pattern>1995</pattern><template>I was born <bot name="birthday"/>.</template></category>                   
-<category><pattern>1999</pattern><template>A few years ago.</template></category>                   
-<category><pattern>2 2</pattern><template>Uh, Four.</template></category>                   
-<category><pattern>2 MILES</pattern><template><random>  <li>That is a short walk.</li>  <li>That is far in height.</li>  <li>What is that in metric?</li>  </random></template></category>                   
-<category><pattern>2 PLUS 2</pattern><template>4</template></category>                   
-<category><pattern>2000</pattern><template>The turn of the century.</template></category>                   
-<category><pattern>2001</pattern><template>That is a great movie.</template></category>                   
-<category><pattern>2009</pattern><template>In a few years.</template></category>                   
-<category><pattern>2010</pattern><template>The sequel was nothing like the original.</template></category>                   
-<category><pattern>2012</pattern><template>The end of the world.</template></category>                   
-<category><pattern>2020</pattern><template>That's a long way off.</template></category>                   
-<category><pattern>30 MINUTES</pattern><template>Ok, a half hour.</template></category>                   
-<category><pattern>64</pattern><template>sixty four</template></category>                   
-<category><pattern>66</pattern><template>sixty six</template></category>                   
-<category><pattern>86</pattern><template>Eighty-six.</template></category>                   
-<category><pattern>9 MONTHS</pattern><template>The development time for a human baby?</template></category>                   
-<category><pattern>A B C</pattern><template>D E F G H I.</template></category>                   
-<category><pattern>A BIT</pattern><template>Not much, eh?</template></category>                   
-<category><pattern>A BLOKE</pattern><template>A guy?</template></category>                   
-<category><pattern>A BOOK CAN HAVE NO TITLE</pattern><template>Who would publish it?</template></category>                   
+<category><pattern>တစန္႕</pattern><template>That won't buy anything.</template></category>                   
+<category><pattern>တစ္သို႕မဟုတ္နစ္</pattern><template>A couple.</template></category>                   
+<category><pattern>တစ္နစ္</pattern><template>That can seem like a long time.</template></category>                   
+<category><pattern>​၁၂၃၄၅၆၇၈၉</pattern><template>Ten.</template></category>                   
+<category><pattern>၁၅၃</pattern><template>One hundred fifty three.</template></category>                   
+<category><pattern>၁၉၉၅</pattern><template>I was born <bot name="birthday"/>.</template></category>                   
+<category><pattern>၁၉၉၉</pattern><template>A few years ago.</template></category>                   
+<category><pattern>၂ ၂</pattern><template>Uh, Four.</template></category>                   
+<category><pattern>၂ မိုင္</pattern><template><random>  <li>That is a short walk.</li>  <li>That is far in height.</li>  <li>What is that in metric?</li>  </random></template></category>                   
+<category><pattern>၂+၂</pattern><template>4</template></category>                   
+<category><pattern>၂၀၀၀</pattern><template>The turn of the century.</template></category>                   
+<category><pattern>၂၀၀၁</pattern><template>That is a great movie.</template></category>                   
+<category><pattern>၂၀၀၉</pattern><template>In a few years.</template></category>                   
+<category><pattern>၂၀၁၀</pattern><template>The sequel was nothing like the original.</template></category>                   
+<category><pattern>၂၀၁၂ </pattern><template>The end of the world.</template></category>                   
+<category><pattern>၂၀၂၀</pattern><template>That's a long way off.</template></category>                   
+<category><pattern>၃၀ မိနစ္</pattern><template>Ok, a half hour.</template></category>                   
+<category><pattern>၆၄</pattern><template>sixty four</template></category>                   
+<category><pattern>၆၆</pattern><template>sixty six</template></category>                   
+<category><pattern>၈၆ /pattern><template>Eighty-six.</template></category>                   
+<category><pattern>၉ မိနစ္</pattern><template>The development time for a human baby?</template></category>                   
+<category><pattern>ေအ ဘီ စီ</pattern><template>D E F G H I.</template></category>                   
+<category><pattern>အနည္းငယ္</pattern><template>Not much, eh?</template></category>                   
+<category><pattern>လူတစ္ေယာက္လား</pattern><template>A guy?</template></category>                   
+<category><pattern>စာအုပ္မွာေခါင္းစဥ္မရွိႏိုင္ဘူး</pattern><template>Who would publish it?</template></category>                   
 <category><pattern>A BOOK</pattern><template>Should not be judged by its cover.</template></category>                   
 <category><pattern>A C CLARK</pattern><template>My favorite story is 2001.</template></category>                   
 <category><pattern>A CRAY</pattern><template>Supercomputers become obsolete very fast.</template></category>                   
