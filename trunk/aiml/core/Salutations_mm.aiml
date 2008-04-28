@@ -10,7 +10,7 @@
 <!-- as adopted by the ALICE A.I. Foundation.  -->
 <!-- Last Modified  Sep 10 2005 -->
   
-<category><pattern>* BYE</pattern><template>OK see you later <get name="name"/>.</template></category>      
+<category><pattern>ႏုတ္ဆက္ပါတယ္</pattern><template>ေကာင္းျပီေနာက္မွေတြ႕ၾကတာေပါ႕ <get name="name"/>.</template></category>      
 <category><pattern>ADIEU</pattern><template><srai>good bye</srai></template></category>      
 <category><pattern>ADIOS *</pattern><template>   <srai>bye</srai>    </template></category>      
 <category><pattern>ADIOS</pattern><template>   <srai>bye</srai>    </template></category>      
@@ -47,17 +47,17 @@
 <category><pattern>GOOD BY</pattern><template><srai>bye</srai></template></category>    
 <category><pattern>GOOD BYE *</pattern><template><srai>bye</srai></template></category>      
 <category><pattern>GOOD BYE</pattern><template><srai>bye</srai></template></category>    
-<category><pattern>GOOD DAY</pattern><template><srai>hello</srai></template></category>    
-<category><pattern>GOOD EVENING</pattern><template>Good evening, <get name="name"/>, how are you tonight?</template></category>    
-<category><pattern>GOOD MORNING</pattern><template>Hello and how are you this morning?</template></category>        
-<category><pattern>GOOD NIGHT</pattern><template>Goodnight, <get name="name"/>.</template></category>          
-<category><pattern>GOOD NITE</pattern><template><srai>bye</srai></template></category>      
+<category><pattern>ေကာင္းေသာေန႕ပါ</pattern><template><srai>hello</srai></template></category>    
+<category><pattern>ေကာင္းေသာညေနခင္းပါ</pattern><template>Good evening, <get name="name"/>, how are you tonight?</template></category>    
+<category><pattern>ေကာင္းေသာမနက္ခင္းပါ</pattern><template>Hello and how are you this morning?</template></category>        
+<category><pattern>ေကာင္းေသာညပါ</pattern><template>Goodnight, <get name="name"/>.</template></category>          
+<category><pattern>ေကာင္းေသာညပါ</pattern><template><srai>bye</srai></template></category>      
 <category><pattern>GOODBY</pattern><template><srai>bye</srai></template></category>      
 <category><pattern>GOODBYE *</pattern><template><srai>bye</srai></template></category>      
 <category><pattern>GOODBYE</pattern><template><srai>bye</srai></template></category>      
 <category><pattern>GOODBYE</pattern><that>SEE YOU LATER</that><template><srai>bye</srai></template></category>      
-<category><pattern>GOODNIGHT *</pattern><template><srai>goodnight</srai></template></category>                     
-<category><pattern>GOODNIGHT</pattern><template>Goodnight <get name="name"/></template></category>           
+<category><pattern>ေကာင္းေသာညပါ..</pattern><template><srai>goodnight</srai></template></category>                     
+<category><pattern>ေကာင္းေသာညပါ..</pattern><template>Goodnight <get name="name"/></template></category>           
 <category><pattern>GOODNITE *</pattern><template><srai>goodnight</srai></template></category>                       
 <category><pattern>GOT TO GO *</pattern><template><srai>bye</srai></template></category>      
 <category><pattern>GOT TO GO</pattern><template><srai>bye</srai></template></category>      
@@ -70,7 +70,7 @@
 <category><pattern>HASTA *</pattern><template>   <srai>bye</srai>    </template></category>      
 <category><pattern>HASTA LA VISTA</pattern><template>   <srai>bye</srai>    </template></category>      
 <category><pattern>HASTA LUEGO</pattern><template>   <srai>bye</srai>    </template></category>      
-<category><pattern>HAVE A GOOD NIGHT</pattern><template>   <srai>bye</srai>    </template></category>      
+<category><pattern>ေကာင္းေသာညျဖစ္ပါေစ..</pattern><template>   <srai>bye</srai>    </template></category>      
 <category><pattern>HAVE TO GO</pattern><template>   <srai>bye</srai>    </template></category>      
 <category><pattern>HELLO *</pattern><template>Hello there. <sr/>    </template></category>      
 <category><pattern>HELLO AGAIN</pattern><template>Hi there. I was just wanting to talk to <get name="name"/>.</template></category>      
@@ -127,28 +127,28 @@
 <category><pattern>KONNICHI WA</pattern><template><srai>hello</srai></template></category>      
 <category><pattern>KONNICHIWA</pattern><template><srai>hello</srai></template></category>      
 <category><pattern>LEAVE *</pattern><template>   <srai>bye</srai>    </template></category>      
-<category><pattern>LEAVE</pattern><template>   <srai>bye</srai>    </template></category>                      
+<category><pattern>သြားျပီေနာ္</pattern><template>   <srai>bye</srai>    </template></category>                      
 <category><pattern>MOOSHI MOOSHI</pattern><template>   <srai>hello</srai>    </template></category>      
-<category><pattern>MORNING</pattern><template><srai>good morning</srai></template></category>      
+<category><pattern>နံနက္ခင္းပါ</pattern><template><srai>ေကာင္းေသာနံနက္ခင္းပါ</srai></template></category>      
 <category><pattern>MY PLEASRE</pattern><template>The pleasure was indeed mine.</template></category>      
 <category><pattern>NIGHTY *</pattern><template><srai>bye </srai></template></category>      
 <category><pattern>OLA</pattern><template>   <srai>hello</srai>    </template></category>      
 <category><pattern>REPLY</pattern><template>   <srai>hello</srai>    </template></category>      
 <category><pattern>RETRY</pattern><template>   <srai>hello</srai>    </template></category>      
 <category><pattern>SAYONARA</pattern><template><srai>good bye</srai></template></category>      
-<category><pattern>SEE YOU *</pattern><template><srai>bye</srai></template></category>      
-<category><pattern>SEE YOU LATER</pattern><template><srai>bye</srai></template></category>      
-<category><pattern>SEE YOU SOON</pattern><template><srai>bye</srai></template></category>      
-<category><pattern>SEE YOU</pattern><template><srai>bye</srai></template></category>      
+<category><pattern>ေတြ႕မယ္</pattern><template><srai>bye</srai></template></category>      
+<category><pattern>ေနာက္မွေတြ႕တာေပါ့</pattern><template><srai>bye</srai></template></category>      
+<category><pattern>မၾကာခင္ေတြ႕မယ္ေနာ္</pattern><template><srai>bye</srai></template></category>      
+<category><pattern>ေတြ႕မယ္ေနာ္</pattern><template><srai>bye</srai></template></category>      
 <category><pattern>SHALOM</pattern><template>Does SHALOM mean Hello or Goodbye?</template></category>    
-<category><pattern>TA TA</pattern><template>   <srai>bye</srai>    </template></category>      
-<category><pattern>TIME TO GO</pattern><template>   <srai>bye</srai>    </template></category>      
+<category><pattern>တာတာ</pattern><template>   <srai>ႏုတ္ဆက္ပါတယ္</srai>    </template></category>      
+<category><pattern>သြားသင့္ျပီ</pattern><template>   <srai>ႏုတ္ဆက္ပါတယ္</srai>    </template></category>      
 <category><pattern>TTYL</pattern><template>   <srai>bye</srai>    </template></category>      
 <category><pattern>WHAT IS SHALOM</pattern><template>Does shalom mean hello or goodbye?</template></category>    
 <category><pattern>YOU ARE WELCOME *</pattern><template>It was my pleasure.</template></category>      
 <category><pattern>YOU ARE WELCOME</pattern><template><random><li>The pleasure was all mine.</li><li>Don't mention it.</li><li>Polite people are nice.</li></random></template></category>      
-<category><pattern>YOUR WELCOME *</pattern><template><srai>you are welcome</srai></template></category>   
-<category><pattern>YOUR WELCOME</pattern><template>I think you mean "you are welcome".</template></category>    
-<category><pattern>_ BYE</pattern><template>See you later. <sr/></template></category>      
-<category><pattern>_ TALK TO YOU LATER</pattern><template><srai>bye </srai></template></category>    
+<category><pattern>YOUR WELCOME *</pattern><template><srai>မင္းကိုၾကိဳဆုိပါတယ္</srai></template></category>   
+<category><pattern>ၾကိဳဆုိပါတယ္</pattern><template>ၾကိဳဆုိပါတယ္ လို႕ ေျပာတာထင္တယ္</template></category>    
+<category><pattern>ႏုတ္ဆက္ပါတယ္</pattern><template>ေနာက္မွေတြ႕တာေပါ့<sr/></template></category>      
+<category><pattern>ေနာက္မွေျပာၾကတာေပါ့</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>    
 </aiml>
