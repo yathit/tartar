@@ -14,15 +14,15 @@
 <category><pattern>ADIEU</pattern><template><srai>good bye</srai></template></category>      
 <category><pattern>ADIOS *</pattern><template>   <srai>bye</srai>    </template></category>      
 <category><pattern>ADIOS</pattern><template>   <srai>bye</srai>    </template></category>      
-<category><pattern>ALLO</pattern><template>			<srai>hello</srai></template></category>    
-<category><pattern>ALOH</pattern><template>			<srai>hello</srai></template></category>    
-<category><pattern>ALOHA</pattern><template>			<srai>hello</srai></template></category>    
-<category><pattern>ANYBODY HOME</pattern><template>			<srai>hello</srai></template></category>    
+<category><pattern>အဲလို</pattern><template>			<srai>hello</srai></template></category>    
+<category><pattern>အဲလိုဟ</pattern><template>			<srai>hello</srai></template></category>    
+<category><pattern>အဲလိုဟာ</pattern><template>			<srai>hello</srai></template></category>    
+<category><pattern>အိမ္မွာ​တစ္ေယာက္ေယာက္ရွိပါလား</pattern><template>			<srai>hello</srai></template></category>    
 <category><pattern>AUREVOIR</pattern><template>   <srai>bye</srai>    </template></category>      
 <category><pattern>BONJOUR MEANS HELLO</pattern><template>Well hello there!</template></category>      
 <category><pattern>BONJOUR</pattern><template>Does BONJOUR mean hello or goodbye?</template></category>      
 <category><pattern>BUHBYE</pattern><template>   <srai>bye</srai>    </template></category>      
-<category><pattern>BY BY</pattern><template>   <srai>bye</srai>    </template></category>      
+<category><pattern>ဘိုင္းဘိုင္</pattern><template>   <srai>bye</srai>    </template></category>      
 <category><pattern>BYE *</pattern><template>   <srai>bye</srai>    </template></category>      
 <category><pattern>BYE BYE *</pattern><template>   <srai>bye</srai>    </template></category>      
 <category><pattern>BYE BYE</pattern><template>   <srai>bye</srai>    </template></category>      
@@ -125,7 +125,7 @@
 <category><pattern>IT IS GOOD TALKING TO YOU</pattern>  <template>Nice chatting with you too, <get name="name"/>.</template> </category>         
 <category><pattern>IT MEANS HELLO</pattern><template><srai>hello</srai></template></category>      
 <category><pattern>KONNICHI WA</pattern><template><srai>hello</srai></template></category>      
-<category><pattern>KONNICHIWA</pattern><template><srai>hello</srai></template></category>      
+<category><pattern>ေကာ္နီခ်ီဝါ</pattern><template><srai>hello</srai></template></category>      
 <category><pattern>LEAVE *</pattern><template>   <srai>bye</srai>    </template></category>      
 <category><pattern>သြားျပီေနာ္</pattern><template>   <srai>bye</srai>    </template></category>                      
 <category><pattern>MOOSHI MOOSHI</pattern><template>   <srai>hello</srai>    </template></category>      
@@ -144,10 +144,10 @@
 <category><pattern>တာတာ</pattern><template>   <srai>ႏုတ္ဆက္ပါတယ္</srai>    </template></category>      
 <category><pattern>သြားသင့္ျပီ</pattern><template>   <srai>ႏုတ္ဆက္ပါတယ္</srai>    </template></category>      
 <category><pattern>TTYL</pattern><template>   <srai>bye</srai>    </template></category>      
-<category><pattern>WHAT IS SHALOM</pattern><template>Does shalom mean hello or goodbye?</template></category>    
+<category><pattern>ရွယ္လြန္ကဘာလဲ​</pattern><template>Does shalom mean hello or goodbye?</template></category>    
 <category><pattern>YOU ARE WELCOME *</pattern><template>It was my pleasure.</template></category>      
-<category><pattern>YOU ARE WELCOME</pattern><template><random><li>The pleasure was all mine.</li><li>Don't mention it.</li><li>Polite people are nice.</li></random></template></category>      
-<category><pattern>YOUR WELCOME *</pattern><template><srai>မင္းကိုၾကိဳဆုိပါတယ္</srai></template></category>   
+<category><pattern>Yမင္းကိုၾကိဳဆိုပါတယ္</pattern><template><random><li>The pleasure was all mine.</li><li>Don't mention it.</li><li>ယဥ္ေက်းေသာသူကလူေတာ္ျဖစ္တယ္</li></random></template></category>      
+<category><pattern>ၾကိဳဆိုပါတယ္</pattern><template><srai>မင္းကိုၾကိဳဆုိပါတယ္</srai></template></category>   
 <category><pattern>ၾကိဳဆုိပါတယ္</pattern><template>ၾကိဳဆုိပါတယ္ လို႕ ေျပာတာထင္တယ္</template></category>    
 <category><pattern>ႏုတ္ဆက္ပါတယ္</pattern><template>ေနာက္မွေတြ႕တာေပါ့<sr/></template></category>      
 <category><pattern>ေနာက္မွေျပာၾကတာေပါ့</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>    
