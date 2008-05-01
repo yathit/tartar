@@ -40,14 +40,14 @@
 <category><pattern>EXIT</pattern><template>   <srai>ႏုတ္ဆက္ပါတယ္</srai>    </template></category>      
 <category><pattern>FAREWELL *</pattern><template>   <srai>ႏုတ္ဆက္ပါတယ္</srai>    </template></category>      
 <category><pattern>FAREWELL</pattern><template>   <srai>ႏုတ္ဆက္ပါတယ္</srai>    </template></category>      
-<category><pattern>G NIGHT</pattern><template>   <srai>ႏုတ္ဆက္ပါတယ္</srai>    </template></category>      
+<category><pattern>ေကာင္းေသာညပါ</pattern><template>   <srai>ႏုတ္ဆက္ပါတယ္</srai>    </template></category>      
 <category><pattern>G2G</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
 <category><pattern>GET LOST</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
 <category><pattern>GO HOME</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
-<category><pattern>GOOD BY</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>    
+<category><pattern>ဂြဒ္ဘိုင္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>    
 <category><pattern>GOOD BYE *</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
-<category><pattern>GOOD BYE</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>    
-<category><pattern>ေကာင္းေသာေန႕ပါ</pattern><template><srai>မဂၤလာပါ</srai></template></category>    
+<category><pattern>ဂြဒ္ဘိုင္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>    
+<category><pattern>ဂြဒ္ေဒး</pattern><template><srai>မဂၤလာပါ</srai></template></category>    
 <category><pattern>ေကာင္းေသာညေနခင္းပါ</pattern><template>Good evening, <get name="name"/>, how are you tonight?</template></category>    
 <category><pattern>ေကာင္းေသာမနက္ခင္းပါ</pattern><template>Hello and how are you this morning?</template></category>        
 <category><pattern>ေကာင္းေသာညပါ</pattern><template>Goodnight, <get name="name"/>.</template></category>          
@@ -75,8 +75,8 @@
 <category><pattern>HELLO *</pattern><template>Hello there. <sr/>    </template></category>      
 <category><pattern>HELLO AGAIN</pattern><template>Hi there. I was just wanting to talk to <get name="name"/>.</template></category>      
 <category><pattern>HELLO HOW ARE YOU</pattern><template>I am fine thank you how are you?</template></category>      
-<category><pattern>HELLO THERE</pattern><template>Salutations, <get name="name"/>    </template></category>      
-<category><pattern>HELLO</pattern><template>Hi there!</template></category>      
+<category><pattern>ဟဲလိုမဂၤလာပါ</pattern><template>Salutations, <get name="name"/>    </template></category>      
+<category><pattern>ဟဲလို </pattern><template>Hi there!</template></category>      
 <category><pattern>HELLOW</pattern><template>   <srai>မဂၤလာပါ</srai>    </template></category>      
 <category><pattern>HELO</pattern><template>   <srai>မဂၤလာပါ</srai>    </template></category>      
 <category><pattern>HELOO *</pattern><template><srai>မဂၤလာပါ <star/></srai></template></category>    
@@ -94,30 +94,30 @@
 <category><pattern>I AM LEAVING *</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>                     
 <category><pattern>I AM OFF *</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>                     
 <category><pattern>I BETTER GO</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
-<category><pattern>I DO NOT WANT TO TALK *</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
+<category><pattern>ကြၽန္ေတာ္စကားမေျပာခ်င္ဘူး</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
 <category><pattern>I G TWO G</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
 <category><pattern>I G2G</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
-<category><pattern>I GO</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
-<category><pattern>I GOING</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
-<category><pattern>I GOT TO GO</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
-<category><pattern>I GOTTA GO</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
-<category><pattern>I HAVE GOT TO GO</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>                     
-<category><pattern>I HAVE TO GET GOING</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>                    
-<category><pattern>I HAVE TO GO BYE</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>                     
-<category><pattern>I HAVE TO LEAVE *</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>                     
-<category><pattern>I HAVE TO LEAVE</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>                       
-<category><pattern>I LEAVE</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
-<category><pattern>I LEAVING</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
-<category><pattern>I LEFT</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
-<category><pattern>ငါခဏေနရင္သြားရမယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
-<category><pattern>ငါထြက္သြားရမယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
-<category><pattern>ငါသြားရမယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
-<category><pattern>ငါထြက္သြားရမယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai> <sr/></template></category>      
-<category><pattern>ငါသြားရမယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
-<category><pattern>ငါသြားဘို႔လိုတယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
-<category><pattern>ငါထြက္လိုက္ျပီ</pattern><template><srai>ႏုတ္ဆက္ပါတယ္/srai></template></category>      
-<category><pattern>ငါနားလိုက္ျပီ</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
-<category><pattern>ငါျပန္ခ်င္ေနျပီ</pattern><template>အိုေက ဘိုင္ဘိုင္</template></category>      
+<category><pattern>သြားျပီ</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
+<category><pattern>သြားျပီ</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
+<category><pattern>က်ြန္ေတာ္သြားစရာရွိတယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
+<category><pattern>သြားစရာရွိတယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
+<category><pattern>က်ြန္ေတာ္သြားစရာရွိတယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>                     
+<category><pattern>တစ္ေနရာကိုသြားစရာရွိတယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>                    
+<category><pattern>တစ္ေနရာကိုသြားႏုတ္ဆက္ဘို႕ရွိတယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>                     
+<category><pattern>တစ္ေနရာကိုသြားဘို႕ရွိတယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>                     
+<category><pattern>သြားစရာရွိတယ္​</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>                       
+<category><pattern>က်ြန္ေတာ္သြားျပီ</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
+<category><pattern>က်ြန္ေတာ္သြားျပီ</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
+<category><pattern>က်ြန္ေတာ္သြားခဲ႔တယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
+<category><pattern>က်ြန္ေတာ္ခဏေနရင္သြားရမယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
+<category><pattern>က်ြန္ေတာ္ထြက္သြားရမယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
+<category><pattern>က်ြန္ေတာ္သြားရမယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
+<category><pattern>က်ြန္ေတာ္ထြက္သြားရမယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai> <sr/></template></category>      
+<category><pattern>က်ြန္ေတာ္သြားရမယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
+<category><pattern>က်ြန္ေတာ္သြားဘို႔လိုတယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
+<category><pattern>က်ြန္ေတာ္ထြက္လိုက္ျပီ</pattern><template><srai>ႏုတ္ဆက္ပါတယ္/srai></template></category>      
+<category><pattern>က်ြန္ေတာ္နားလိုက္ျပီ</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
+<category><pattern>က်ြန္ေတာ္ျပန္ခ်င္ေနျပီ</pattern><template>အိုေက ဘိုင္ဘိုင္</template></category>      
 <category><pattern>မင္းနဲ႔ေနာက္မွေတြ႔မယ္ေနာ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
 <category><pattern>ေနာက္မွေျပာၾကတာေပါ့</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
 <category><pattern>ေနာက္မွေျပာၾကမယ္</pattern><template><srai>ႏုတ္ဆက္ပါတယ္</srai></template></category>      
