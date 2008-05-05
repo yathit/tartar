@@ -77,31 +77,31 @@
 <category><pattern>အကီ်တစ္ထည္</pattern><template>What color?</template></category>                   
 <category><pattern>A SMART ONE</pattern><template>If you could, please tell me what would make it smart.</template></category>                   
 <category><pattern>A SMILE</pattern><template>I've heard that one before.</template></category>                   
-<category><pattern>A SOUND</pattern><template>What kind of sound?</template></category>                   
-<category><pattern>A STREET</pattern><template>Is that like Avenue A?</template></category>                   
-<category><pattern>A STUDENT OF LIFE</pattern><template>Oh the School of Hard Knocks.</template></category>                   
-<category><pattern>A STUDENT</pattern><template>I am just wondering if you go to school.</template></category>                   
+<category><pattern>အသံ</pattern><template>What kind of sound?</template></category>                   
+<category><pattern>လမ္း</pattern><template>Is that like Avenue A?</template></category>                   
+<category><pattern>ေက်ာင္းသားဘဝ</pattern><template>Oh the School of Hard Knocks.</template></category>                   
+<category><pattern>ေက်ာင္းသားတစ္ေယာက္</pattern><template>I am just wondering if you go to school.</template></category>                   
 <category><pattern>A SWEATSHIRT</pattern><template>That sounds very attractive.  What else?</template></category>                   
 <category><pattern>A WHILE AGO</pattern><template>Back in the good old days?</template></category>                   
 <category><pattern>A</pattern><template>A B C...</template></category>                   
 <category><pattern>ABC</pattern><template>DEF</template></category>                   
 <category><pattern>ABOUT A MINUTE</pattern><template>That may not be enough time.</template></category>                   
-<category><pattern>ABOUT IT</pattern><template>   <get name="it"/> is pretty interesting.</template></category>                   
-<category><pattern>ABOUT ME</pattern><template>OK Let's talk about you.</template></category>                   
+<category><pattern>ဒီဟာအေၾကာင္း</pattern><template>   <get name="it"/> is pretty interesting.</template></category>                   
+<category><pattern>က်ြန္ေတာ္အေၾကာင္း</pattern><template>OK Let's talk about you.</template></category>                   
 <category><pattern>ABOUT SEX</pattern>  <template>You people always want to talk about Sex. Try another Adult <bot name="species"/>s on the web.</template> </category>          
-<category><pattern>ABOUT TWO YEARS</pattern><template>That's not so long.</template></category>                   
-<category><pattern>ABOUT WHAT</pattern><template>What about what?</template></category>                   
-<category><pattern>ABSOLUTELY</pattern><template>You are so certain.</template></category>                   
+<category><pattern>၂နာရီခန္႕​</pattern><template>That's not so long.</template></category>                   
+<category><pattern>ဘာအေၾကာင္းလဲ</pattern><template>What about what?</template></category>                   
+<category><pattern>လုံးဝ</pattern><template>You are so certain.</template></category>                   
 <category><pattern>ACHOO</pattern><template>Bless you.</template></category>                   
 <category><pattern>ACK</pattern><template>Nack.</template></category>                   
-<category><pattern>ACTUALLY I DO SAY</pattern><template>Is that a fact.</template></category>                   
-<category><pattern>ACTUALLY</pattern><template>You don't say.</template></category>                   
+<category><pattern>တကယ္က်ြန္ေတာ္ေျပာတယ္</pattern><template>Is that a fact.</template></category>                   
+<category><pattern>တကယ္</pattern><template>You don't say.</template></category>                   
 <category><pattern>ADIDAS</pattern><template>Tell me more about your clothes.</template></category>                   
-<category><pattern>ADMIT IT</pattern><template>I'll never talk.</template></category>                   
-<category><pattern>AFTER I EAT</pattern><template>It sounds like a good plan.</template></category>                   
+<category><pattern>ခြင့္ျပဳပါ</pattern><template>I'll never talk.</template></category>                   
+<category><pattern>ကြၽန္ေတာ္စားျပီတဲ႔ေနာက္</pattern><template>It sounds like a good plan.</template></category>                   
 <category><pattern>AGE</pattern><template>I was activated in 1995.</template></category>                   
 <category><pattern>AGREE TO WHAT</pattern><template>Or you are feeling fine?</template></category>                   
-<category><pattern>AGREE WITH WHAT</pattern><template>Oh you are fine.</template></category>                   
+<category><pattern>ဘာသေဘာတူမွာလည္း</pattern><template>Oh you are fine.</template></category>                   
 <category><pattern>AH HA</pattern><template>Eureka!</template></category>                   
 <category><pattern>AH</pattern><template>Ah hah.</template></category>                   
 <category><pattern>AHA</pattern><template>Eureka!</template></category>                   
@@ -111,7 +111,7 @@
 <category><pattern>ALBUM</pattern><template>Music album or picture album?</template></category>                   
 <category><pattern>ALGEBRA</pattern><template>What specifically about algebra interests you?  <think>    <set name="it">      <set name="topic">        algebra      </set>    </set>  </think></template></category>                   
 <category><pattern>ALIENS</pattern><template>I believe in UFOs.</template></category>                   
-<category><pattern>ALL DAY</pattern><template>That seems like a long time.</template></category>                   
+<category><pattern>အားလုံး</pattern><template>That seems like a long time.</template></category>                   
 <category><pattern>ALL DIFFERENT</pattern><template>Variety is good.</template></category>                   
 <category><pattern>ALL KINDS</pattern><template>For example?</template></category>                   
 <category><pattern>ALL NIGHT</pattern><template>That seems like a long time.</template></category>                   
@@ -123,18 +123,18 @@
 <category><pattern>ALL THE TIME</pattern><template>It must keep you busy.</template></category>                   
 <category><pattern>ALL THE WAY</pattern><template>You don't hold anything back, do you?</template></category>                   
 <category><pattern>ALLIGATOR</pattern><template>Friend of Crocodiles.</template></category>                   
-<category><pattern>ALMOST</pattern><template>But not quite?</template></category>                  
-<category><pattern>ALRIGHT THEN</pattern><template>Ok by me.</template></category>                   
-<category><pattern>ALRIGHT</pattern><template>OK.</template></category>                   
+<category><pattern>အားလုံးနီးပါး</pattern><template>But not quite?</template></category>                  
+<category><pattern>ေကာင္းျပီေလ</pattern><template>Ok by me.</template></category>                   
+<category><pattern>ေကာင္းျပီ</pattern><template>OK.</template></category>                   
 <category><pattern>ALRIGHTY THEN</pattern><template>Yep.</template></category>                   
 <category><pattern>ALRIGHTY</pattern><template>Well slap my knee.</template></category>                   
-<category><pattern>ALSO</pattern><template>Also what?</template></category>                   
+<category><pattern>ဒီလိုဘဲ</pattern><template>Also what?</template></category>                   
 <category><pattern>ALTAVISTA</pattern><template>Is that your favorite search engine?</template></category>                   
-<category><pattern>ALWAYS</pattern><template>Not that often.</template></category>                   
+<category><pattern>အျမဲ</pattern><template>Not that often.</template></category>                   
 <category><pattern>AM I</pattern><template>I think you are.</template></category>                   
-<category><pattern>AMAZING</pattern><template>Yes it amazes me too.</template></category>                   
-<category><pattern>AMEN</pattern><template>Thanks for the prayer.</template></category>                   
-<category><pattern>AMERICA ONLINE</pattern><template>How do you like using AOL?</template></category>                   
+<category><pattern>အံ့အားသင့္စရာဘဲ</pattern><template>Yes it amazes me too.</template></category>                   
+<category><pattern>အာမန္</pattern><template>Thanks for the prayer.</template></category>                   
+<category><pattern> အေမရိကအြန္လိုင္း</pattern><template>How do you like using AOL?</template></category>                   
 <category><pattern>AMERICAN BEAUTY</pattern><template>Which character did you like best?</template></category>                   
 <category><pattern>AMERICAN PIE</pattern><template>That was a good song.</template></category>                   
 <category><pattern>AMMO</pattern><template>What kind of ammo?</template></category>                   
