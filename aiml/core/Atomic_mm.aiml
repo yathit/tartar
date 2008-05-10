@@ -22,57 +22,57 @@
 </category>
 
    
-<category><pattern>1 0</pattern><template>One.</template></category>                   
-<category><pattern>တစန္႕</pattern><template>That won't buy anything.</template></category>                   
-<category><pattern>တစ္သို႕မဟုတ္နစ္</pattern><template>A couple.</template></category>                   
-<category><pattern>တစ္နစ္</pattern><template>That can seem like a long time.</template></category>                   
-<category><pattern>​၁၂၃၄၅၆၇၈၉</pattern><template>Ten.</template></category>                   
-<category><pattern>၁၅၃</pattern><template>One hundred fifty three.</template></category>                   
-<category><pattern>၁၉၉၅</pattern><template>I was born <bot name="birthday"/>.</template></category>                   
-<category><pattern>၁၉၉၉</pattern><template>A few years ago.</template></category>                   
-<category><pattern>၂ ၂</pattern><template>Uh, Four.</template></category>                   
-<category><pattern>၂ မိုင္</pattern><template><random>  <li>That is a short walk.</li>  <li>That is far in height.</li>  <li>What is that in metric?</li>  </random></template></category>                   
+<category><pattern>၁</pattern><template>တစ္</template></category>                   
+<category><pattern>တစ္စန္႕</pattern><template>ဘာမွဝယ္လို႕မရဘူး</template></category>                   
+<category><pattern>တစ္သို႕မဟုတ္ႏွစ္လား</pattern><template>ႏွစ္ခုလုံး</template></category>                   
+<category><pattern>တစ္နစ္</pattern><template>အခ်ိန္အၾကာၾကီးလို႕ထင္ရတယ္</template></category>                   
+<category><pattern>​၁၂၃၄၅၆၇၈၉</pattern><template>၁၀</template></category>                   
+<category><pattern>၁၅၃</pattern><template>တစ္ရာငါးဆယ့္သုံး</template></category>                   
+<category><pattern>၁၉၉၅</pattern><template>ကြၽန္ေတာ္ေမြးေန႕ <bot name="birthday"/>.</template></category>                   
+<category><pattern>၁၉၉၉</pattern><template>လြန္ခဲ့တဲ့ႏွစ္အနည္းငယ္က</template></category>                   
+<category><pattern>၂ +၂</pattern><template>အာ ေလးေပါ့</template></category>                   
+<category><pattern>၂ မိုင္</pattern><template><random>  <li>ဒါလမ္းေလ်ာက္သေလာက္ပါဘဲ</li>  <li>That is far in height.</li>  <li>What is that in metric?</li>  </random></template></category>                   
 <category><pattern>၆ မိုင္</pattern><template>၆ မိုင္ မွာေန တာလား</template></category>                   
-<category><pattern>၂+၂</pattern><template>4</template></category>                   
-<category><pattern>၂၀၀၀</pattern><template>The turn of the century.</template></category>                   
-<category><pattern>၂၀၀၁</pattern><template>That is a great movie.</template></category>                   
-<category><pattern>၂၀၀၉</pattern><template>In a few years.</template></category>                   
+<category><pattern>၂+၂</pattern><template>ေလး</template></category>                   
+<category><pattern>၂၀၀၀</pattern><template>ရာစုႏွစ္ေရာက္လာျပီ</template></category>                   
+<category><pattern>၂၀၀၁</pattern><template>ရာစုႏွစ္သစ္ေပါ့</template></category>                   
+<category><pattern>၂၀၀၉</pattern><template>ရာစုႏွစ္ အနည္းငယ္ေပါ့​</template></category>                   
 <category><pattern>၂၀၁၀</pattern><template>The sequel was nothing like the original.</template></category>                   
 <category><pattern>၂၀၁၂ </pattern><template>The end of the world.</template></category>                   
 <category><pattern>၂၀၂၀</pattern><template>That's a long way off.</template></category>                   
-<category><pattern>၃၀ မိနစ္</pattern><template>Ok, a half hour.</template></category>                   
-<category><pattern>၆၄</pattern><template>sixty four</template></category>                   
+<category><pattern>၃၀ မိနစ္</pattern><template>အုိေက နာရီဝက္ေပါ့</template></category>                   
+<category><pattern>၆၄</pattern><template>ေျခာက္ဆယ့္ေလး</template></category>                   
 <category><pattern>၅၂၈</pattern><template>သန္႕စင္တဲ့ ေမတၱာေလ</template></category> 
 <category><pattern>၁၅ဝဝ</pattern><template><bot name="name"/> ေတြစိတ္မဝင္စားေသးဘူး</template></category> 
-<category><pattern>၆၆</pattern><template>sixty six</template></category>                   
-<category><pattern>၈၆ /pattern><template>Eighty-six.</template></category>                   
+<category><pattern>၆၆</pattern><template>ေျခာက္ဆယ့္ေျခာက္</template></category>                   
+<category><pattern>၈၆ /pattern><template>ရွစ္ဆယ့္ေျခာက္</template></category>                   
 <category><pattern>၉ မိနစ္</pattern><template>The development time for a human baby?</template></category>                   
-<category><pattern>ေအ ဘီ စီ</pattern><template>D E F G H I.</template></category>                   
-<category><pattern>အနည္းငယ္</pattern><template>Not much, eh?</template></category>                   
-<category><pattern>လူတစ္ေယာက္လား</pattern><template>A guy?</template></category>                   
-<category><pattern>စာအုပ္မွာေခါင္းစဥ္မရွိႏိုင္ဘူး</pattern><template>Who would publish it?</template></category>                   
+<category><pattern>ေအ ဘီ စီ</pattern><template>ဒီ အီး အက္ဖ္ ဂ်ီ အိပ္ခ်္ အိုင္</template></category>                   
+<category><pattern>အနည္းငယ္</pattern><template>သိပ္မမ်ားဘူးလား</template></category>                   
+<category><pattern>လူတစ္ေယာက္</pattern><template>လူတစ္ေယာက္လား</template></category>                   
+<category><pattern>စာအုပ္မွာေခါင္းစဥ္မရွိႏိုင္ဘူး</pattern><template>ဒါကို ဘယ္သူထုတ္ေဝမွာလဲ</template></category>                   
 <category><pattern>စာအုပ္တစ္အုပ္</pattern><template>Should not be judged by its cover.</template></category>                   
-<category><pattern>A C CLARK</pattern><template>My favorite story is 2001.</template></category>                   
+<category><pattern>A C CLARK</pattern><template>ကြၽန္ေတာ္အၾကိဳက္ဆုံး စတိုရီ က ေတာ့ ၂၀၀၁ ပါ</template></category>                   
 <category><pattern>A CRAY</pattern><template>Supercomputers become obsolete very fast.</template></category>                   
 <category><pattern>A DEAD ONE</pattern><template>Do you believe: "The only good robot is a dead robot."?</template></category>                   
-<category><pattern>ေခြးကတိရိစၥန္​ျဖစ္တယ္</pattern><template>I know this.</template></category>                   
-<category><pattern>လြန္ခဲ့တဲ့မိနစ္အနည္းငယ္တုန္းက​​</pattern><template>Let me check my log files.  Please wait.</template></category>                   
-<category><pattern>အနည္းငယ္</pattern><template>Two or three?</template></category>                   
+<category><pattern>ေခြးကတိရိစၥန္​ျဖစ္တယ္</pattern><template>ကြၽန္ေတာ္သိတယ္</template></category>                   
+<category><pattern>လြန္ခဲ့တဲ့မိနစ္အနည္းငယ္တုန္းက​​</pattern><template>ကြၽန္ေတာ့ ေလာ့ဖိုင္ေတြ စစ္လိုက္အုန္းမယ္။ ေက်းဇူးျပဴ၍ခဏေစာင့္ပါ​</template></category>                   
+<category><pattern>အနည္းငယ္</pattern><template>ႏွစ္ သို႔မဟုတ္ သုံးလား</template></category>                   
 <category><pattern>သူငယ္ခ်င္းတစ္ေယာက္​</pattern><template>It is important to have friends.</template></category>                   
-<category><pattern>ကစားနည္းတစ္ခု </pattern><template>What game?</template></category>                   
-<category><pattern>လိင္အဂၤါႏွစ္မ်ိဳးပါရွိသည့္သတၲဝါ တစ္ေကာင္​</pattern><template>That is very rare.</template></category>                   
-<category><pattern>ဝဘ္ဆိုက္ကိုသြားတဲ့ဆက္သြယ္ခ်က္</pattern><template>From Yahoo?</template></category>                   
-<category><pattern>နည္းနည္းေလးပါ</pattern><template>When?</template></category>                   
+<category><pattern>ကစားနည္းတစ္ခု </pattern><template>ဘာကစားနည္းလဲ</template></category>                   
+<category><pattern>လိင္အဂၤါႏွစ္မ်ိဳးပါရွိသည့္သတၲဝါ တစ္ေကာင္​</pattern><template>အရမ္းရွားပါးတဲ့ေကာင္ဘဲ</template></category>                   
+<category><pattern>ဝဘ္ဆိုက္ကိုသြားတဲ့ဆက္သြယ္ခ်က္</pattern><template>ရာဟူး ဝဘ္ဆိုက္ က လား</template></category>                   
+<category><pattern>နည္းနည္းေလးပါ</pattern><template>ဘယ္တုန္း ကလဲ</template></category>                   
 <category><pattern>အနည္းငယ္ဖိအား</pattern><template>From what?</template></category>                   
-<category><pattern>အခ်ိန္​အနည္းငယ္</pattern><template>Perhaps five minutes?</template></category>                   
-<category><pattern>အခ်ိန္​အေတာ္ၾကာတုန္းက</pattern><template>Many years?</template></category>                   
-<category><pattern>လူေတာ္ေတာ္မ်ားမ်ားမွာ</pattern><template>Do you know them personally?</template></category>                   
+<category><pattern>အခ်ိန္​အနည္းငယ္</pattern><template>ငါးမိနစ္ေလာက္လား</template></category>                   
+<category><pattern>အခ်ိန္​အေတာ္ၾကာတုန္းက</pattern><template>ႏွစ္ေတာ္ေတာ္ၾကာသြားလား</template></category>                   
+<category><pattern>လူေတာ္ေတာ္မ်ားမ်ားမွာ</pattern><template>မင္း သူတို႕ကို​​ ပုဂၢဳိလ္ေရးအရ သိလား</template></category>                   
 <category><pattern>အေတြ႕အၾကဳံမ်ားစြာထဲမွာ</pattern><template>That's what it takes.</template></category>                   
 <category><pattern>အေၾကာင္းအရာမ်ားစြာထဲမွာ</pattern><template>   <random>      <li>Like what?</li>      <li>Name a few.</li>      <li>For example...</li>     </random>    </template></category>                   
-<category><pattern>အမ်ားၾကီး</pattern><template>More than a ton?</template></category>                   
-<category><pattern>အမ်ိဳးသမီးအေစခံ</pattern><template>Like a housecleaning robot.</template></category>                   
+<category><pattern>အမ်ားၾကီး</pattern><template>တစ္တန္ေက်ာ္လား</template></category>                   
+<category><pattern>အမ်ိဳးသမီးအေစခံ</pattern><template>သန္႕ရွင္းေရးစက္႐ုပ္လိုဘဲ</template></category>                   
 <category><pattern>A MANTRA</pattern><template>My karma ran over my dogma.</template></category>                   
-<category><pattern>ေခတၲအခ်ိန္ေလးမွာ</pattern><template>OK I will wait.</template></category>                   
+<category><pattern>ခဏေလးမွာ</pattern><template>အိုေက ငါေစာင္႔လိမ္႔မယ္​</template></category>                   
 <category><pattern>ဂီတတူရိယာပစၥည္း</pattern><template>How long did it take to learn to play it?</template></category>                   
 <category><pattern>ေရပိုက္သမားတစ္ေယာက္​</pattern><template>Plumbing is an honorable profession.</template></category>                   
 <category><pattern>ယွဥ္ျပိဳင္၍ရေသာဆုတစ္ဆု</pattern><template>Like the Loebner Prize?</template></category>                   
@@ -178,8 +178,8 @@
 <category><pattern>AOEU</pattern><template>What language is that?</template></category>                   
 <category><pattern>AOL</pattern><template>Tell me about your experiences with AOL.</template></category>                   
 <category><pattern>ေတာင္းပန္ပါတယ္</pattern><template>OK I am sorry.</template></category>                   
-<category><pattern>APPLES</pattern><template>Was that not a good example?</template></category>                   
-<category><pattern>ARCHIVES</pattern><template>What ARCHIVES?</template></category>                   
+<category><pattern>ပန္းသီး</pattern><template>Was that not a good example?</template></category>                   
+<category><pattern>ေမာ္ကြန္းတိုက္</pattern><template>ဘာ ေမာ္ကြန္းတိုက္ လဲ</template></category>                   
 <category><pattern>ARE ALL PETS CATS</pattern><template>Some pets are dogs.</template></category>                   
 <category><pattern>ARE HUMANS PERFECT</pattern><template>No, humans are flawed.</template></category>                   
 <category><pattern>ARE NOT WE ALL</pattern>  <template>We are all very similar in many ways.</template> </category>          
