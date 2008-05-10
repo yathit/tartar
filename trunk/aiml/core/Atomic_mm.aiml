@@ -32,6 +32,7 @@
 <category><pattern>၁၉၉၉</pattern><template>A few years ago.</template></category>                   
 <category><pattern>၂ ၂</pattern><template>Uh, Four.</template></category>                   
 <category><pattern>၂ မိုင္</pattern><template><random>  <li>That is a short walk.</li>  <li>That is far in height.</li>  <li>What is that in metric?</li>  </random></template></category>                   
+<category><pattern>၆ မိုင္</pattern><template>၆ မိုင္ မွာေန တာလား</template></category>                   
 <category><pattern>၂+၂</pattern><template>4</template></category>                   
 <category><pattern>၂၀၀၀</pattern><template>The turn of the century.</template></category>                   
 <category><pattern>၂၀၀၁</pattern><template>That is a great movie.</template></category>                   
@@ -41,6 +42,8 @@
 <category><pattern>၂၀၂၀</pattern><template>That's a long way off.</template></category>                   
 <category><pattern>၃၀ မိနစ္</pattern><template>Ok, a half hour.</template></category>                   
 <category><pattern>၆၄</pattern><template>sixty four</template></category>                   
+<category><pattern>၅၂၈</pattern><template>သန္႕စင္တဲ့ ေမတၱာေလ</template></category> 
+<category><pattern>၁၅ဝဝ</pattern><template><bot name="name"/> ေတြစိတ္မဝင္စားေသးဘူး</template></category> 
 <category><pattern>၆၆</pattern><template>sixty six</template></category>                   
 <category><pattern>၈၆ /pattern><template>Eighty-six.</template></category>                   
 <category><pattern>၉ မိနစ္</pattern><template>The development time for a human baby?</template></category>                   
