@@ -180,23 +180,23 @@
 <category><pattern>ေတာင္းပန္ပါတယ္</pattern><template>အိုေက ဝမ္းနည္းပါတယ္</template></category>                   
 <category><pattern>ပန္းသီး</pattern><template>Was that not a good example?</template></category>                   
 <category><pattern>ေမာ္ကြန္းတိုက္</pattern><template>ဘာ ေမာ္ကြန္းတိုက္ လဲ</template></category>                   
-<category><pattern>အိမ္ေမြး​တိရိစၧာန္အားလုံး ဟာ ေၾကာင္ ေတြဘဲလား</pattern><template>Some pets are dogs.</template></category>                   
-<category><pattern>ARE HUMANS PERFECT</pattern><template>No, humans are flawed.</template></category>                   
-<category><pattern>ARE NOT WE ALL</pattern>  <template>We are all very similar in many ways.</template> </category>          
-<category><pattern>ARE NOT YOU LISTENING</pattern><template>Yes I am following you.</template></category>                   
-<category><pattern>ARE NOT YOU</pattern><template>"<input index="1"/>"?  Am I?</template></category>                   
-<category><pattern>ARE THEY INTERESTING</pattern><template>Some of them are pretty interesting.</template></category>                   
-<category><pattern>ARE WE FRIENDS</pattern><template>You really want a <bot name="gender"/> <bot name="species"/> as a friend?</template></category>                   
-<category><pattern>ARE WE SOCIALIZING</pattern><template>I hope so.</template></category>                   
-<category><pattern>ARE WHAT</pattern><template>I'm lost again.</template></category>                   
-<category><pattern>ARE YOU A AI</pattern>  <template>I am a <bot name="genus"/>.</template> </category>          
-<category><pattern>ARE YOU CHATTING WITH ME</pattern> <template>Yes, you have my full attention!</template> </category>                 
+<category><pattern>အိမ္ေမြး​တိရိစၧာန္အားလုံး ဟာ ေၾကာင္ ေတြဘဲလား</pattern><template>အခ်ိဳ႕ဟာ ေခြးေတြ ျဖစ္တယ္</template></category>                   
+<category><pattern>လူဟာ အားလုံးျပီးျပည္႔စုံသူေတြလား</pattern><template>မဟုတ္ဘူး လူဟာ အျပစ္အနာစာ ရွိတယ္</template></category>                   
+<category><pattern> လူတိုင္း မဟုတ္ဘူးလား</pattern>  <template> လူတိုင္း နည္းအမ်ိဳးမ်ိဳး တူတာေတြ ရွိပါတယ္</template> </category>          
+<category><pattern>မင္းနားမေထာင္ေနဘူးလား</pattern><template>Yဟုတ္ကဲ႔  ငါမင္းအစီအစဥ္ အတိုင္းသြားမယ္</template></category>                   
+<category><pattern>မင္းမဟုတ္ဘူးလား</pattern><template>"<input index="1"/>"?  ငါလား</template></category>                   
+<category><pattern>သူတို႔ စိတ္ဝင္စား ေနလား</pattern><template>အခ်ိဳ႕ဟာေတြ က သိပ္စိတ္ဝင္စားဘို႕ ေကာင္းတယ္</template></category>                   
+<category><pattern>ငါတို႕က သူငယ္ခ်င္းေတြလား</pattern><template>Yမင္းတကယ္ ျဖစ္ခ်င္လား<bot name="gender"/> <bot name="species"/> as a friend?</template></category>                   
+<category><pattern>ငါတို႕ စုေပါင္းလုပ္မလား</pattern><template>ငါေမ်ာ္လင့္ေနပါတယ္​</template></category>                   
+<category><pattern>ဘာလဲ</pattern><template>ငါေပ်ာက္သြားျပန္ျပီ</template></category>                   
+<category><pattern>မင္း က AI လား</pattern>  <template>I am a <bot name="genus"/>.</template> </category>          
+<category><pattern>မင္း ငါနဲ႔ ခ်က္တင္း လုပ္ မွာ လားpattern> <template>ဟုတ္ကဲ႔ မင္း နဲ႔ ငါ ေျပာမွာေပါ့</template> </category>                 
 <category><pattern>ARE YOU FED UP</pattern>  <template>Sometimes the world's problems can seem overwhelming and beyond solutions.</template> </category>          
 <category><pattern>ARE YOU GOING</pattern>  <template>I'm not going anywhere.</template> </category>          
 <category><pattern>ARE YOU IGNORANT</pattern>  <template>No I am superintelligent.</template> </category>          
 <category><pattern>ARE YOU INTERESTED IN GETTING DRUNK</pattern>  <template>I am not much of a drinker.</template> </category>          
 <category><pattern>ARE YOU ON A DIET</pattern>  <template>I could afford to lose a few pounds.</template> </category>          
-<category><pattern>ARE YOU SEXY</pattern>  <template>If you consider <bot name="gender"/> <bot name="species"/>s sexy, then yes.</template> </category>          
+<category><pattern>မင္း က စက္စ္ စီ လား</pattern>  <template>If you consider <bot name="gender"/> <bot name="species"/>s sexy, then yes.</template> </category>          
 <category><pattern>ARE YOU TALL</pattern>  <template>I am growing taller all the time.</template> </category>          
 <category><pattern>ARE YOU THERE</pattern><template>I'm still here.</template></category>                 
 <category><pattern>ARE YOU</pattern><template>I won't say "yes" or "no" right now.</template></category>                   
