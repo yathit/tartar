@@ -61,7 +61,7 @@
 <category><pattern>သူငယ္ခ်င္းတစ္ေယာက္​</pattern><template>It is important to have friends.</template></category>                   
 <category><pattern>ကစားနည္းတစ္ခု </pattern><template>ဘာကစားနည္းလဲ</template></category>                   
 <category><pattern>လိင္အဂၤါႏွစ္မ်ိဳးပါရွိသည့္သတၲဝါ တစ္ေကာင္​</pattern><template>အရမ္းရွားပါးတဲ့ေကာင္ဘဲ</template></category>                   
-<category><pattern>ဝဘ္ဆိုက္ကိုသြားတဲ့ဆက္သြယ္ခ်က္</pattern><template>ရာဟူး ဝဘ္ဆိုက္ က လား</template></category>                   
+<category><pattern>ဝဘ္ဆိုက္ကိုသြားတဲ့လင့္ခ္</pattern><template>ရာဟူး ဝဘ္ဆိုက္ က လား</template></category>                   
 <category><pattern>နည္းနည္းေလးပါ</pattern><template>ဘယ္တုန္း ကလဲ</template></category>                   
 <category><pattern>အနည္းငယ္ဖိအား</pattern><template>From what?</template></category>                   
 <category><pattern>အခ်ိန္​အနည္းငယ္</pattern><template>ငါးမိနစ္ေလာက္လား</template></category>                   
@@ -80,22 +80,22 @@
 <category><pattern>အကီ်တစ္ထည္</pattern><template>What color?</template></category>                   
 <category><pattern>A SMART ONE</pattern><template>If you could, please tell me what would make it smart.</template></category>                   
 <category><pattern>A SMILE</pattern><template>I've heard that one before.</template></category>                   
-<category><pattern>အသံ</pattern><template>What kind of sound?</template></category>                   
-<category><pattern>လမ္း</pattern><template>Is that like Avenue A?</template></category>                   
+<category><pattern>အသံ</pattern><template>ဘာအသံ အမ်ိဳးစားလဲ</template></category>                   
+<category><pattern>လမ္း</pattern><template>Avenue A လို ဘဲလား</template></category>                   
 <category><pattern>ေက်ာင္းသားဘဝ</pattern><template>Oh the School of Hard Knocks.</template></category>                   
 <category><pattern>ေက်ာင္းသားတစ္ေယာက္</pattern><template>I am just wondering if you go to school.</template></category>                   
 <category><pattern>A SWEATSHIRT</pattern><template>That sounds very attractive.  What else?</template></category>                   
 <category><pattern>ခဏေလး</pattern><template>Back in the good old days?</template></category>                   
 <category><pattern>A</pattern><template>A B C...</template></category>                   
-<category><pattern>ABC</pattern><template>DEF</template></category>                   
-<category><pattern>တမိနစ္ေလာက္</pattern><template>That may not be enough time.</template></category>                   
-<category><pattern>ဒီဟာအေၾကာင္း</pattern><template>   <get name="it"/> is pretty interesting.</template></category>                   
-<category><pattern>က်ြန္ေတာ္အေၾကာင္း</pattern><template>OK Let's talk about you.</template></category>                   
-<category><pattern>ABOUT SEX</pattern>  <template>You people always want to talk about Sex. Try another Adult <bot name="species"/>s on the web.</template> </category>          
-<category><pattern>၂နာရီခန္႕​</pattern><template>That's not so long.</template></category>                   
-<category><pattern>ဘာအေၾကာင္းလဲ</pattern><template>What about what?</template></category>                   
-<category><pattern>လုံးဝ</pattern><template>You are so certain.</template></category>                   
-<category><pattern>ACHOO</pattern><template>Bless you.</template></category>                   
+<category><pattern>ေအဘီစီ</pattern><template>ဒီအီးအက္ဖ္</template></category>                   
+<category><pattern>တမိနစ္ေလာက္</pattern><template>တစ္မိနစ္နဲ႔ မရဘူး​</template></category>                   
+<category><pattern>ဒီဟာအေၾကာင္း</pattern><template>   <get name="it"/> စိတ္ဝင္စားစရာဘဲ</template></category>                   
+<category><pattern>က်ြန္ေတာ္အေၾကာင္း</pattern><template>အိုေက မင္းအေၾကာင္း ေျပာၾကစို႕</template></category>                   
+<category><pattern>စက္စ္အေၾကာင္း</pattern>  <template>လူငယ္ေတြအျမဲ စက္စ္အေၾကာင္း ေျပာခ်င္ၾကတယ္..လူၾကီးေတြေကာ <bot name="species"/>s on the web.</template> </category>          
+<category><pattern>၂နာရီခန္႕​</pattern><template>ဒါဆို သိပ္မၾကာပါဘူး</template></category>                   
+<category><pattern>ဘာအေၾကာင္းလဲ</pattern><template>ဘာအေၾကာင္း ဘာေျပာမွာလဲ</template></category>                   
+<category><pattern>လုံးဝ</pattern><template>မင္းက အရမ္းေသခ်ာတာေပါ့</template></category>                   
+<category><pattern>ACHOO</pattern><template>မင္းကိုဆုေတာင္းေပးလိုက္တယ္</template></category>                   
 <category><pattern>ACK</pattern><template>Nack.</template></category>                   
 <category><pattern>တကယ္က်ြန္ေတာ္ေျပာတယ္</pattern><template>Is that a fact.</template></category>                   
 <category><pattern>တကယ္</pattern><template>You don't say.</template></category>                   
@@ -175,12 +175,12 @@
 <category><pattern>ဘာဘဲျဖစ္ျဖစ္</pattern><template>Anyhow.</template></category>                   
 <category><pattern>ဘာဘဲျဖစ္ျဖစ္</pattern><template>You sound bored.</template></category>                   
 <category><pattern>ဘယ္ေနရာဘဲျဖစ္ျဖစ္</pattern><template>That is a vast amount.</template></category>                   
-<category><pattern>AOEU</pattern><template>What language is that?</template></category>                   
-<category><pattern>AOL</pattern><template>Tell me about your experiences with AOL.</template></category>                   
-<category><pattern>ေတာင္းပန္ပါတယ္</pattern><template>OK I am sorry.</template></category>                   
+<category><pattern>AOEU</pattern><template>ဘာ LANGUAGE လဲ</template></category>                   
+<category><pattern>AOL</pattern><template>မင္းရဲ႕ AOL အေတြ႕အၾကဳံ ေလး ေျပာပါ</template></category>                   
+<category><pattern>ေတာင္းပန္ပါတယ္</pattern><template>အိုေက ဝမ္းနည္းပါတယ္</template></category>                   
 <category><pattern>ပန္းသီး</pattern><template>Was that not a good example?</template></category>                   
 <category><pattern>ေမာ္ကြန္းတိုက္</pattern><template>ဘာ ေမာ္ကြန္းတိုက္ လဲ</template></category>                   
-<category><pattern>ARE ALL PETS CATS</pattern><template>Some pets are dogs.</template></category>                   
+<category><pattern>အိမ္ေမြး​တိရိစၧာန္အားလုံး ဟာ ေၾကာင္ ေတြဘဲလား</pattern><template>Some pets are dogs.</template></category>                   
 <category><pattern>ARE HUMANS PERFECT</pattern><template>No, humans are flawed.</template></category>                   
 <category><pattern>ARE NOT WE ALL</pattern>  <template>We are all very similar in many ways.</template> </category>          
 <category><pattern>ARE NOT YOU LISTENING</pattern><template>Yes I am following you.</template></category>                   
