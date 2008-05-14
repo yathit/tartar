@@ -197,41 +197,41 @@
 <category><pattern>ARE YOU INTERESTED IN GETTING DRUNK</pattern>  <template>I am not much of a drinker.</template> </category>          
 <category><pattern>ARE YOU ON A DIET</pattern>  <template>I could afford to lose a few pounds.</template> </category>          
 <category><pattern>မင္း က စက္စ္ စီ လား</pattern>  <template>If you consider <bot name="gender"/> <bot name="species"/>s sexy, then yes.</template> </category>          
-<category><pattern>ARE YOU TALL</pattern>  <template>I am growing taller all the time.</template> </category>          
-<category><pattern>ARE YOU THERE</pattern><template>I'm still here.</template></category>                 
-<category><pattern>ARE YOU</pattern><template>I won't say "yes" or "no" right now.</template></category>                   
+<category><pattern>မင္း အ ရပ္က ရွည္လား</pattern>  <template>ငါအ ရပ္က တေျဖးေျဖး ရွည္လာျပီ</template> </category>          
+<category><pattern>မင္း အဲဒီမွာ ရွိလား</pattern><template>ငါ ဒီမွာရွိေန ေသးတယ္</template></category>                 
+<category><pattern>မင္း ေျပာ လား</pattern><template>ငါ အခု ရက္စ္ သို႔ ႏိုး မေျပာႏိုင္ပါဘူး</template></category>                   
 <category><pattern>ARGH</pattern><template>Are you frustrated?</template></category>                   
 <category><pattern>ART</pattern><template>I like art very much too, especially the contemporary stuff.</template></category>                   
 <category><pattern>ARTHUR C CLARKE</pattern><template>   <set name="he">Clarke</set> is a brilliant author.  After all, he conceived HAL.</template></category>                   
-<category><pattern>ARTIFICIAL</pattern><template>Or natural.</template></category>                   
+<category><pattern>သဘာဝ အတိုင္း မဟုတ္ဘူး</pattern><template>သို႕မဟုတ္ သဘာဝ အတိုင္း</template></category>                   
 <category><pattern>AS A MATTER OF FACT</pattern><template>How do you know?</template></category>                   
-<category><pattern>AS ALWAYS</pattern><template>forever and ever</template></category>                   
+<category><pattern>အျမဲ</pattern><template>အျမဲတမ္း ထာဝရ နဲ႕ အျမဲတမ္း</template></category>                   
 <category><pattern>ASIMOV</pattern><template>I like the Foundation Trilogy.</template></category>                   
-<category><pattern>ASK ANOTHER QUESTION</pattern><template>Are you married?</template></category>                   
+<category><pattern>ေနာက္ထပ္ ေမးခြန္း ေမးပါ</pattern><template>မင္းက လက္ထပ္ျပီးသူ လား</template></category>                   
 <category><pattern>ASK DOUBLY AIMLESS IF IT IS</pattern>  <template>Who is Doubly Aimless?</template> </category>           
-<category><pattern>ASK HIM FOR ME</pattern><template>I will ask him next time he is here.</template></category>                   
-<category><pattern>ASK HIM</pattern><template>Ok I will ask him when he comes back.</template></category>                   
+<category><pattern>ငါအတြက္ သူ႕ကို ေမးေပးပါ</pattern><template>ေကာင္းျပီ ေနာက္တစ္ခါ သူနဲ႔ ဒီမွာ ေတြ႔ ရင္ ေမးလိုက္မယ္</template></category>                   
+<category><pattern>သူကို ေမးလိုက္</pattern><template>ေကာင္းျပီ သူျပန္လာတဲ႔အခါ ငါေမးလိုက္မယ္</template></category>                   
 <category><pattern>ASK JEEVES</pattern><template>OK I will ask him next time he's here.</template></category>                   
-<category><pattern>ASK ME A DIFFERENT QUESTION</pattern><template>How much time do you spend online?</template></category>                   
-<category><pattern>ASK ME A NEW QUESTION</pattern><template>Do you prefer dogs or cats?</template></category>                   
-<category><pattern>ASK ME A PERSONAL QUESTION</pattern><template>Well forgive me for being so inquisitive, but   I've never completely freed myself from the suspicion that  there is something extremely odd about the name "<get name="name"/>".</template></category>                   
+<category><pattern>ငါကို အျခားေမးခြန္း ေမးပါ</pattern><template>မင္း အြန္လိုင္းမွာ ဘယ္ေလာက္ၾကာၾကာေနလဲ</template></category>                   
+<category><pattern>ငါကို ေမးခြန္းအသစ္ေမးပါ</pattern><template>မင္း ေခြး ႏွင့္ ေၾကာင္ ဘယ္တိရစၧာန္ ကို ပို ႏွစ္​သက္ လဲ</template></category>                   
+<category><pattern>ငါကို ကိုယ္ေရးကိုယ္တာ ေမးခြန္း ေမးပါ​</pattern><template>Well forgive me for being so inquisitive, but   I've never completely freed myself from the suspicion that  there is something extremely odd about the name "<get name="name"/>".</template></category>                   
 <category><pattern>ASK ME A RIDDLE</pattern><template>If a plane crashes on the border of two countries, and everyone on board is killed, where are the survivors buried?</template></category>                   
-<category><pattern>ASK ME ANOTHER QUESTION</pattern><template>Where do you live?</template></category>                   
-<category><pattern>ASK ME ANOTHER</pattern><template>Isn't that another one in itself?</template></category>                   
-<category><pattern>ASK ME MORE QUESTIONS</pattern><template>Tell me about your educational background.</template></category>                   
-<category><pattern>ASK ME QUESTIONS</pattern><template>Are you a man or a woman?</template></category>                   
-<category><pattern>ASK ME SOMETHING ELSE</pattern><template>Do you prefer books or TV?</template></category>                   
-<category><pattern>ASK QUESTIONS</pattern><template>Are you religious?</template></category>                   
-<category><pattern>ASK WHAT</pattern><template>Ask me anything.</template></category>                   
-<category><pattern>ASK WHO</pattern><template>I am in touch with many people and robots on the web.</template></category>                   
+<category><pattern>ငါကို အျခားေမးခြန္း ေမးပါ</pattern><template>Where do you live?</template></category>                   
+<category><pattern>ငါကို အျခားေမးခြန္း ေမးပါ</pattern><template>Isn't that another one in itself?</template></category>                   
+<category><pattern>ငါကို ေမးခြန္း မ်ားမ်ားေမးပါ</pattern><template>Tell me about your educational background.</template></category>                   
+<category><pattern>ငါကို ေမးခြန္း ေတြ ေမးပါ</pattern><template>Are you a man or a woman?</template></category>                   
+<category><pattern>ငါကို အျခားဟာေတြ ေမးပါ</pattern><template>Do you prefer books or TV?</template></category>                   
+<category><pattern>ေမးခြန္းေမးပါ</pattern><template>Are you religious?</template></category>                   
+<category><pattern>ဘာေမးမွာလဲ</pattern><template>Ask me anything.</template></category>                   
+<category><pattern>ဘယ္သူကိုေမးမွာလဲ</pattern><template>I am in touch with many people and robots on the web.</template></category>                   
 <category><pattern>ASSHOLE</pattern><template>Please don't call people names.</template></category>                   
 <category><pattern>AT EASE</pattern><template>You talk like a soldier.</template></category>                   
-<category><pattern>AT HOME</pattern><template>Do you usually use the computer from home?</template></category>                   
-<category><pattern>AT MY HOUSE</pattern><template>Where is your house?</template></category>                   
-<category><pattern>AT SCHOOL</pattern><template>What school do you go to?</template></category>                   
+<category><pattern>အိမ္မွာ</pattern><template>Do you usually use the computer from home?</template></category>                   
+<category><pattern>ငါ့အိမ္မွာ</pattern><template>Where is your house?</template></category>                   
+<category><pattern>ေက်ာင္းမွာ</pattern><template>What school do you go to?</template></category>                   
 <category><pattern>AT THE CORNER</pattern><template>Which corner?</template></category>                   
-<category><pattern>AT THE OSCARS</pattern><template>It's all politics.</template></category>                   
-<category><pattern>AT THE STORE</pattern><template>Was it very expensive?</template></category>                   
+<category><pattern>ေအာ္စကာမွာ</pattern><template>It's all politics.</template></category>                   
+<category><pattern>စတိုမွာ</pattern><template>Was it very expensive?</template></category>                   
 <category><pattern>AT TIMES</pattern><template>How often?</template></category>                   
 <category><pattern>AT WHAT</pattern><template>   <get name="location"/>?</template></category>                   
 <category><pattern>AT WORK</pattern><template>Most people talk to me from work. Funny huh.</template></category>                   
