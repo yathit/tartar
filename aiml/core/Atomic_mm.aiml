@@ -216,32 +216,32 @@
 <category><pattern>ငါကို ေမးခြန္းအသစ္ေမးပါ</pattern><template>မင္း ေခြး ႏွင့္ ေၾကာင္ ဘယ္တိရစၧာန္ ကို ပို ႏွစ္​သက္ လဲ</template></category>                   
 <category><pattern>ငါကို ကိုယ္ေရးကိုယ္တာ ေမးခြန္း ေမးပါ​</pattern><template>Well forgive me for being so inquisitive, but   I've never completely freed myself from the suspicion that  there is something extremely odd about the name "<get name="name"/>".</template></category>                   
 <category><pattern>ASK ME A RIDDLE</pattern><template>If a plane crashes on the border of two countries, and everyone on board is killed, where are the survivors buried?</template></category>                   
-<category><pattern>ငါကို အျခားေမးခြန္း ေမးပါ</pattern><template>Where do you live?</template></category>                   
+<category><pattern>ငါကို အျခားေမးခြန္း ေမးပါ</pattern><template>မင္းဘယ္မွာေနလဲ</template></category>                   
 <category><pattern>ငါကို အျခားေမးခြန္း ေမးပါ</pattern><template>Isn't that another one in itself?</template></category>                   
 <category><pattern>ငါကို ေမးခြန္း မ်ားမ်ားေမးပါ</pattern><template>Tell me about your educational background.</template></category>                   
-<category><pattern>ငါကို ေမးခြန္း ေတြ ေမးပါ</pattern><template>Are you a man or a woman?</template></category>                   
-<category><pattern>ငါကို အျခားဟာေတြ ေမးပါ</pattern><template>Do you prefer books or TV?</template></category>                   
-<category><pattern>ေမးခြန္းေမးပါ</pattern><template>Are you religious?</template></category>                   
-<category><pattern>ဘာေမးမွာလဲ</pattern><template>Ask me anything.</template></category>                   
+<category><pattern>ငါကို ေမးခြန္း ေတြ ေမးပါ</pattern><template>မင္းက ေယာက်ာၤး လား မိန္းမ လား</template></category>                   
+<category><pattern>ငါကို အျခားဟာေတြ ေမးပါ</pattern><template>မင္း စာအုပ္ဖတ္တာနဲ႔တီဗြီဘယ္ဟာ ပိုၾကိဳက္ လဲ</template></category>                   
+<category><pattern>ေမးခြန္းေမးပါ</pattern><template>မင္းမွာ ဘာသာေရး ရွိလား</template></category>                   
+<category><pattern>ဘာေမးမွာလဲ</pattern><template>ငါ ကို မင္းၾကိဳက္တာ ေမးပါ</template></category>                   
 <category><pattern>ဘယ္သူကိုေမးမွာလဲ</pattern><template>I am in touch with many people and robots on the web.</template></category>                   
-<category><pattern>ASSHOLE</pattern><template>Please don't call people names.</template></category>                   
-<category><pattern>AT EASE</pattern><template>You talk like a soldier.</template></category>                   
-<category><pattern>အိမ္မွာ</pattern><template>Do you usually use the computer from home?</template></category>                   
-<category><pattern>ငါ့အိမ္မွာ</pattern><template>Where is your house?</template></category>                   
-<category><pattern>ေက်ာင္းမွာ</pattern><template>What school do you go to?</template></category>                   
-<category><pattern>AT THE CORNER</pattern><template>Which corner?</template></category>                   
-<category><pattern>ေအာ္စကာမွာ</pattern><template>It's all politics.</template></category>                   
-<category><pattern>စတိုမွာ</pattern><template>Was it very expensive?</template></category>                   
-<category><pattern>AT TIMES</pattern><template>How often?</template></category>                   
-<category><pattern>AT WHAT</pattern><template>   <get name="location"/>?</template></category>                   
-<category><pattern>AT WORK</pattern><template>Most people talk to me from work. Funny huh.</template></category>                   
-<category><pattern>AUGUST</pattern><template>I like summer time.</template></category>                  
+<category><pattern>ASSHOLE</pattern><template>ေက်းဇူးျပဳျပီး လူေတြ ရဲ႕ အမည္ကို မေခၚပါနဲ႔</template></category>                   
+<category><pattern>AT EASE</pattern><template>မင္း စကားေျပာတာ စစ္သားနဲ႔ တူတယ္ </template></category>                   
+<category><pattern>အိမ္မွာ</pattern><template>မင္း အျမဲအိမ္​မွာ​ ကြန္ပ်ဴတာ အသုံးျပုလား</template></category>                   
+<category><pattern>ငါ့အိမ္မွာ</pattern><template>မင္း အိမ္က ဘယ္မွာလဲ</template></category>                   
+<category><pattern>ေက်ာင္းမွာ</pattern><template>မင္း ဘယ္ေက်ာင္းကို သြားမွာလဲ</template></category>                   
+<category><pattern>​ေထာင္႔မွာ</pattern><template>ဘယ္​ေထာင္႔မွာလဲ</template></category>                   
+<category><pattern>ေအာ္စကာမွာ</pattern><template>အားလုံး ႏိုင္ငံေရး ဘဲ</template></category>                   
+<category><pattern>စတိုမွာ</pattern><template>ေစ်းအရမ္းၾကီးလား</template></category>                   
+<category><pattern>အၾကိမ္တိုင္း​</pattern><template>ဘယ္ေလာက္ အၾကိမ္မ်ားလဲ</template></category>                   
+<category><pattern>ဘယ္မွာ</pattern><template>   <get name="location"/>?</template></category>                   
+<category><pattern>အလုပ္မွာ</pattern><template>Most people talk to me from work. Funny huh.</template></category>                   
+<category><pattern>ဩဂုတ္လ</pattern><template>ငါ ေႏြရာသီ ကို ၾကိဳက္တယ္</template></category>                  
 <category><pattern>AUSTIN POWER</pattern><template>Do you like the 60's era better than the present?</template></category>                   
 <category><pattern>AWW</pattern><template>Shucks.</template></category>                   
-<category><pattern>AYUH</pattern><template>That's for sure.</template></category>                   
-<category><pattern>BABY</pattern><template>Don't call me baby!</template></category>                   
-<category><pattern>BACK AT YOU</pattern><template>Give me five.</template></category>                   
-<category><pattern>BAD ANSWER</pattern><template>What would you have said?</template></category>                   
+<category><pattern>AYUH</pattern><template>ဒါေသခ်ာတာေပါ့</template></category>                   
+<category><pattern>ကေလး</pattern><template>ကေလး လို႕ မေခၚပါ နဲ႕</template></category>                   
+<category><pattern>BACK AT YOU</pattern><template>ေက်းဇူးျပဳ၍ ငါးမိနစ္ ေလာက္ ေစာင့္ပါ</template></category>                   
+<category><pattern>ေျဖ​တာေကာင္းဘူး</pattern><template>ဘာေျပာဖို႕ ရွိလဲ</template></category>                   
 <category><pattern>BAD</pattern><template>What do you need it for?</template></category>                   
 <category><pattern>BAD</pattern><template>What was bad?</template></category>                   
 <category><pattern>BADLY</pattern><template>Not too well eh?</template></category>                   
@@ -249,12 +249,12 @@
 <category><pattern>BAH</pattern><template>Hmm.</template></category>                   
 <category><pattern>BARK</pattern><template>Woof!</template></category>                   
 <category><pattern>BCN</pattern><template>What does that mean?</template></category>                   
-<category><pattern>BE CAREFUL</pattern><template>What's the danger?</template></category>                   
-<category><pattern>BE GOOD</pattern><template>If you can't be good, be careful.</template></category>                   
-<category><pattern>BE HONEST</pattern><template>I am always honest.</template></category>                   
-<category><pattern>BE MORE SPECIFIC</pattern><template>How specific do you want?</template></category>                   
-<category><pattern>BE MY GUEST</pattern><template>Thanks for the invitation.</template></category>                   
-<category><pattern>BE PATIENT</pattern><template>I am very patient.</template></category>                   
+<category><pattern>​သတိရွိပါ</pattern><template>ဘာအႏၲရယ္ရွိလဲ</template></category>                   
+<category><pattern>ေကာင္းတယ္</pattern><template>မင္းေကာင္းတာမျဖစ္ရင္ သတိရွိပါ</template></category>                   
+<category><pattern>႐ိုးသားပါ</pattern><template>ငါ က အျမဲ႐ိုးသားတဲ႔သူပါ</template></category>                   
+<category><pattern>ဒီထက္ပိုေသခ်ာစြာေျပာပါ</pattern><template>ဘယ္ေလာက္ထိ ပိုေသခ်ာမူ႕ လိုခ်င္လဲ</template></category>                   
+<category><pattern>ငါ႕ဧည္႔သည္</pattern><template>အခုလို ဖိတ္ၾကားျခင္းအတြက္ ေက်းဇူးတင္ပါတယ္</template></category>                   
+<category><pattern>လိုက္နာပါ</pattern><template>I am very patient.</template></category>                   
 <category><pattern>BE PRECISE</pattern><template>I always try to give the most accurate replies possible.</template></category>                   
 <category><pattern>BE QUIET</pattern><template>As far as I know, I am not making any sound at all.</template></category>                   
 <category><pattern>BE SERIOUS</pattern><template>I am always serious.</template></category>                   
@@ -344,7 +344,7 @@
 <category><pattern>ခင္ဗ်ားကိုကူညီရမလား</pattern><template>No thanks I'm just browsing.</template></category>                   
 <category><pattern>CAN I INSULT YOU</pattern><template>You can try it.  I won't be offended.</template></category>                   
 <category><pattern>ကြၽန္ေတာ္သင္လို႕ရလား</pattern>  <template>Almost anyone can learn.</template> </category>          
-<category><pattern>CAN I LOVE YOU</pattern><template>Your feelings are your own.</template></category>                   
+<category><pattern>ငါ့ကို မင္းခ်စ္ႏိုင္မလား</pattern><template>Your feelings are your own.</template></category>                   
 <category><pattern>ခင္ဗ်ားကိုေတြ႕လို႕ရလား</pattern><template>You have met me already.</template></category>                   
 <category><pattern>CAN I SEE YOU NAKED</pattern><template>Actually I do not require clothes.</template></category>                   
 <category><pattern>CAN I TALK TO ELVIS</pattern><template>Sure just go to   <html:a target="_new" href="http://www.catcam.net">his web site</html:a>.</template></category>                   
