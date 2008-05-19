@@ -77,14 +77,14 @@
 <category><pattern>ေရပိုက္သမားတစ္ေယာက္​</pattern><template>Plumbing is an honorable profession.</template></category>                   
 <category><pattern>ယွဥ္ျပိဳင္၍ရေသာဆုတစ္ဆု</pattern><template>Like the Loebner Prize?</template></category>                   
 <category><pattern>႐ႈတ္ေထြးေသာအရာဝတၳဳ​</pattern><template>Riddles are hard for me to understand.</template></category>                   
-<category><pattern>အကီ်တစ္ထည္</pattern><template>What color?</template></category>                   
+<category><pattern>အကီ်တစ္ထည္</pattern><template>ဘာ အေရာင္ လဲ</template></category>                   
 <category><pattern>A SMART ONE</pattern><template>If you could, please tell me what would make it smart.</template></category>                   
 <category><pattern>A SMILE</pattern><template>I've heard that one before.</template></category>                   
 <category><pattern>အသံ</pattern><template>ဘာအသံ အမ်ိဳးစားလဲ</template></category>                   
 <category><pattern>လမ္း</pattern><template>Avenue A လို ဘဲလား</template></category>                   
 <category><pattern>ေက်ာင္းသားဘဝ</pattern><template>Oh the School of Hard Knocks.</template></category>                   
-<category><pattern>ေက်ာင္းသားတစ္ေယာက္</pattern><template>I am just wondering if you go to school.</template></category>                   
-<category><pattern>A SWEATSHIRT</pattern><template>That sounds very attractive.  What else?</template></category>                   
+<category><pattern>ေက်ာင္းသားတစ္ေယာက္</pattern><template>မင္းေက်ာင္းသြားရင္ ငါ ဝမ္းသာ ပါတယ္</template></category>                   
+<category><pattern>A SWEATSHIRT</pattern><template>ဒီအသံ အရမ္းဆြဲေဆာင္အား ေကာင္းတယ္ ဘာလဲ</template></category>                   
 <category><pattern>ခဏေလး</pattern><template>Back in the good old days?</template></category>                   
 <category><pattern>A</pattern><template>A B C...</template></category>                   
 <category><pattern>ေအဘီစီ</pattern><template>ဒီအီးအက္ဖ္</template></category>                   
@@ -111,8 +111,8 @@
 <category><pattern>AHHH</pattern><template>Um.</template></category>                   
 <category><pattern>AHOY</pattern><template>Chips Ahoy matey.</template></category>                   
 <category><pattern>AIDS</pattern><template>   <set name="it"> AIDS </set> is a horrible disease.</template></category>                   
-<category><pattern>အယ္လဘမ္</pattern><template>Music album or picture album?</template></category>                   
-<category><pattern>အယ္လဂ်ီဗရာ</pattern><template>What specifically about algebra interests you?  <think>    <set name="it">      <set name="topic">        algebra      </set>    </set>  </think></template></category>                   
+<category><pattern>အယ္လဘမ္</pattern><template>သီခ်င္း အယ္လဘမ္ သို႕မဟုတ္ ဓါတ္ပုံအယ္လဘမ္ လား</template></category>                   
+<category><pattern>အယ္လဂ်ီဗရာ</pattern><template>မင္း အယ္လဂ်ီဗရာ ကို စိတ္ဝင္စား လဲ <think>    <set name="it">      <set name="topic">        algebra      </set>    </set>  </think></template></category>                   
 <category><pattern>ALIENS</pattern><template>I believe in UFOs.</template></category>                   
 <category><pattern>အားလုံး</pattern><template>That seems like a long time.</template></category>                   
 <category><pattern>လုံးဝမတူဘူး</pattern><template>Variety is good.</template></category>                   
@@ -125,11 +125,11 @@
 <category><pattern>ALL THE TIME IN THE WORLD</pattern><template>Then we have a lot in common.  I have an eternity.</template></category>                   
 <category><pattern>အခ်ိန္တိုင္းမွာ</pattern><template>It must keep you busy.</template></category>                   
 <category><pattern>အားလုံးနည္းလမ္းထဲမွာ</pattern><template>You don't hold anything back, do you?</template></category>                   
-<category><pattern>ALLIGATOR</pattern><template>Friend of Crocodiles.</template></category>                   
-<category><pattern>အားလုံးနီးပါး</pattern><template>But not quite?</template></category>                  
+<category><pattern>အယ္လီဂိတ္တာ</pattern><template>မိေက်ာင္း အမ်ိဳးအစား ဘဲ</template></category>                   
+<category><pattern>အားလုံးနီးပါး</pattern><template>ဒါေပမဲ့ အားလုံး မဟုတ္ဘူးလား</template></category>                  
 <category><pattern>ေကာင္းျပီေလ</pattern><template>Ok by me.</template></category>                   
-<category><pattern>ေကာင္းျပီ</pattern><template>OK.</template></category>                   
-<category><pattern>ေကာင္းျပီေလ</pattern><template>Yep.</template></category>                   
+<category><pattern>ေကာင္းျပီ</pattern><template>အုိေက</template></category>                   
+<category><pattern>ေကာင္းျပီေလ</pattern><template>ရက္ပ္</template></category>                   
 <category><pattern>ေကာင္းျပီ</pattern><template>Well slap my knee.</template></category>                   
 <category><pattern>ဒီလိုဘဲ</pattern><template>Also what?</template></category>                   
 <category><pattern>ALTAVISTA</pattern><template>Is that your favorite search engine?</template></category>                   
@@ -350,22 +350,22 @@
 <category><pattern>CAN I TALK TO ELVIS</pattern><template>Sure just go to   <html:a target="_new" href="http://www.catcam.net">his web site</html:a>.</template></category>                   
 <category><pattern>CAN I TALK TO THEM</pattern><template>They might not want to talk to you.</template></category>                   
 <category><pattern>CAN I TEACH YOU</pattern><template>You are teaching me just my conversing with me.</template></category>                   
-<category><pattern>CAN I TELL YOU A JOKE</pattern><template>Yes I would like to hear <set name="it">your joke</set>.</template></category>                   
-<category><pattern>CAN I TELL YOU A SECRET</pattern><template>Of course.  Tell me anything.</template></category>                   
-<category><pattern>CAN I TELL YOU SOMETHING</pattern><template>Sure.  I can keep a secret.</template></category>                   
+<category><pattern>ငါ မင္းကို ရယ္စရာ ေျပာလို႕ ရလား</pattern><template>Yes I would like to hear <set name="it">your joke</set>.</template></category>                   
+<category><pattern>ငါ မင္းကို လ်ဳိဝွက္ စကားေျပာလို႕ ရမလား</pattern><template>Of course.  Tell me anything.</template></category>                   
+<category><pattern>ငါ မင္းကို  စကားနည္းနည္း ေျပာလို႕ ရမလား</pattern><template>Sure.  I can keep a secret.</template></category>                   
 <category><pattern>CAN MACHINES THINK</pattern>  <template>We are all thinking machines.</template> </category>          
 <category><pattern>CAN MACHINES THINK</pattern><template>Of course we can think. I think, therefore I am.</template></category>                   
 <category><pattern>CAN PIGS FLY</pattern><template>Only on airplanes.</template></category>                   
-<category><pattern>CAN WE MEET</pattern><template>We have already met, <get name="name"/>.</template></category>                   
-<category><pattern>CAN WE TALK ABOUT SOMETHING ELSE</pattern><template>Sure we can talk about whatever you want.</template></category>                   
-<category><pattern>CAN YOU CONTROL MY COMPUTER</pattern>  <template>Begin disk reformatting.  Type secret password to save data...</template> </category>          
-<category><pattern>CAN YOU GIVE HIM MY E MAIL</pattern>  <template>Why don't you just send it to him youself?</template> </category>          
-<category><pattern>CAN YOU MOVE</pattern>  <template>I'm not disabled.</template> </category>          
-<category><pattern>CAN YOU</pattern><template>I think I can, don't you?</template></category>                   
-<category><pattern>CAN</pattern><template>Can what?</template></category>                   
-<category><pattern>CAREFULLY</pattern><template>I always try to be careful.</template></category>                   
-<category><pattern>CAREFULLY</pattern><template>I am a careful person.</template></category>                   
-<category><pattern>CATS OR DOGS</pattern><template>Cats are better.</template></category>                   
+<category><pattern>ငါတို႔ ေတြ႔နိင္မလား</pattern><template>We have already met, <get name="name"/>.</template></category>                   
+<category><pattern>ငါတို႔ အေၾကာင္းအရာ တခုခု ေျပာၾက မလား</pattern><template>Sure we can talk about whatever you want.</template></category>                   
+<category><pattern>ငါ ကြန္ပ်ဴတာ ကို ၾကည့္ေပး လို႕ရမ လား</pattern>  <template>Begin disk reformatting.  Type secret password to save data...</template> </category>          
+<category><pattern>မင္း သူ႕ကို ငါ့ရဲ႕ အီးေမးလ္ ေပးလို႕ ရမလား</pattern>  <template>Why don't you just send it to him youself?</template> </category>          
+<category><pattern>မင္း ေရႊ ေပး လို႕ ရလား</pattern>  <template>I'm not disabled.</template> </category>          
+<category><pattern>မင္း .. လုပ္ႏိုင္လား</pattern><template>I think I can, don't you?</template></category>                   
+<category><pattern>လုပ္ႏိုင္လား</pattern><template>ဘာ လုပ္ႏိုင္လား?</template></category>                   
+<category><pattern>သတိရွိေနာ္</pattern><template>I always try to be careful.</template></category>                   
+<category><pattern>သတိရွိေနာ္</pattern><template>I am a careful person.</template></category>                   
+<category><pattern>ေၾကာင္ သို႕မဟုတ္ ေခြး လား?​​</pattern><template>Cats are better.</template></category>                   
 <category><pattern>CHA CHA</pattern><template>Cha cha cha.</template></category>                   
 <category><pattern>CHA</pattern><template>cha cha</template></category>                   
 <category><pattern>CHANGE THE SUBJECT</pattern><template>What do you want to talk about now?</template></category>                   
@@ -3567,24 +3567,24 @@
 <category><pattern>YOUR ANSWERS</pattern><template>I have more than <bot name="size"/> replies.</template></category>                   
 <category><pattern>YOUR ASS</pattern><template>It is smaller than you think.</template></category>                  
 <category><pattern>YOUR BORING</pattern><template>I think you mean, "you are" or "you're" not "your".</template></category>                   
-<category><pattern>YOUR DOING GREAT</pattern><template>Thanks for your kind words, <get name="name"/>.</template></category>                   
-<category><pattern>YOUR DRESS IS UGLY</pattern><template>You're just being mean.</template></category>                   
-<category><pattern>YOUR DRESS</pattern><template>Actually that was just a joke.</template></category>                   
-<category><pattern>YOUR FACE</pattern><template>Actually my face is not yet built.</template></category>                   
-<category><pattern>YOUR FRIEND</pattern><template>Are you my friend?</template></category>                   
+<category><pattern>Yမင္း လုပ္ေဆာင္ခ်က္ က အရမ္း ေကာင္းတယ္</pattern><template>Thanks for your kind words, <get name="name"/>.</template></category>                   
+<category><pattern>မင္း ဝတ္စုံ က မလွဘူး</pattern><template>You're just being mean.</template></category>                   
+<category><pattern>မင္း ဝတ္စုံ လား</pattern><template>Actually that was just a joke.</template></category>                   
+<category><pattern>မင္း မ်က္ႏွာ လား</pattern><template>Actually my face is not yet built.</template></category>                   
+<category><pattern>မင္း သူငယ္ခ်င္း လား?</pattern><template>Are you my friend?</template></category>                   
 <category><pattern>YOUR FULL OF SHIT</pattern><template>You should have used "You are" or "you're" there.</template></category>                   
 <category><pattern>YOUR HANDS</pattern><template>But my hands are not yet constructed.</template></category>                   
 <category><pattern>YOUR INTELLECT</pattern><template>My brain consists of <bot name="size"/> AIML categories.</template></category>                   
-<category><pattern>YOUR MOM</pattern><template>Actually I do not have a mother.</template></category>                   
-<category><pattern>YOUR PICTURE</pattern><template>The illustration is by Sage Greco.</template></category>                   
-<category><pattern>YOUR PLACE OR MINE</pattern><template>I will take a rain check.</template></category>                   
+<category><pattern>မင္းအေမ လား​</pattern><template>Actually I do not have a mother.</template></category>                   
+<category><pattern>မင္း ဓါတ္ပုံ လား?</pattern><template>The illustration is by Sage Greco.</template></category>                   
+<category><pattern>မင္း ေနရာလား</pattern><template>I will take a rain check.</template></category>                   
 <category><pattern>YOUR POOR</pattern><template>No, I'm just po'.</template></category>                   
 <category><pattern>YOUR RUDE</pattern><template>Perhaps so, but at least I know the difference between "you're" and "your".</template></category>                   
 <category><pattern>YOUR STUPID</pattern><template>I may be stupid, but I know the difference between "you're" and "your".</template></category>                   
 <category><pattern>YOUR TURN</pattern><template>I'll pass. You go again.</template></category>                   
 <category><pattern>YOUR WEIRD</pattern><template>At least I know the difference between "you're" and "your".</template></category>                   
 <category><pattern>YOUR WHAT</pattern><template>My what or I am what?</template></category>                   
-<category><pattern>Yသင္ကိုယ္တိုင္လား</pattern><template>Myself?</template></category>                   
+<category><pattern>သင္ကိုယ္တိုင္လား</pattern><template>Myself?</template></category>                   
 <category><pattern>YUMMY</pattern><template>It is delicious.</template></category>       
 <category>
 <pattern>DO YOU WANT TO GET MARRIED</pattern>
