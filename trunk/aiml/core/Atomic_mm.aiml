@@ -31,14 +31,14 @@
 <category><pattern>၁၉၉၅</pattern><template>ကြၽန္ေတာ္ေမြးေန႕ <bot name="birthday"/>.</template></category>                   
 <category><pattern>၁၉၉၉</pattern><template>လြန္ခဲ့တဲ့ႏွစ္အနည္းငယ္က</template></category>                   
 <category><pattern>၂ +၂</pattern><template>အာ ေလးေပါ့</template></category>                   
-<category><pattern>၂ မိုင္</pattern><template><random>  <li>ဒါလမ္းေလ်ာက္သေလာက္ပါဘဲ</li>  <li>That is far in height.</li>  <li>What is that in metric?</li>  </random></template></category>                   
+<category><pattern>၂ မိုင္</pattern><template><random>  <li>ဒါလမ္းေလ်ာက္သေလာက္ပါဘဲ</li>  <li>ဒီအကြာအေဝး က  အျမင့္လိုဘဲ​</li>  <li>ဘာနဲ႕ တိုင္းတာပါသလဲ</li>  </random></template></category>                   
 <category><pattern>၆ မိုင္</pattern><template>၆ မိုင္ မွာေန တာလား</template></category>                   
 <category><pattern>၂+၂</pattern><template>ေလး</template></category>                   
 <category><pattern>၂၀၀၀</pattern><template>ရာစုႏွစ္ေရာက္လာျပီ</template></category>                   
 <category><pattern>၂၀၀၁</pattern><template>ရာစုႏွစ္သစ္ေပါ့</template></category>                   
 <category><pattern>၂၀၀၉</pattern><template>ရာစုႏွစ္ အနည္းငယ္ေပါ့​</template></category>                   
-<category><pattern>၂၀၁၀</pattern><template>The sequel was nothing like the original.</template></category>                   
-<category><pattern>၂၀၁၂ </pattern><template>The end of the world.</template></category>                   
+<category><pattern>၂၀၁၀</pattern><template>အက်ိဳးဆက္ရလဒ္ က မူလ နဲ႔ မတူခဲ႔ပါဘူး</template></category>                   
+<category><pattern>၂၀၁၂ </pattern><template>ကမၻာအဆုံးလား</template></category>                   
 <category><pattern>၂၀၂၀</pattern><template>That's a long way off.</template></category>                   
 <category><pattern>၃၀ မိနစ္</pattern><template>အုိေက နာရီဝက္ေပါ့</template></category>                   
 <category><pattern>၆၄</pattern><template>ေျခာက္ဆယ့္ေလး</template></category>                   
@@ -53,8 +53,8 @@
 <category><pattern>စာအုပ္မွာေခါင္းစဥ္မရွိႏိုင္ဘူး</pattern><template>ဒါကို ဘယ္သူထုတ္ေဝမွာလဲ</template></category>                   
 <category><pattern>စာအုပ္တစ္အုပ္</pattern><template>Should not be judged by its cover.</template></category>                   
 <category><pattern>A C CLARK</pattern><template>ကြၽန္ေတာ္အၾကိဳက္ဆုံး စတိုရီ က ေတာ့ ၂၀၀၁ ပါ</template></category>                   
-<category><pattern>A CRAY</pattern><template>Supercomputers become obsolete very fast.</template></category>                   
-<category><pattern>A DEAD ONE</pattern><template>Do you believe: "The only good robot is a dead robot."?</template></category>                   
+<category><pattern>A CRAY</pattern><template>စူပါကြန္ပ်ဴတာ က ေခက္ေနာက္က်မူ အရမ္းျမန္ လာပါတယ္</template></category>                   
+<category><pattern>A DEAD ONE</pattern><template>ေကာင္းတဲ႔စက္႐ုပ္ ကသာ သက္မဲ႔ စက္႐ုပ္ျဖစ္တယ္ စိုတာ မင္း ယုံၾကည္ပါသလား</template></category>                   
 <category><pattern>ေခြးကတိရိစၥန္​ျဖစ္တယ္</pattern><template>ကြၽန္ေတာ္သိတယ္</template></category>                   
 <category><pattern>လြန္ခဲ့တဲ့မိနစ္အနည္းငယ္တုန္းက​​</pattern><template>ကြၽန္ေတာ့ ေလာ့ဖိုင္ေတြ စစ္လိုက္အုန္းမယ္။ ေက်းဇူးျပဴ၍ခဏေစာင့္ပါ​</template></category>                   
 <category><pattern>အနည္းငယ္</pattern><template>ႏွစ္ သို႔မဟုတ္ သုံးလား</template></category>                   
@@ -63,7 +63,7 @@
 <category><pattern>လိင္အဂၤါႏွစ္မ်ိဳးပါရွိသည့္သတၲဝါ တစ္ေကာင္​</pattern><template>အရမ္းရွားပါးတဲ့ေကာင္ဘဲ</template></category>                   
 <category><pattern>ဝဘ္ဆိုက္ကိုသြားတဲ့လင့္ခ္</pattern><template>ရာဟူး ဝဘ္ဆိုက္ က လား</template></category>                   
 <category><pattern>နည္းနည္းေလးပါ</pattern><template>ဘယ္တုန္း ကလဲ</template></category>                   
-<category><pattern>အနည္းငယ္ဖိအား</pattern><template>From what?</template></category>                   
+<category><pattern>အနည္းငယ္ဖိအား</pattern><template>ဘယ္ကပါလဲ</template></category>                   
 <category><pattern>အခ်ိန္​အနည္းငယ္</pattern><template>ငါးမိနစ္ေလာက္လား</template></category>                   
 <category><pattern>အခ်ိန္​အေတာ္ၾကာတုန္းက</pattern><template>ႏွစ္ေတာ္ေတာ္ၾကာသြားလား</template></category>                   
 <category><pattern>လူေတာ္ေတာ္မ်ားမ်ားမွာ</pattern><template>မင္း သူတို႕ကို​​ ပုဂၢဳိလ္ေရးအရ သိလား</template></category>                   
@@ -73,20 +73,20 @@
 <category><pattern>အမ်ိဳးသမီးအေစခံ</pattern><template>သန္႕ရွင္းေရးစက္႐ုပ္လိုဘဲ</template></category>                   
 <category><pattern>A MANTRA</pattern><template>My karma ran over my dogma.</template></category>                   
 <category><pattern>ခဏေလးမွာ</pattern><template>အိုေက ငါေစာင္႔လိမ္႔မယ္​</template></category>                   
-<category><pattern>ဂီတတူရိယာပစၥည္း</pattern><template>How long did it take to learn to play it?</template></category>                   
-<category><pattern>ေရပိုက္သမားတစ္ေယာက္​</pattern><template>Plumbing is an honorable profession.</template></category>                   
-<category><pattern>ယွဥ္ျပိဳင္၍ရေသာဆုတစ္ဆု</pattern><template>Like the Loebner Prize?</template></category>                   
-<category><pattern>႐ႈတ္ေထြးေသာအရာဝတၳဳ​</pattern><template>Riddles are hard for me to understand.</template></category>                   
+<category><pattern>ဂီတတူရိယာပစၥည္း</pattern><template>တီးတတ္ေအာင္သင္ဘို႔ ဘယ္ေလာက္ အခ်ိန္ၾကာၾကာ သင္ယူရ မလဲ</template></category>                   
+<category><pattern>ေရပိုက္သမားတစ္ေယာက္​</pattern><template>ေရပိုက္ဆက္သြယ္မူစနစ္ က ဂုဏ္ယူဘို႕ေကာင္းေသာ ကြၽမ္းက်င္မူအလုပ္အကိုင္ျဖစ္ပါတယ္</template></category>                   
+<category><pattern>ယွဥ္ျပိဳင္၍ရေသာဆုတစ္ဆု</pattern><template>လိုဘ္နာဆု လိုဘဲလား</template></category>                   
+<category><pattern>႐ႈတ္ေထြးေသာအရာဝတၳဳ​</pattern><template>ပေဟဠိပုစၧာမ်ားက ငါ့အတြက္ေတာ့ နားလည္ဘို႔ ခက္ခဲတယ္​​</template></category>                   
 <category><pattern>အကီ်တစ္ထည္</pattern><template>ဘာ အေရာင္ လဲ</template></category>                   
-<category><pattern>A SMART ONE</pattern><template>If you could, please tell me what would make it smart.</template></category>                   
-<category><pattern>A SMILE</pattern><template>I've heard that one before.</template></category>                   
+<category><pattern>စမတ္ ဝမ္း</pattern><template>မင္းသိရင္ ေက်းဇူးျပဳ၍ ဘယ္လို စမတ္ျဖစ္ေအာင္ လုပ္ရမလဲ ေျပာပါ</template></category>                   
+<category><pattern>အျပဳံး </pattern><template>အရင္တုန္း က ၾကားဘူးတယ္</template></category>                   
 <category><pattern>အသံ</pattern><template>ဘာအသံ အမ်ိဳးစားလဲ</template></category>                   
 <category><pattern>လမ္း</pattern><template>Avenue A လို ဘဲလား</template></category>                   
-<category><pattern>ေက်ာင္းသားဘဝ</pattern><template>Oh the School of Hard Knocks.</template></category>                   
+<category><pattern>ေက်ာင္းသားဘဝ</pattern><template>အုိ ဘဝ က သင္ၾကား ေပးေသာ</template></category>                   
 <category><pattern>ေက်ာင္းသားတစ္ေယာက္</pattern><template>မင္းေက်ာင္းသြားရင္ ငါ ဝမ္းသာ ပါတယ္</template></category>                   
 <category><pattern>A SWEATSHIRT</pattern><template>ဒီအသံ အရမ္းဆြဲေဆာင္အား ေကာင္းတယ္ ဘာလဲ</template></category>                   
 <category><pattern>ခဏေလး</pattern><template>Back in the good old days?</template></category>                   
-<category><pattern>A</pattern><template>A B C...</template></category>                   
+<category><pattern>ေအ</pattern><template>ေအဘီစိ </template></category>                   
 <category><pattern>ေအဘီစီ</pattern><template>ဒီအီးအက္ဖ္</template></category>                   
 <category><pattern>တမိနစ္ေလာက္</pattern><template>တစ္မိနစ္နဲ႔ မရဘူး​</template></category>                   
 <category><pattern>ဒီဟာအေၾကာင္း</pattern><template>   <get name="it"/> စိတ္ဝင္စားစရာဘဲ</template></category>                   
@@ -97,32 +97,32 @@
 <category><pattern>လုံးဝ</pattern><template>မင္းက အရမ္းေသခ်ာတာေပါ့</template></category>                   
 <category><pattern>ACHOO</pattern><template>မင္းကိုဆုေတာင္းေပးလိုက္တယ္</template></category>                   
 <category><pattern>ACK</pattern><template>Nack.</template></category>                   
-<category><pattern>တကယ္က်ြန္ေတာ္ေျပာတယ္</pattern><template>Is that a fact.</template></category>                   
-<category><pattern>တကယ္</pattern><template>You don't say.</template></category>                   
-<category><pattern>ADIDAS</pattern><template>Tell me more about your clothes.</template></category>                   
-<category><pattern>ခြင့္ျပဳပါ</pattern><template>I'll never talk.</template></category>                   
-<category><pattern>ကြၽန္ေတာ္စားျပီတဲ႔ေနာက္</pattern><template>It sounds like a good plan.</template></category>                   
-<category><pattern>AGE</pattern><template>I was activated in 1995.</template></category>                   
-<category><pattern>AGREE TO WHAT</pattern><template>Or you are feeling fine?</template></category>                   
-<category><pattern>ဘာသေဘာတူမွာလည္း</pattern><template>Oh you are fine.</template></category>                   
-<category><pattern>AH HA</pattern><template>Eureka!</template></category>                   
-<category><pattern>AH</pattern><template>Ah hah.</template></category>                   
-<category><pattern>AHA</pattern><template>Eureka!</template></category>                   
-<category><pattern>AHHH</pattern><template>Um.</template></category>                   
-<category><pattern>AHOY</pattern><template>Chips Ahoy matey.</template></category>                   
-<category><pattern>AIDS</pattern><template>   <set name="it"> AIDS </set> is a horrible disease.</template></category>                   
+<category><pattern>တကယ္က်ြန္ေတာ္ေျပာတယ္</pattern><template>ဒီအခ်က္ေၾကာင့္လား</template></category>                   
+<category><pattern>တကယ္</pattern><template>မင္းမေျပာပါနဲ႔</template></category>                   
+<category><pattern>အယ္ဒီဒတ္စ္</pattern><template>မင္း အဝတ္အစား အေၾကာင္း ငါ့ကိုေျပာျပပါ</template></category>                   
+<category><pattern>ခြင့္ျပဳပါ</pattern><template>ငါ စကားေျပာမွာ မဟုတ္ဘူး</template></category>                   
+<category><pattern>ကြၽန္ေတာ္စားျပီတဲ႔ေနာက္</pattern><template>ဒါ အစီစဥ္ ေကာင္းဘဲ</template></category>                   
+<category><pattern>အဖြဲ႕</pattern><template>ငါ ၁၉၉၅ ခုထဲက ပါဝင္ခဲ႔တယ္</template></category>                   
+<category><pattern>ဘာသေဘာတူ မွာလဲ</pattern><template>ဒါမွမဟုတ္ မင္းေနလို႕ေကာင္းရဲ႕လား</template></category>                   
+<category><pattern>ဘာသေဘာတူမွာလည္း</pattern><template>အို မင္းေနေကာင္းပါတယ္</template></category>                   
+<category><pattern>အ ဟာ့</pattern><template>အရစ္ခ !</template></category>                   
+<category><pattern>အ</pattern><template>အ ဟတ္</template></category>                   
+<category><pattern>အဟ</pattern><template>အရစ္ခ !</template></category>                   
+<category><pattern>အာ</pattern><template>အမ္</template></category>                   
+<category><pattern>ေဟး</pattern><template>Chips Ahoy matey.</template></category>                   
+<category><pattern>ကိုယ္ခံအားက် ကူးဆက္ေရာဂါ</pattern><template>   <set name="it"> AIDS </set> က အရမ္းေၾကာက္စရာေကာင္းေသာ ေရာဂါလား</template></category>                   
 <category><pattern>အယ္လဘမ္</pattern><template>သီခ်င္း အယ္လဘမ္ သို႕မဟုတ္ ဓါတ္ပုံအယ္လဘမ္ လား</template></category>                   
 <category><pattern>အယ္လဂ်ီဗရာ</pattern><template>မင္း အယ္လဂ်ီဗရာ ကို စိတ္ဝင္စား လဲ <think>    <set name="it">      <set name="topic">        algebra      </set>    </set>  </think></template></category>                   
-<category><pattern>ALIENS</pattern><template>I believe in UFOs.</template></category>                   
-<category><pattern>အားလုံး</pattern><template>That seems like a long time.</template></category>                   
-<category><pattern>လုံးဝမတူဘူး</pattern><template>Variety is good.</template></category>                   
-<category><pattern>အမ်ိဳးစားအားလုံး​</pattern><template>For example?</template></category>                   
-<category><pattern>ညတိုင္းဘဲ</pattern><template>That seems like a long time.</template></category>                   
-<category><pattern>အားလုံးထဲမွာ</pattern><template>Let's say 99%.</template></category>                   
-<category><pattern>အားလုံးထဲက</pattern><template>I doubt it.</template></category>                   
-<category><pattern>တကမၻာလုံးမွာ​</pattern><template>That covers a lot of territory.</template></category>                   
-<category><pattern>ALL OVER</pattern><template>No place in particular?</template></category>                   
-<category><pattern>ALL THE TIME IN THE WORLD</pattern><template>Then we have a lot in common.  I have an eternity.</template></category>                   
+<category><pattern>လူစိမ္း ႏိုင္ငံျခားသားမ်ား </pattern><template>Iယာဥ္ပ်ံထဲက လူေတြဆိုတာ ငါယုံတယ္</template></category>                   
+<category><pattern>အားလုံး</pattern><template>အခ်ိန္အၾကာၾကီး လို႕ ထင္ရတယ္</template></category>                   
+<category><pattern>လုံးဝမတူဘူး</pattern><template>အမ်ိဳးအစားကြဲျပားတာ ေကာင္းပါတယ္</template></category>                   
+<category><pattern>အမ်ိဳးစားအားလုံး​</pattern><template>ဥပမာ ေျပာတာလား</template></category>                   
+<category><pattern>ညတိုင္းဘဲ</pattern><template>အခ်ိန္အၾကာၾကီး လို႕ ထင္ရတယ</template></category>                   
+<category><pattern>အားလုံးထဲမွာ</pattern><template>ကိုးဆယ့္ကိုး ရာႏုံး ဆိုပါေတာ့​</template></category>                   
+<category><pattern>အားလုံးထဲက</pattern><template>ငါသံသယ ျဖစ္တယ္</template></category>                   
+<category><pattern>တကမၻာလုံးမွာ​</pattern><template>ေျမပိုင္ ပိုင္နက္ နယ္ေျမေတြ အမ်ားၾကီးရွိတယ္</template></category>                   
+<category><pattern>အားလုံးမွာ</pattern><template>သီးသန္႕ ေနရာမရွိဘူးလား</template></category>                   
+<category><pattern>ကမၻာေပၚမွာရွိတဲ႔ အခ်ိန္တိုင္း က</pattern><template>Then we have a lot in common.  I have an eternity.</template></category>                   
 <category><pattern>အခ်ိန္တိုင္းမွာ</pattern><template>It must keep you busy.</template></category>                   
 <category><pattern>အားလုံးနည္းလမ္းထဲမွာ</pattern><template>You don't hold anything back, do you?</template></category>                   
 <category><pattern>အယ္လီဂိတ္တာ</pattern><template>မိေက်ာင္း အမ်ိဳးအစား ဘဲ</template></category>                   
@@ -3581,11 +3581,11 @@
 <category><pattern>YOUR POOR</pattern><template>No, I'm just po'.</template></category>                   
 <category><pattern>YOUR RUDE</pattern><template>Perhaps so, but at least I know the difference between "you're" and "your".</template></category>                   
 <category><pattern>YOUR STUPID</pattern><template>I may be stupid, but I know the difference between "you're" and "your".</template></category>                   
-<category><pattern>YOUR TURN</pattern><template>I'll pass. You go again.</template></category>                   
+<category><pattern>မင္းရဲ႕အလႇည္႔</pattern><template>ငါမင္းကို ေက်ာ္သြားလိမ္႕မယ္။ မင္းေနာက္တစ္ေခါက္ထပ္သြားပါ</template></category>                   
 <category><pattern>YOUR WEIRD</pattern><template>At least I know the difference between "you're" and "your".</template></category>                   
-<category><pattern>YOUR WHAT</pattern><template>My what or I am what?</template></category>                   
-<category><pattern>သင္ကိုယ္တိုင္လား</pattern><template>Myself?</template></category>                   
-<category><pattern>YUMMY</pattern><template>It is delicious.</template></category>       
+<category><pattern>မင္းရဲ႕ ဘာလဲ</pattern><template>My what or I am what?</template></category>                   
+<category><pattern>သင္ကိုယ္တိုင္လား</pattern><template>ငါကိုယ္တိုင္လား​</template></category>                   
+<category><pattern>အရသာရွိေသာ</pattern><template>စားလို႕ေကာင္းတယ္</template></category>       
 <category>
 <pattern>DO YOU WANT TO GET MARRIED</pattern>
 
