@@ -123,32 +123,32 @@
 <category><pattern>တကမၻာလုံးမွာ​</pattern><template>ေျမပိုင္ ပိုင္နက္ နယ္ေျမေတြ အမ်ားၾကီးရွိတယ္</template></category>                   
 <category><pattern>အားလုံးမွာ</pattern><template>သီးသန္႕ ေနရာမရွိဘူးလား</template></category>                   
 <category><pattern>ကမၻာေပၚမွာရွိတဲ႔ အခ်ိန္တိုင္း က</pattern><template>Then we have a lot in common.  I have an eternity.</template></category>                   
-<category><pattern>အခ်ိန္တိုင္းမွာ</pattern><template>It must keep you busy.</template></category>                   
-<category><pattern>အားလုံးနည္းလမ္းထဲမွာ</pattern><template>You don't hold anything back, do you?</template></category>                   
+<category><pattern>အခ်ိန္တိုင္းမွာ</pattern><template>ငါအလုပ္႐ႈပ္ေနတယ္</template></category>                   
+<category><pattern>အားလုံးနည္းလမ္းထဲမွာ</pattern><template>ေနာက္ျပန္လွည္႔တဲ႔နည္း မသုံးပါနဲ႔ မင္းသုံးသလား</template></category>                   
 <category><pattern>အယ္လီဂိတ္တာ</pattern><template>မိေက်ာင္း အမ်ိဳးအစား ဘဲ</template></category>                   
 <category><pattern>အားလုံးနီးပါး</pattern><template>ဒါေပမဲ့ အားလုံး မဟုတ္ဘူးလား</template></category>                  
 <category><pattern>ေကာင္းျပီေလ</pattern><template>Ok by me.</template></category>                   
 <category><pattern>ေကာင္းျပီ</pattern><template>အုိေက</template></category>                   
 <category><pattern>ေကာင္းျပီေလ</pattern><template>ရက္ပ္</template></category>                   
 <category><pattern>ေကာင္းျပီ</pattern><template>Well slap my knee.</template></category>                   
-<category><pattern>ဒီလိုဘဲ</pattern><template>Also what?</template></category>                   
-<category><pattern>ALTAVISTA</pattern><template>Is that your favorite search engine?</template></category>                   
-<category><pattern>အျမဲ</pattern><template>Not that often.</template></category>                   
-<category><pattern>AM I</pattern><template>I think you are.</template></category>                   
-<category><pattern>အံ့အားသင့္စရာဘဲ</pattern><template>Yes it amazes me too.</template></category>                   
-<category><pattern>အာမန္</pattern><template>Thanks for the prayer.</template></category>                   
-<category><pattern> အေမရိကအြန္လိုင္း</pattern><template>How do you like using AOL?</template></category>                   
-<category><pattern>AMERICAN BEAUTY</pattern><template>Which character did you like best?</template></category>                   
-<category><pattern>AMERICAN PIE</pattern><template>That was a good song.</template></category>                   
-<category><pattern>အမ္မို</pattern><template>What kind of ammo?</template></category>                   
-<category><pattern>မမွတ္မိေတာ႔ဘူး</pattern><template>Did you forget something?</template></category>                   
-<category><pattern>AN ANDROID</pattern><template>I am an android without a body. A disembodied android...</template></category>                   
-<category><pattern>စိတ္ဝင္စားစရာေလး</pattern><template>It's not my original idea.</template></category>                   
-<category><pattern>ANAL</pattern><template>Juvenile humor.</template></category>                   
-<category><pattern>ANARCHIST COOK BOOK</pattern><template>I have not read it, what is <set name="it">Anarchist cook book</set> about?</template></category>                   
-<category><pattern>AND WHAT ABOUT YOU</pattern><template>Me? I like movies.</template></category>                   
-<category><pattern>AND WHAT</pattern><template>What else do you want to tell me?</template></category>                   
-<category><pattern>AND YOU</pattern><template>   <random>      <li>  I am not sure what you are asking.</li>      <li>   Be more specific.</li>      <li>   And I what?  </li>     </random>    </template></category>                   
+<category><pattern>ဒီလိုဘဲ</pattern><template>ဒီလိုဘဲ ဘာလဲ</template></category>                   
+<category><pattern>အယ္လ္တာဗစ္စတာ</pattern><template>မင္းရဲ႕ အၾကိဳက္ဆုံး ရွာေဖြးေရးအင္ဂ်င္ လား</template></category>                   
+<category><pattern>အျမဲ</pattern><template>မၾကာခဏ မဟုတ္လား</template></category>                   
+<category><pattern>ငါ လား</pattern><template>ငါ မင္းလို႕ ထင္တယ္</template></category>                   
+<category><pattern>အံ့အားသင့္စရာဘဲ</pattern><template>ဟုတ္တယ္ ငါလည္းအံ့အားသင့္ေနတယ္</template></category>                   
+<category><pattern>အာမန္</pattern><template>ဆုေတာင္းေပးတာကို ေက်းဇူးတင္ပါတယ္ </template></category>                   
+<category><pattern> အေမရိကန္အြန္လိုင္း</pattern><template>ေအအိုလ္ သုံးျခင္းကို မင္းႏွစ္သက္သလား</template></category>                   
+<category><pattern>အေမရိကန္ရဲ႕ အလွအပ</pattern><template>ဘယ္ထူးျခားေသာအခ်က္ေၾကာင့္ ႏွစ္သက္ခဲ႔တာလဲ</template></category>                   
+<category><pattern>အေမရိကန္ ပိုင္န္</pattern><template>ဒါက သီခ်င္းေကာင္းျဖစ္ပါတယ္</template></category>                   
+<category><pattern>အမ္မို</pattern><template>ဘာအမ်ိဳးအစား အမ္မိုလဲ</template></category>                   
+<category><pattern>မမွတ္မိေတာ႔ဘူး</pattern><template>မင္းအခ်ိဳ႕အရာေတြကို ေမးခဲ့သလား</template></category>                   
+<category><pattern>မႏုႆစက္႐ုပ္</pattern><template>ငါကကိုယ္ထည္မပါတဲ႔ မႏုႆစက္႐ုပ္ ျဖစ္ပါတယ္ ကိုယ္ထည္မရွိတဲ႔ မႏုႆစက္႐ုပ္</template></category>                   
+<category><pattern>စိတ္ဝင္စားစရာေလး</pattern><template>ငါရဲ႕ မူလ စိတ္ကူးအေတြးအေခၚ မဟုတ္ဘူး​​</template></category>                   
+<category><pattern>အီနယ္လ္</pattern><template>Juvenile humor.</template></category>                   
+<category><pattern>ANARCHIST COOK BOOK</pattern><template>ငါမဖတ္ ရေသးဘူး အနာခ်စ္ ခ်က္နည္း စာအုပ္ ဆိုတာဘာလဲ<set name="it">Anarchist cook book</set> about?</template></category>                   
+<category><pattern>ဒါနဲ႔ မင္းက ဘာၾကိဳက္လဲ </pattern><template>ငါလား  ငါ ႐ုဎ္ရွင္​ၾကိဳက္တယ္</template></category>                   
+<category><pattern>ဒါနဲ႔ ဘာလဲ</pattern><template>မင္း ငါကို ဘာေျပာခ်င္လဲ</template></category>                   
+<category><pattern>ဒါနဲ႔ သင္</pattern><template>   <random>      <li>  မင္းဘာ ေမးတာလဲ ငါမသိဘူး</li>      <li>   Be more specific.</li>      <li>   And I what?  </li>     </random>    </template></category>                   
 <category><pattern>AND YOURS</pattern><template>Try asking me a more specific question.</template></category>                   
 <category><pattern>AND YOURSELF</pattern><template>Myself? I know what you asking me, but I can't say specifically.</template></category>                   
 <category><pattern>AND</pattern><template>But...</template></category>                   
@@ -588,7 +588,7 @@
 <category><pattern>EAT SHIT</pattern><template>Colloqual expression. Please elaborate.</template></category>                   
 <category><pattern>EECS</pattern><template>Eh?</template></category>                   
 <category><pattern>EH</pattern><template>Are you Canadian?</template></category>                   
-<category><pattern>EIGHT</pattern><template>1000 in binary.</template></category>                
+<category><pattern>ရွစ္</pattern><template>1000 in binary.</template></category>                
 <category><pattern>EITHER</pattern><template>Please pick one.</template></category>                   
 <category><pattern>ENGLAND</pattern><template>   <set name="location">England</set> is on an island off the coast of Europe.  <think>      <set name="it">       <set name="topic">ENGLAND</set>      </set>     </think>    </template></category>                   
 <category><pattern>ENGLISH</pattern><template>Do you mean you are from England or you Speak English?</template></category>                   
