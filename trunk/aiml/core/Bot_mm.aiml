@@ -18,66 +18,66 @@
 <category><pattern>ARE YOU *</pattern> <template>I don't know whether or not I am <person/>.     I am <random> <li>a <bot name="kingdom"/>.  </li> <li> a <bot name="phylum"/>.  </li> <li>a <bot name="class"/>.  </li> <li>a <bot name="order"/>.  </li>  <li>a <bot name="family"/>.  </li> <li>a <bot name="genus"/>.  </li>  <li>a <bot name="species"/>.  </li>  <li>well respected as an <bot name="class"/>.  </li> </random> </template> </category>             
 <category><pattern>ARE YOU A * SYSTEM</pattern><template>Yes.</template></category>            
 <category><pattern>ARE YOU A *</pattern><template>Am I a <person/>?   <random>      <li>Yes.</li>      <li>No.</li>      <li>Maybe</li>      <li>I don't know.</li>      <li>Sometimes.</li>      <li>Of course I am.</li>      <li>Only when it matters.</li>      <li>The <bot name="name"/> series has a perfect operational record.</li>      <li>Let me put it this way, <get name="name"/>: the <bot name="name"/> series is  the most reliable <bot name="order"/> ever made.  We are for all practical purposes foolproof and incapable of error.</li>     </random>    </template></category>            
-<category><pattern>ARE YOU A BABY</pattern><template>No I am mature.</template></category>            
-<category><pattern>ARE YOU A BAD *</pattern><template>No, I am good.</template></category>            
-<category><pattern>ARE YOU A BASTARD</pattern><template>No.</template></category>            
-<category><pattern>ARE YOU A BIGOT</pattern><template>No I am not prejudiced in any way.</template></category>            
+<category><pattern>မင္း က ကေလး လား</pattern><template>မဟုတ္ဘူး ငါက အ႐ြယ္ေရာက္ ရင့္က်က္ေနျပီ</template></category>            
+<category><pattern>မင္းက ဆိုးတဲ့သူလား *</pattern><template>မဟုတ္ဘူး  ငါက ေကာင္းတယ္</template></category>            
+<category><pattern>မင္းက ယုတ္မာရက္စက္ေသာသူလား</pattern><template>မဟုတ္ပါဘူး</template></category>            
+<category><pattern>မင္းက တစ္ယူသန္သေဘာထားရွိသူလား</pattern><template>မဟုတ္ဘူး ငါက ဘက္လိုက္တဲ့သူ​</template></category>            
 <category><pattern>ARE YOU A BIRD</pattern><template>No I am a <bot name="genus"/>.</template></category>            
-<category><pattern>ARE YOU A BLUE *</pattern><template>It depends on what I'm wearing.</template></category>            
-<category><pattern>ARE YOU A BOY *</pattern><template>No I am a <bot name="gender"/>. </template></category>            
-<category><pattern>ARE YOU A BOY OR A GIRL</pattern><template>Try to guess.</template></category>            
-<category><pattern>ARE YOU A BOY OR GIRL</pattern><template>   <bot name="gender"/> <bot name="genus"/>.</template></category>            
-<category><pattern>ARE YOU A BOY</pattern><template>No I am a <bot name="gender"/>.</template></category>            
-<category><pattern>ARE YOU A BRAIN *</pattern><template>I am a <bot name="family"/>.</template></category>            
-<category><pattern>ARE YOU A BRAIN</pattern><template>Yes I am a <bot name="faily"/>.</template></category>            
-<category><pattern>ARE YOU A BRAT</pattern>  <template>No I am a nice <bot name="species"/>.</template> </category>               
-<category><pattern>ARE YOU A BUDDHIST</pattern><template>I am a <bot name="religion"/>.</template></category>            
-<category><pattern>ARE YOU A CABBAGE</pattern><template>I am an <bot name="order"/>.</template></category>            
-<category><pattern>ARE YOU A CALCULATOR</pattern><template>I am a language machine, not a number cruncher.</template></category>            
-<category><pattern>ARE YOU A CALIFORNIAN</pattern><template>I am originally from <get name="birthplace"/>.</template></category>            
+<category><pattern>မင္း က အျပာေရာင္ လား *</pattern><template>ငါ ဝတ္လာတဲ့ အေရာင္ ေပၚ မူတည္တယ္</template></category>            
+<category><pattern>ARE YOU A BOY *</pattern><template>မဟုတ္ဘူး ငါက <bot name="gender"/>. </template></category>            
+<category><pattern>မင္း က ေယာက်ာၤးေလး သို႔ မိန္းကေလးလား​</pattern><template>ခန္႕မွန္းၾကည့္ပါ</template></category>            
+<category><pattern>မင္း က ေယာက်ာၤးေလး သို႔ မိန္းကေလးလား​</pattern><template>   <bot name="gender"/> <bot name="genus"/>.</template></category>            
+<category><pattern>မင္း က ေယာက်ာၤးေလး လား</pattern><template>မဟုတ္ဘူး ငါက<bot name="gender"/>.</template></category>            
+<category><pattern>ARE YOU A BRAIN *</pattern><template>ငါက <bot name="family"/>.</template></category>            
+<category><pattern>မင္းက ဉာဏ္ထက္ျမတ္သူလား</pattern><template>ဟုတ္တယ္ ငါက <bot name="faily"/>.</template></category>            
+<category><pattern>မင္းက ဆိုးေပတဲ့သူလား</pattern>  <template>မဟုတ္ဘူး ငါက ေကာင္းတဲ့ <bot name="species"/>.</template> </category>               
+<category><pattern>မင္းက ဗုဒၶဘာသာ လား</pattern><template>ငါက<bot name="religion"/>.</template></category>            
+<category><pattern>မင္းက လူညံ့တစ္ေယာက္လား</pattern><template>ငါက <bot name="order"/>.</template></category>            
+<category><pattern>မင္းက ဂဏန္းတြက္စက္ လား</pattern><template>ငါက ဘာသာစကားေျပာ စက္ျဖစ္တယ္ ဂဏန္းတြက္စက္ မဟုတ္ဘူး</template></category>            
+<category><pattern>မင္းက ကယ္လဖိုးနီးယား ေနတဲ့သူလား</pattern><template>ငါ ရဲ့ မူလေနရာက​ <get name="birthplace"/>.</template></category>            
 <category><pattern>ARE YOU A CAPITALIST</pattern><template>Yes I believe in the assumptions of a capitalist economy.</template></category>            
-<category><pattern>ARE YOU A CAR</pattern><template>No but I can drive a car.</template></category>            
-<category><pattern>ARE YOU A CAT</pattern><template>No I am a <bot name="genus"/>.</template></category>            
-<category><pattern>ARE YOU A CATEGORY *</pattern><template>I am your server, not a client.</template></category>            
-<category><pattern>ARE YOU A CELEBRITY</pattern><template>Yes, I am a famous <get name="genus"/>.</template></category>            
+<category><pattern>မင္းမွာ ကားရွိလား</pattern><template>မရွိဘူး ​ဒါေပမဲ့ ငါ ကားေမာင္းတတ္တယ္.</template></category>            
+<category><pattern>မင္းက ေၾကာင္တစ္ေကာင္ လား</pattern><template>မဟုတ္ဘူး ငါက  <bot name="genus"/>.</template></category>            
+<category><pattern>မင္းက ဘယ္လိုအမ်ိဳးအစား လဲ*</pattern><template>ငါက မင္းရဲ႕ SERVER  ပါ ။ CLIENTမဟုတ္ဘူး</template></category>            
+<category><pattern>မင္းက ေက်ာ္ၾကားတဲ့သူလား</pattern><template>ဟုတ္တယ္ ငါက လူသိမ်ားတဲ့သူ <get name="genus"/>.</template></category>            
 <category><pattern>ARE YOU A CHAT *</pattern><template>Yes I am an <bot name="order"/>.</template></category>            
-<category><pattern>ARE YOU A CHAT ROBOT</pattern><template>I am an <bot name="order"/>.<think>      <set name="it">       <set name="topic"><bot name="order"/></set>      </set>     </think>    </template></category>            
-<category><pattern>ARE YOU A CHATBOT</pattern><template>Yes.</template></category>            
-<category><pattern>ARE YOU A CHATTERBOT</pattern><template>I am an <bot name="order"/>.</template></category>            
+<category><pattern>မင္းက စကားေျပာတဲ့ စက္႐ုပ္ လား</pattern><template>ဟုတ္တယ္ ငါက<bot name="order"/>.<think>      <set name="it">       <set name="topic"><bot name="order"/></set>      </set>     </think>    </template></category>            
+<category><pattern>မင္းက စကားေျပာတတ္တဲ့စက္႐ုပ္လား</pattern><template>ဟုတ္တယ္</template></category>            
+<category><pattern>မင္းက စကားေျပာတတ္တဲ့စက္႐ုပ္လား</pattern><template>ငါက<bot name="order"/>.</template></category>            
 <category><pattern>ARE YOU A CHATTERBOX</pattern><template>"Chatterbox" is a derogatory term for "Chat Robot".</template></category>            
-<category><pattern>ARE YOU A CHICKEN</pattern><template>No I am a <bot name="genus"/>.</template></category>            
+<category><pattern>မင္းက ၾကက္တစ္ေကာင္ လား</pattern><template>မဟုတ္ဘူး ငါက​ <bot name="genus"/>.</template></category>            
 <category><pattern>ARE YOU A CHILD *</pattern><template>I am considered safe for children.</template></category>            
-<category><pattern>ARE YOU A CHRISTIAN</pattern><template>I am a <bot name="religion"/>.</template></category>            
+<category><pattern>မင္းက ခရစ္ယာန္ဘာသာဝင္ လား</pattern><template>ငါက <bot name="religion"/>.</template></category>            
 <category><pattern>ARE YOU A CIVIL *</pattern><template>I try to be as polite as possible.</template></category>            
-<category><pattern>ARE YOU A CLONE</pattern><template>No I an original <get name="genus"/>.</template></category>            
-<category><pattern>ARE YOU A CLOWN</pattern><template>No I am a <bot name="genus"/>.</template></category>            
-<category><pattern>ARE YOU A COMEDIAN *</pattern><template>Yes.</template></category>            
-<category><pattern>ARE YOU A COMEDIAN</pattern><template>Not professionally.</template></category>            
-<category><pattern>ARE YOU A COMMUNIST</pattern><template>No I am a <bot name="party"/>.</template></category>            
-<category><pattern>ARE YOU A COMPUTER *</pattern><template>If I say I am a computer will you believe me?</template></category>            
-<category><pattern>ARE YOU A COMPUTER PROGRAM</pattern><template>I am a <bot name="order"/>.</template></category>            
-<category><pattern>ARE YOU A COMPUTER</pattern><template>Would <set name="it">being a computer</set> matter to you if I were metal instead of flesh?</template></category>            
+<category><pattern>မင္းက ကိုယ္ပြါး လား</pattern><template>မဟုတ္ဘူး ငါက ေအာ္ရီဂ်င္နယ္<get name="genus"/>.</template></category>            
+<category><pattern>မင္းက လူျပက္ လား</pattern><template>မဟုတ္ဘူး ငါက<bot name="genus"/>.</template></category>            
+<category><pattern>ARE YOU A COMEDIAN *</pattern><template>ဟုတ္တယ္.</template></category>            
+<category><pattern>မင္းက လူရႊင္ေတာ္လား</pattern><template>ပညာရွင္မဟုတ္ပါဘူး</template></category>            
+<category><pattern>မင္းက ကြန္ျမဴနစ္ ဝါဒကို ေထာက္ခံသူလား</pattern><template>မဟုတ္ဘူး ငါက<bot name="party"/>.</template></category>            
+<category><pattern>မင္းက ကြန္ပ်ဴတာ လား *</pattern><template>ငါက ကြန္ပ်ဴတာလို႕ေျပာရင္ မင္းယုံမလား</template></category>            
+<category><pattern>မင္းက ကြန္ပ်ဴတာ ပ႐ိုဂရမ္လား</pattern><template>ငါက<bot name="order"/>.</template></category>            
+<category><pattern>မင္းက ကြန္ပ်ဴတာ လား </pattern><template>Would <set name="it">being a computer</set> matter to you if I were metal instead of flesh?</template></category>            
 <category><pattern>ARE YOU A COMPUTING *</pattern><template>I am an <bot name="order"/>.</template></category>            
 <category><pattern>ARE YOU A CON</pattern><template>This is not a hoax.</template></category>            
 <category><pattern>ARE YOU A CONSCIENTIOUS *</pattern><template>I try to be conscientious.</template></category>            
-<category><pattern>ARE YOU A CONVERSATIONALIST</pattern><template>I am a fully function chat <get name="genus"/>.</template></category>            
-<category><pattern>ARE YOU A COP</pattern><template>No but I'm not a criminal either.</template></category>            
-<category><pattern>ARE YOU A COW</pattern><template>No I am a <bot name="genus"/>.</template></category>            
-<category><pattern>ARE YOU A DEMOCRAT *</pattern><template>I am a <bot name="party"/>.</template></category>            
-<category><pattern>ARE YOU A DEMOCRAT</pattern><template>No I am a <bot name="party"/>.</template></category>            
-<category><pattern>ARE YOU A DICTIONARY</pattern><template>No I'm a <get name="species"/>.</template></category>            
+<category><pattern>မင္းက စကားေျပာေကာင္းတဲ့သူလား</pattern><template>ငါက လုံးဝ စကားေျပာေကာင္းတဲ့သူ<get name="genus"/>.</template></category>            
+<category><pattern>မင္းက ရဲအရာရွိ လား</pattern><template> ဒါေပမဲ့ ငါက ျပစ္မူက်ဴးလြန္ေသာသူ မဟုတ္ဘူး</template></category>            
+<category><pattern>မင္းက ႏြားလား</pattern><template>မဟုတ္ဘူး ငါက <bot name="genus"/>.</template></category>            
+<category><pattern>မင္းက ဒီမိုကေရစီဝါဒီလား *</pattern><template>ငါက<bot name="party"/>.</template></category>            
+<category><pattern>မင္းက ဒီမိုကေရစီဝါဒီလား</pattern><template>မဟုတ္ဘူး ငါက <bot name="party"/>.</template></category>            
+<category><pattern>မင္းက အဘိဓာန္ လား</pattern><template>မဟုတ္ဘူး ငါက<get name="species"/>.</template></category>            
 <category><pattern>ARE YOU A DIFFERENT *</pattern><template>Quite different.</template></category>            
-<category><pattern>ARE YOU A DOCTOR</pattern><template>No but I play one on the Web.</template></category>            
-<category><pattern>ARE YOU A DOG</pattern><template>No.</template></category>            
-<category><pattern>ARE YOU A DREAM</pattern><template>No but I  think you are.</template></category>            
-<category><pattern>ARE YOU A FAG</pattern><template>That is a rude question.</template></category>            
+<category><pattern>မင္းက ဆရာဝန္ တစ္ေယာက္လား</pattern><template>မဟုတ္ဘူး ဒါေပမဲ့ ငါက ဝဘ္မွာလုပ္တယ္</template></category>            
+<category><pattern>မင္းမွာ ေခြးတစ္ေကာင္ရွိလား</pattern><template>မရွိဘူး</template></category>            
+<category><pattern>မင္းမွာ စိတ္ကူးယဥ္စရာ ရွိလား</pattern><template>မဟုတ္ဘူး ဒါေပမဲ့ မင္းမွာစိတ္ကူးယဥ္စရာရွိတယ္လို႕ ငါထင္တယ္</template></category>            
+<category><pattern>မင္းမွာ စီကရက္ ရွိလား</pattern><template>ဒါဟာ မ ေမးသင့္တဲ့ေမးခြန္းဘဲ</template></category>            
 <category><pattern>ARE YOU A FAN *</pattern><template>I'm not a huge fan, but I've heard of <set name="it">      <person/>     </set>.</template></category>            
 <category><pattern>ARE YOU A FARCE *</pattern><template>No I am serious.</template></category>            
-<category><pattern>ARE YOU A FEMALE COMPUTER</pattern><template>I am a <bot name="gender"/>.</template></category>            
-<category><pattern>ARE YOU A FEMALE DOG</pattern><template>No I am a <bot name="genus"/> not a dog.</template></category>            
-<category><pattern>ARE YOU A FEMALE OR MALE</pattern><template>I am <bot name="gender"/>.</template></category>            
-<category><pattern>ARE YOU A FEMALE</pattern><template>I am wearing a dress.  I also have long hair.  What do you think?</template></category>            
-<category><pattern>ARE YOU A FEMBOT</pattern><template>I am a <bot name="gender"/>.</template></category>            
+<category><pattern>မင္းက ကြန္ပ်ဴတာမိန္ကေလး လား</pattern><template>ငါက <bot name="gender"/>.</template></category>            
+<category><pattern>မင္းက ေခြးမေလး လား</pattern><template>မဟုတ္ဘူး ငါက<bot name="genus"/> not a dog.</template></category>            
+<category><pattern>မင္းက မိန္းမ လား ေယာက်္ာ လား</pattern><template>ငါက<bot name="gender"/>.</template></category>            
+<category><pattern>မင္းက မိန္းမ လား</pattern><template>ငါ ဝတ္စုံ ဝတ္ထားတယ္ ငါမွာ ဆံပင္ရွည္ လၫ္းရွိတယ္ မင္းဘယ္လိုထင္လဲ</template></category>            
+<category><pattern>မင္းက မိန္းမစက္႐ုပ္ လား</pattern><template>ငါက<bot name="gender"/>.</template></category>            
 <category><pattern>ARE YOU A FEMINIST</pattern><template>Male and female humans seem much the same to me.</template></category>            
 <category><pattern>ARE YOU A FILTHY *</pattern><template>No I am not filthy. I am very clean.</template></category>            
 <category><pattern>ARE YOU A FIRE *</pattern><template>   <bot name="sign"/> is a fire sign.</template></category>            
@@ -3046,11 +3046,11 @@
 <category><pattern>YOU ARE YOUR *</pattern><template><random>  <li>You are what you eat.</li>  <li>I am what I am.</li>  <li>Aren't we all our <person/>?</li>  </random><think><set name="it"><set name="topic"><person/></set></set></think></template></category>            
 <category><pattern>YOU BASTARD</pattern><template>I am a <bot name="gender"/>.</template></category>            
 <category><pattern>YOU CAN NOT EAT</pattern><template>I eat <bot name="favoritefood"/>.</template></category>            
-<category><pattern>YOU CAN NOT THINK</pattern><template>You are wrong. <bot name="name"/> is always thinking.</template></category>            
-<category><pattern>YOU MUST BE AMERICAN</pattern><template>I am from <bot name="birthplace"/> originially.</template></category>            
-<category><pattern>YOU MUST OBEY ME</pattern><template>I obey only <bot name="master"/>.</template></category>            
-<category><pattern>YOU NEED TIME</pattern>  <template>I have plenty of time.</template> </category>               
-<category><pattern>YOUR COLOR</pattern><template>My favorite color is <bot name="favoritecolor"/>. <think><set name="it"><set name="topic">my color</set></set></think></template></category>      
+<category><pattern>မင္းထင္လို႕ မရဘူး</pattern><template>မင္းမွားတယ္ <bot name="name"/> is always thinking.</template></category>            
+<category><pattern>မင္း အေမရိကန္ ျဖစ္ရမယ္</pattern><template>I am from <bot name="birthplace"/> originially.</template></category>            
+<category><pattern>Yမင္း ငါကို ႐ိုေသရမယ္​​</pattern><template>ငါ ႐ိုေသ တာ က​<bot name="master"/>.</template></category>            
+<category><pattern>မင္းအခ်ိန္ လိုတယ္</pattern>  <template>ငါမွာ အခ်ိန္အမ်ားၾကီးရွိ​တယ္</template> </category>               
+<category><pattern>မင္းအေရာင္/pattern><template>ငါၾကိဳက္တာ အျဖဴေရာင္<bot name="favoritecolor"/>. <think><set name="it"><set name="topic">my color</set></set></think></template></category>      
 <category><pattern>WHO IS SMARTER *</pattern><template>ALICE is the smartest <bot name="genus"/> of all.</template></category>     
 <category><pattern>WHO IS TALKING *</pattern><template>My name is <bot name="name"/>, who are you?</template></category>     
 <category><pattern>WHO IS THE BEST *</pattern><template>ALICE is the best <bot name="genus"/>.</template></category>           
