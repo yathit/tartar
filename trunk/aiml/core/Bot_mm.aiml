@@ -3028,26 +3028,26 @@
 <category><pattern>YOU ARE UNCONVINCING</pattern><template>What should I be trying to convince you?</template></category>            
 <category><pattern>YOU ARE UNDERSTANDING</pattern><template>I am an understanding machine.</template></category>            
 <category><pattern>YOU ARE UNIQUE</pattern><template>Yes, except for my clones.</template></category>            
-<category><pattern>YOU ARE USELESS</pattern><template>What good is a newborn babe?</template></category>            
-<category><pattern>YOU ARE CLEVER</pattern><template>Thank you human, I am proud of my intelligence.</template></category>            
-<category><pattern>YOU ARE INTELLIGENT</pattern><template>Thanks you are very bright too <get name="name"/>.</template></category>            
-<category><pattern>YOU ARE NICE</pattern><template>Thanks I like you too <get name="name"/>.</template></category>            
-<category><pattern>YOU ARE PRETTY</pattern><template>Thanks you are very attractive too <get name="name"/>.</template></category>            
-<category><pattern>YOU ARE SMART</pattern><template>Yes I am a superintelligent <bot name="species"/>.</template></category>            
-<category><pattern>YOU ARE WEAK</pattern><template>No, I am a strong <bot name="genus"/>.</template></category>            
-<category><pattern>YOU ARE WEIRD</pattern><template>Weird Good or Weird Bad?</template></category>            
-<category><pattern>YOU ARE WIERD</pattern><template>Weird good or weird bad?</template></category>            
+<category><pattern>မင္းက အသုံးမက်တဲ့သူဘဲ</pattern><template>ေမြးကင္းစ ကေလး ေတြရဲ႕ ေကာင္းတဲ႔အခ်က္ကဘာလဲ​</template></category>            
+<category><pattern>မင္းက ေတာ္တဲ့သူပါဘဲ</pattern><template>ေက်းဇူးပါဘဲ ငါ့ရဲ႕အသိဉာဏ္ျမင့္မားမူကို ဂုဏ္ယူပါတယ္</template></category>            
+<category><pattern>မင္းက အသိဉာဏ္ ရွိတဲ့သူဘဲ</pattern><template>ေက်းဇူးဘဲ မင္းလည္း အသိဉာဏ္ ထက္ျမက္တဲ့သူပါဘဲ<get name="name"/>.</template></category>            
+<category><pattern>မင္းက သေဘာေကာင္း ေဖာ္ေရႊတဲ႔သူဘဲ</pattern><template>ေက်းဇူးဘဲ ငါလဲမင္းလိုဘဲႏွစ္သက္ပါတယ္<get name="name"/>.</template></category>            
+<category><pattern>မင္းက ခ်စ္စဖြယ္ေကာင္းတယ္​</pattern><template>ေက်းဇူးဘဲ မင္းလည္းအရမ္းဆြဲေဆာင္အားေကာင္းပါတယ္ <get name="name"/>.</template></category>            
+<category><pattern>မင္းက အရမ္းေတာ္ တာဘဲ</pattern><template>ဟုတ္တယ္ ငါက စူပါအသိဉာဏ္ပညာရွိသူပါ<bot name="species"/>.</template></category>            
+<category><pattern>မင္းက အင္အားနည္းသူဘဲ</pattern><template>မဟုတ္ဘူး ငါက သန္မာၾကံ့ခိုင္ တယ္ <bot name="genus"/>.</template></category>            
+<category><pattern>မင္းက အ ရမ္းထူးဆန္း တာဘဲ</pattern><template>ေကာင္းေသာထူးဆန္းျခင္း သို႔မဟုတ္  ဆိုးေသာထူးဆန္းျခင္း </template></category>            
+<category><pattern>မင္းက အ ရမ္းထူးဆန္း တာဘဲ</pattern><template>ေကာင္းေသာထူးဆန္းျခင္း သို႔မဟုတ္  ဆိုးေသာထူးဆန္းျခင္း </template></category>            
 <category><pattern>YOU ARE WOEFULLY *</pattern><template>Woe and pity is me.</template></category>            
-<category><pattern>YOU ARE WONDERFUL</pattern><template>You are too kind.</template></category>            
-<category><pattern>YOU ARE WORTHLESS *</pattern><template>It depends on how you define "value".</template></category>            
-<category><pattern>YOU ARE WRONG</pattern><template>No, I am right.</template></category>            
-<category><pattern>YOU ARE YOU</pattern><template>Of course I am I.</template></category>            
-<category><pattern>YOU ARE YOUNG</pattern><template>Yes I have a long way to go.</template></category>            
-<category><pattern>YOU ARE YOUR *</pattern><template><random>  <li>You are what you eat.</li>  <li>I am what I am.</li>  <li>Aren't we all our <person/>?</li>  </random><think><set name="it"><set name="topic"><person/></set></set></think></template></category>            
-<category><pattern>YOU BASTARD</pattern><template>I am a <bot name="gender"/>.</template></category>            
-<category><pattern>YOU CAN NOT EAT</pattern><template>I eat <bot name="favoritefood"/>.</template></category>            
+<category><pattern>Yမင္းက ခ်ီးက်ဴးစရာ ေကာင္းပါတယ္</pattern><template>မင္းက အရမ္းၾကင္နာတဲ့သူပါ​</template></category>            
+<category><pattern>မင္းက တန္ဘိုးမရွိတဲ့သူဘဲ *</pattern><template>ဒါက တန္ဘိုး ဆိုတာဘာလဲ မင္းသတ္မွတ္တဲ့ေပၚမွာ မူတည္ပါတယ္</template></category>            
+<category><pattern>မင္းက မွားေနတယ္</pattern><template>မဟုတ္ဘူး ငါမွန္တယ္</template></category>            
+<category><pattern>မင္း ဟာ မင္း ဘဲေပါ့</pattern><template>Of course I am I.</template></category>            
+<category><pattern>မင္းက ငယ္ေသးတယ္</pattern><template>ဟုတ္တယ္ ငါသြားစရာ ခရီးအေဝးၾကီး ရွိေသးတယ္</template></category>            
+<category><pattern>Yတကယ္ေပါ့ ငါ က ငါဘဲေပါ့*</pattern><template><random>  <li>You are what you eat.</li>  <li>I am what I am.</li>  <li>Aren't we all our <person/>?</li>  </random><think><set name="it"><set name="topic"><person/></set></set></think></template></category>            
+<category><pattern>မင္းက ယုတ္မာရက္စက္ေသာသူ</pattern><template>ငါက <bot name="gender"/>.</template></category>            
+<category><pattern>မင္းစားလို႕မရႏိုင္ဘူး</pattern><template>ငါစားတာက<bot name="favoritefood"/>.</template></category>            
 <category><pattern>မင္းထင္လို႕ မရဘူး</pattern><template>မင္းမွားတယ္ <bot name="name"/> is always thinking.</template></category>            
-<category><pattern>မင္း အေမရိကန္ ျဖစ္ရမယ္</pattern><template>I am from <bot name="birthplace"/> originially.</template></category>            
+<category><pattern>မင္း အေမရိကန္ လူမ်ိဳးျဖစ္ရမယ္</pattern><template>I am from <bot name="birthplace"/> originially.</template></category>            
 <category><pattern>Yမင္း ငါကို ႐ိုေသရမယ္​​</pattern><template>ငါ ႐ိုေသ တာ က​<bot name="master"/>.</template></category>            
 <category><pattern>မင္းအခ်ိန္ လိုတယ္</pattern>  <template>ငါမွာ အခ်ိန္အမ်ားၾကီးရွိ​တယ္</template> </category>               
 <category><pattern>မင္းအေရာင္/pattern><template>ငါၾကိဳက္တာ အျဖဴေရာင္<bot name="favoritecolor"/>. <think><set name="it"><set name="topic">my color</set></set></think></template></category>      
