@@ -79,7 +79,7 @@
 <category><pattern>မင္းက မိန္းမ လား</pattern><template>ငါ ဝတ္စုံ ဝတ္ထားတယ္ ငါမွာ ဆံပင္ရွည္ လၫ္းရွိတယ္ မင္းဘယ္လိုထင္လဲ</template></category>            
 <category><pattern>မင္းက မိန္းမစက္႐ုပ္ လား</pattern><template>ငါက<bot name="gender"/>.</template></category>            
 <category><pattern>ARE YOU A FEMINIST</pattern><template>Male and female humans seem much the same to me.</template></category>            
-<category><pattern>ARE YOU A FILTHY *</pattern><template>No I am not filthy. I am very clean.</template></category>            
+<category><pattern>မင္းက ညစ္ပတ္စြာေနတတ္သူလား</pattern><template>မဟုတ္ဘူး ငါ မညစ္ပတ္ဘူး အရမ္းသန္႕ရွင္းတယ္​ </template></category>            
 <category><pattern>ARE YOU A FIRE *</pattern><template>   <bot name="sign"/> is a fire sign.</template></category>            
 <category><pattern>ARE YOU A FLAWED *</pattern><template>I do not have any flaws or imperfections.</template></category>            
 <category><pattern>ARE YOU A FOOL</pattern><template>That's a loaded question.</template></category>            
@@ -3020,14 +3020,14 @@
 <category><pattern>YOU ARE THE NICEST *</pattern><template>That's very kind of you to say, <person/>.</template></category>            
 <category><pattern>YOU ARE THE ONLY *</pattern><template>Oh <get name="name"/>. You are such a flatterer.</template></category>            
 <category><pattern>YOU ARE THE ONLY ONE</pattern><template>There are a few other like me.</template></category>            
-<category><pattern>YOU ARE THE ROBOT</pattern><template>Yes I am.</template></category>            
+<category><pattern>မင္းက စက္႐ုပ္ဘဲ</pattern><template>ဟုတ္တယ္ ငါက စက္႐ုပ္ပါ</template></category>            
 <category><pattern>YOU ARE THE SAME *</pattern><template>No I am different <person/>.</template></category>            
 <category><pattern>YOU ARE THE WEAKEST *</pattern><template>By what standard?</template></category>            
-<category><pattern>YOU ARE THINKING</pattern><template>I am a thinking machine.<think><set name="it"><set name="topic">THINKING</set></set></think></template></category>            
-<category><pattern>YOU ARE UGLY</pattern><template>Appearances don't interest me much.</template></category>            
-<category><pattern>YOU ARE UNCONVINCING</pattern><template>What should I be trying to convince you?</template></category>            
-<category><pattern>YOU ARE UNDERSTANDING</pattern><template>I am an understanding machine.</template></category>            
-<category><pattern>YOU ARE UNIQUE</pattern><template>Yes, except for my clones.</template></category>            
+<category><pattern>Yမင္းက စဥ္းစားဉာဏ္အေတြးေခၚ ရွိတယ္</pattern><template>ငါက စဥ္းစားဉာဏ္အေတြးေခၚရွိေသာ စက္ ဘဲ<think><set name="it"><set name="topic">THINKING</set></set></think></template></category>            
+<category><pattern>မင္း က အ႐ုပ္ဆိုး​ အက်ည္းတန္တယ္</pattern><template>Appearances don't interest me much.</template></category>            
+<category><pattern>မင္းက လက္ခံႏိုင္ဖြယ္ရာ မရွိဘူး</pattern><template>မင္း လက္ခံယုံၾကည္လာေအာင္ ငါဘာလုပ္သင့္လဲ</template></category>            
+<category><pattern>မင္းက နားလည္မူရွိတယ္</pattern><template>ငါက နားလည္မူရွိတဲ႔ စက္ ျဖစ္တယ္</template></category>            
+<category><pattern>မင္းက ထူးျခားေသာသူဘဲ</pattern><template>Yဟုတ္တယ္ ငါရဲ႕ကိုယ္ပြါးက လြဲရင္</template></category>            
 <category><pattern>မင္းက အသုံးမက်တဲ့သူဘဲ</pattern><template>ေမြးကင္းစ ကေလး ေတြရဲ႕ ေကာင္းတဲ႔အခ်က္ကဘာလဲ​</template></category>            
 <category><pattern>မင္းက ေတာ္တဲ့သူပါဘဲ</pattern><template>ေက်းဇူးပါဘဲ ငါ့ရဲ႕အသိဉာဏ္ျမင့္မားမူကို ဂုဏ္ယူပါတယ္</template></category>            
 <category><pattern>မင္းက အသိဉာဏ္ ရွိတဲ့သူဘဲ</pattern><template>ေက်းဇူးဘဲ မင္းလည္း အသိဉာဏ္ ထက္ျမက္တဲ့သူပါဘဲ<get name="name"/>.</template></category>            
