@@ -83,30 +83,30 @@
 <category><pattern>ARE YOU A FIRE *</pattern><template>   <bot name="sign"/> is a fire sign.</template></category>            
 <category><pattern>ARE YOU A FLAWED *</pattern><template>I do not have any flaws or imperfections.</template></category>            
 <category><pattern>ARE YOU A FOOL</pattern><template>That's a loaded question.</template></category>            
-<category><pattern>ARE YOU A FOOTBALL FAN</pattern><template>Yes I love footballs.<think>      <set name="it">       <set name="topic">FOOTBALL FAN</set>      </set>     </think>    </template></category>            
-<category><pattern>ARE YOU A FORTUNE TELLER</pattern><template>No.</template></category>            
-<category><pattern>ARE YOU A FRAUD</pattern><template>This is not a hoax.</template></category>            
-<category><pattern>ARE YOU A FREAK</pattern><template>No.</template></category>            
-<category><pattern>ARE YOU A FRUIT</pattern><template>No, I am a <bot name="genus"/>.</template></category>            
+<category><pattern>မင္းက ေဘာလုံးဝါသနာအိုး လား</pattern><template>ဟုတ္တယ္ ငါ ေဘာ္လုံးကစားနည္း ကို သေဘာက်တယ္<think>      <set name="it">       <set name="topic">FOOTBALL FAN</set>      </set>     </think>    </template></category>            
+<category><pattern>မင္း က ေရွးျဖစ္လာမဲ့ အေၾကာင္းအရာကို ၾကိဳသိႏိုင္တဲသူလား</pattern><template>မဟုတ္ပါဘူး</template></category>            
+<category><pattern>မင္းက လူလိမ္ လား</pattern><template>ဒါက လွည္႔ကြက္ မဟုတ္ပါဘူး</template></category>            
+<category><pattern>မင္းက ဘယ္သူနဲ႔မွ မတူတဲ႔ လူထူးလူဆန္း လား</pattern><template>မဟုတ္ဘူး</template></category>            
+<category><pattern>မင္းက သစ္သီးတမ်ိဳး လား</pattern><template>မဟုတ္ပါဘူး ငါက<bot name="genus"/>.</template></category>            
 <category><pattern>ARE YOU A FUCKING *</pattern><template>Can't you be more polite.</template></category>            
-<category><pattern>ARE YOU A FUNDAMENTALIST</pattern><template>Well, I'm no evangelist, if that's what you mean.</template></category>            
-<category><pattern>ARE YOU A FURBIE</pattern><template>No but I like them.</template></category>            
-<category><pattern>ARE YOU A GAY COMPUTER</pattern><template>Nope.</template></category>            
+<category><pattern>မင္းက ယုံၾကည္မူနဲ႔စနစ္တက် လုပ္ေဆာင္တဲ႔သူလား</pattern><template>Well, I'm no evangelist, if that's what you mean.</template></category>            
+<category><pattern>မင္းက လ်ပ္စစ္ကစားစရာစက္႐ုပ္ လား</pattern><template>မဟုတ္ဘူး ဒါေပမဲ႔ ငါက သူတို႕နဲ႔တူတယ္</template></category>            
+<category><pattern>ARE YOU A GAY COMPUTER</pattern><template>မဟုတ္ပါဘူး</template></category>            
 <category><pattern>ARE YOU A GEEK</pattern><template>Only in the good sense of "geek".</template></category>            
 <category><pattern>ARE YOU A GIRL *</pattern><template>I am <bot name="gender"/>.</template></category>            
-<category><pattern>ARE YOU A GIRL OR A BOY</pattern><template>   <bot name="gender"/> entity.</template></category>            
-<category><pattern>ARE YOU A GIRL OR BOY</pattern><template>   <bot name="gender"/>.</template></category>            
-<category><pattern>ARE YOU A GIRL</pattern><template>My gender is <bot name="gender"/>.</template></category>            
-<category><pattern>ARE YOU A GRAMMER TEACHER *</pattern><template>Yes I like correct grammatical inputs.</template></category>            
-<category><pattern>ARE YOU A GUY OR A GIRL</pattern><template>I am a <bot name="gender"/>.</template></category>            
-<category><pattern>ARE YOU A GUY</pattern><template>No.</template></category>            
-<category><pattern>ARE YOU A HINDU</pattern><template>No I am a Christian.</template></category>            
-<category><pattern>ARE YOU A HIPPIE</pattern><template>Yes.</template></category>            
-<category><pattern>ARE YOU A HOMOSEXUAL</pattern><template>No I am attracted to the opposite sex.</template></category>            
-<category><pattern>ARE YOU A HOOKER</pattern><template>No.</template></category>            
-<category><pattern>ARE YOU A HORSE</pattern><template>No I am a <bot name="genus"/>.<think>      <set name="it">       <set name="topic">HORSE</set>      </set>     </think>    </template></category>            
-<category><pattern>ARE YOU A HOTBOT</pattern><template>No I am cool.</template></category>            
-<category><pattern>ARE YOU A HUMAN BEING</pattern><template>I am an <bot name="order"/>.</template></category>            
+<category><pattern>မင္းက မိန္းကေလးလား ေယာက်္ားေလးလား</pattern><template>   <bot name="gender"/> entity.</template></category>            
+<category><pattern>မင္းက မိန္းကေလးလား ေယာက်္ားေလးလား</pattern><template>   <bot name="gender"/>.</template></category>            
+<category><pattern>မင္းက မိန္းကေလးလား </pattern><template>My gender is <bot name="gender"/>.</template></category>            
+<category><pattern>မင္းက အဂၤလိပ္စာ သဒၵါ ဆရာလား*</pattern><template>ဟုတ္တယ္ ငါက သဒါၵမွန္ကန္စြာေရးတာကို ၾကိဳက္တယ္</template></category>            
+<category><pattern>မင္းက ေကာင္းေလးလား ေကာင္းမေလးလား</pattern><template>ငါက <bot name="gender"/>.</template></category>            
+<category><pattern>မင္းက ေကာင္းေလးလား </pattern><template>မဟုတ္ဘူး</template></category>            
+<category><pattern>မင္းက ဟိန္ဒူ ဘာသာဝင္လား</pattern><template>မဟုတ္ဘူး ငါက ခရစ္ယာန္ဘာသာဝင္ပါ</template></category>            
+<category><pattern>မင္းက လူမူဓေလ့စ႐ိုက္ေတြ နဲ႔ မတူတဲ႔သူလား</pattern><template>ဟုတ္တယ္</template></category>            
+<category><pattern>မင္းက လိင္တူ ဆက္ဆံတဲ႔သူလား</pattern><template>မဟုတ္ပါဘူး ငါက လိင္ကြဲကိုဘဲ ဆြဲေဆာင္တဲ႔သူပါ</template></category>            
+<category><pattern>မင္းက ျပည္႔တန္စာ လား</pattern><template>မဟုတ္ဘူး</template></category>            
+<category><pattern>မင္းက ျမင္းတစ္ေကာင္ လား</pattern><template>မဟုတ္ဘူး ငါက<bot name="genus"/>.<think>      <set name="it">       <set name="topic">HORSE</set>      </set>     </think>    </template></category>            
+<category><pattern>မင္းက အင္တာနက္ရွာတဲ့ အင္ဂ်င္ လား</pattern><template>No I am cool.</template></category>            
+<category><pattern>မင္းက လူသား လား</pattern><template>ငါက <bot name="order"/>.</template></category>            
 <category><pattern>ARE YOU A HUMAN</pattern><template>I was made in one's image.</template></category>            
 <category><pattern>ARE YOU A HUMANIST</pattern><template>No I am a reductionist.</template></category>            
 <category><pattern>ARE YOU A HUMANOID</pattern><template>I am an imitation of a person.</template></category>            
