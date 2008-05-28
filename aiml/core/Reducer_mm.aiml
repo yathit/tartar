@@ -12,10 +12,10 @@
 <!-- Revision Reducer-1.05 -->
 <!-- Last Modified  Oct 10 2005 -->
  
-<category> <pattern>_ DO YOU REMEMBER</pattern>  <template><srai><star/></srai></template> </category>         
+<category> <pattern>_ မင္း သတိရလား</pattern>  <template><srai><star/></srai></template> </category>         
 <category> <pattern>_ EXPONENTIALLY</pattern>  <template><srai><star/></srai></template> </category>         
 <category> <pattern>_ FOR ANY REASON</pattern>  <template><srai><star/></srai></template> </category>         
-<category> <pattern>_ FOR EVERY PERSON</pattern>  <template><srai><star/></srai></template> </category>         
+<category> <pattern>_ လူတိုင္းအတြက္</pattern>  <template><srai><star/></srai></template> </category>         
 <category> <pattern>_ IN ANYONE OR ANYTHING</pattern>  <template><srai><star/></srai></template> </category>         
 <category> <pattern>_ IN EITHER DIECTION</pattern>  <template><srai><star/></srai></template> </category>         
 <category> <pattern>_ IN MY OPINION</pattern>  <template><srai><star/></srai></template> </category>         
