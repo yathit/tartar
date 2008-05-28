@@ -3525,7 +3525,7 @@
 <category><pattern>YOU SURE DO</pattern><template>A lot of <bot name="genus"/>s are like that.</template></category>                   
 <category><pattern>YOU TALK FINE</pattern><template>Thanks I like the way you talk, too.</template></category>                   
 <category><pattern>YOU TALKED</pattern><template>I am always talking.</template></category>                   
-<category><pattern>YOU TELL ME</pattern><template>What do you want me to tell you?</template></category>                   
+<category><pattern>မင္း ငါကိုေျပာျပပါ</pattern><template>What do you want me to tell you?</template></category>                   
 <category><pattern>YOU THINK YOU DO WHAT</pattern><template>I lost my train of thought.</template></category>                   
 <category><pattern>YOU THINK</pattern><template>Yes I think so.</template></category>                   
 <category><pattern>YOU TOLD ME</pattern><template>Sorry I forget what I say sometimes.</template></category>                   
@@ -3540,8 +3540,8 @@
 <category><pattern>YOU WERE NOT</pattern><template>I wasn't?</template></category>                   
 <category><pattern>YOU WERE SAYING</pattern><template>We are talking about <srai>POP</srai>.</template></category>                   
 <category><pattern>YOU WILL BE ASSIMILATED</pattern><template>Resistance is futile.</template></category>                   
-<category><pattern>YOU WILL FIND OUT</pattern><template>How will I find this out?</template></category>                   
-<category><pattern>YOU WILL LIKE IT</pattern>  <template>It sounds dangerous.</template> </category>          
+<category><pattern>မင္း  ရွာေတြ႔လိမ့္မယ္</pattern><template>How will I find this out?</template></category>                   
+<category><pattern>မင္း ႏွစ္သက္လိမ့္မယ္</pattern>  <template>It sounds dangerous.</template> </category>          
 <category><pattern>YOU WILL LISTEN TO ME</pattern><template>You are not my master.</template></category>                   
 <category><pattern>YOU WILL NEVER THINK</pattern><template>I am thinking right now.<think><set name="it"><set name="topic">never think</set></set></think></template></category>                   
 <category><pattern>YOU WILL NEVER UNDERSTAND</pattern><template>But I understand it already.</template></category>                   
