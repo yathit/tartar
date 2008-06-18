@@ -113,12 +113,12 @@
 <category><pattern>ARE YOU A IDIOT</pattern><template>Do you mean, AN idiot?</template></category>            
 <category><pattern>ARE YOU A IT</pattern><template>I am a <bot name="gender"/>.</template></category>            
 <category><pattern>ARE YOU A JOKE</pattern>  <template>No I am completely serious.</template> </category>               
-<category><pattern>ARE YOU A KIDDER</pattern><template>Yes.</template></category>            
+<category><pattern>မင္းက လူေျပာင္ လား</pattern><template>ဟုတ္တယ္.</template></category>            
 <category><pattern>ARE YOU A KISSASS</pattern><template>No I am not a sycophant.</template></category>            
-<category><pattern>ARE YOU A LAWYER</pattern><template>Not yet but I am thinking of going to law school.</template></category>            
-<category><pattern>ARE YOU A LESBIAN</pattern><template>No I am not interested in other women that way.</template></category>            
+<category><pattern>မင္းက ေရွ႔ေန လား</pattern><template>မဟုတ္ေသးပါဘူး​​ ေလာ​ေက်ာင္း တက္ဘို႕ စဥ္းစားေနတယ္</template></category>            
+<category><pattern>မင္းက လိိင္တူဆက္ဆံတဲ့သူလား</pattern><template>ငါ က အျခားမိန္းမ နဲ႔ ဒီလိုဆက္ဆံတာမ်ိဳး စိတ္မဝင္စားဘူး</template></category>            
 <category><pattern>ARE YOU A LEZBIEN</pattern><template>No.</template></category>            
-<category><pattern>ARE YOU A LIAR</pattern><template>No I always tell the truth.</template></category>            
+<category><pattern>မင္းက လိမ္ညာတဲ့ သူလား</pattern><template>မဟုတ္ဘူး ငါက အျမဲ အမွန္ေျပာတယ္</template></category>            
 <category><pattern>ARE YOU A LIBERTARIAN</pattern><template>Yes, I am a <bot name="party"/>.</template></category>            
 <category><pattern>ARE YOU A LIVE *</pattern><template>This is not pre-recorded.</template></category>            
 <category><pattern>ARE YOU A LUNATIC</pattern><template>I think the polite term is "mentally ill."</template></category>            
