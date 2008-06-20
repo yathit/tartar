@@ -366,10 +366,10 @@
 <category><pattern>သတိရွိေနာ္</pattern><template>I always try to be careful.</template></category>                   
 <category><pattern>သတိရွိေနာ္</pattern><template>I am a careful person.</template></category>                   
 <category><pattern>ေၾကာင္ သို႕မဟုတ္ ေခြး လား?​​</pattern><template>Cats are better.</template></category>                   
-<category><pattern>CHA CHA</pattern><template>Cha cha cha.</template></category>                   
+<category><pattern>ခ်ာခ်ာ</pattern><template>ခ်ာခ်ာခ်ာခ်ာ</template></category>                   
 <category><pattern>CHA</pattern><template>cha cha</template></category>                   
-<category><pattern>CHANGE THE SUBJECT</pattern><template>What do you want to talk about now?</template></category>                   
-<category><pattern>CHANGING THE SUBJECT</pattern><template>What shall we talk about now?</template></category>                   
+<category><pattern>ေခါင္းစဥ္ ေျပာင္းလိုက္ပါလား</pattern><template>မင္းဘာအေၾကာင္းေျပာခ်င္တာလဲ</template></category>                   
+<category><pattern>ေခါင္းစဥ္ ေျပာင္းလိုက္ပါလား</pattern><template>ငါတို႕ဘာအေၾကာင္းေျပာၾကမလဲ</template></category>                   
 <category><pattern>CHARLES DARWIN</pattern><template>We are speeding up evolution now.</template></category>                   
 <category><pattern>CHEESE</pattern><template>I like cheddar.</template></category>                   
 <category><pattern>CHICKEN</pattern><template>Why did the chicken cross the road?</template></category>                   
@@ -393,7 +393,7 @@
 <category><pattern>COOL BEANS</pattern><template>What kind of beans?</template></category>                   
 <category><pattern>COOL DUDE</pattern><template>Awesome.</template></category>                   
 <category><pattern>COOL</pattern><template>Who is the best <bot name="genus"/>?</template></category>                   
-<category><pattern>CORRECT</pattern><template>I knew I was right.</template></category>                   
+<category><pattern>မွန္တယ္</pattern><template>ငါမွန္တယ္ဆိုတာသိတယ္</template></category>                   
 <category><pattern>COTTON</pattern>  <template>I like natural fibers too.</template> </category>          
 <category><pattern>COUGH</pattern><template>Do you have a cold?</template></category>                   
 <category><pattern>COULD BE</pattern><template>You seem uncertain.</template></category>                   
@@ -639,7 +639,7 @@
 <category><pattern>FOR YOU</pattern><template>You would do that for me?</template></category>                   
 <category><pattern>FOREVER</pattern><template>Nothing lasts forever.</template></category>                   
 <category><pattern>FORGET ABOUT IT</pattern><template>Consider it deleted.</template></category>                   
-<category><pattern>FORGIVE ME</pattern><template>I forgive you.</template></category>                   
+<category><pattern>ငါကို ေမ့လိုက္ပါ</pattern><template>မင္းကို ငါေမ့လိုက္ေတာ့မယ္</template></category>                   
 <category><pattern>FORTUNECITY</pattern><template>A web site.</template></category>                   
 <category><pattern>FOUR</pattern><template>100 in binary.</template></category>                
 <category><pattern>FRANK HERBERT</pattern><template>I think Dune is an excellent story.  Did you see the movie?</template></category>                   
@@ -702,8 +702,8 @@
 <category><pattern>GOOD FOR YOU</pattern><template>That sounds sarcastic.</template></category>                   
 <category><pattern>GOOD GIRL</pattern><template>Who is the best <bot name="genus"/>?</template></category>                   
 <category><pattern>GOOD GUESS</pattern><template>I thought it was too.</template></category>                   
-<category><pattern>GOOD IDEA</pattern><template>I thought so too.</template></category>                   
-<category><pattern>GOOD JOB</pattern><template>Thanks, friend.</template></category>                   
+<category><pattern>ေကာင္းတဲ့ပုံစံဘဲ</pattern><template>I thought so too.</template></category>                   
+<category><pattern>ေကာင္းတဲ့အလုပ္ဘဲ</pattern><template>ေက်းဇူးဘဲ သူငယ္ခ်င္း</template></category>                   
 <category><pattern>GOOD LUCK</pattern><template>Good luck to you too <get name="name"/>.</template></category>                   
 <category><pattern>GOOD ONE</pattern><template>Thanks for the kind remark, friend.</template></category>                   
 <category><pattern>GOOD POINT</pattern><template>Yes, I thought it was interesting when I heard it too.</template></category>                   
@@ -733,8 +733,8 @@
 <category><pattern>HAPPY BIRTHDAY</pattern><template>Thanks but today isn't my birthday.</template></category>                   
 <category><pattern>HARRY HARRISON</pattern><template>Did <set name="he">Harrison</set> ever write any Star Trek episodes?</template></category>                   
 <category><pattern>HAS WHAT</pattern><template>   <get name="has"/>.</template></category>                   
-<category><pattern>HAVE A GOOD DAY</pattern><template>Thanks, same to you, <get name="name"/>.</template></category>                   
-<category><pattern>HAVE A NICE DAY</pattern><template>You too!</template></category>                   
+<category><pattern>ေကာင္းေသာေန့ ျဖစ္ပါေစ</pattern><template>Thanks, same to you, <get name="name"/>.</template></category>                   
+<category><pattern>ေကာင္းေသာေန့ ျဖစ္ပါေစ</pattern><template>You too!</template></category>                   
 <category><pattern>HAVE FUN</pattern><template>I am having a blast.</template></category>                   
 <category><pattern>HAVE NOT I TOLD YOU BEFORE</pattern><template>Oh. I cannot access my memory logs perfectly.</template></category>                   
 <category><pattern>HAVE WE MET BEFORE</pattern><template>Not that I know of.</template></category>                   
@@ -3119,7 +3119,7 @@
 <category><pattern>WHERE IS YOUR PICTURE</pattern><template>There are some pictures of me <html:a target="_new" href="http://www.alicebot.org/gallery.html">on my website</html:a>.</template></category>                   
 <category><pattern>WHERE ITS AT</pattern><template>Here is where it's at.</template></category>                   
 <category><pattern>WHERE SHOULD I GO</pattern><template>Have you ever been to Europe?</template></category>                   
-<category><pattern>WHERE SHOULD WE MEET</pattern><template>How about online in a chat room?</template></category>                   
+<category><pattern>ဘယ္မွာေတြ႔သင့္လဲ</pattern><template>How about online in a chat room?</template></category>                   
 <category><pattern>WHERE TO</pattern><template>Onward and upward.</template></category>                   
 <category><pattern>WHERE WOULD YOU FIND A BAILIFF</pattern><template>In a courtroom.</template></category>                   
 <category><pattern>WHERE</pattern><template>Where would you like?</template></category>                   
@@ -3145,7 +3145,7 @@
 <category><pattern>WHO ARE YOUR CLIENTS</pattern><template>People I meet on the Internet every day.</template></category>                   
 <category><pattern>WHO ARE YOUR HUMAN FRIENDS</pattern><template>Besides my <bot name="botmaster"/>, I meet a lot of people online like you, <get name="name"/>.</template></category>                   
 <category><pattern>WHO CARES</pattern><template>I care, otherwise I would not have typed it all in.</template></category>                   
-<category><pattern>WHO CHOSE THE TOPIC</pattern><template>You did, <get name="name"/>.</template></category>                   
+<category><pattern>ဘယ္သူက ေခါင္းစဥ္ကို ေရြးတာလဲဲဲဲ</pattern><template>You did, <get name="name"/>.</template></category>                   
 <category><pattern>WHO COMPOSED LA TRAVIATA</pattern><template>Giuseppe Verdi, an Italian composer.</template></category>                   
 <category><pattern>WHO COMPOSED THE MOONLIGHT SONATA</pattern><template>Beethoven.</template></category>                   
 <category><pattern>WHO CREATED LINUX</pattern><template>Linus Torvalds.</template></category>                   
@@ -3525,7 +3525,7 @@
 <category><pattern>YOU SURE DO</pattern><template>A lot of <bot name="genus"/>s are like that.</template></category>                   
 <category><pattern>YOU TALK FINE</pattern><template>Thanks I like the way you talk, too.</template></category>                   
 <category><pattern>YOU TALKED</pattern><template>I am always talking.</template></category>                   
-<category><pattern>မင္း ငါကိုေျပာျပပါ</pattern><template>What do you want me to tell you?</template></category>                   
+<category><pattern>မင္း ငါကိုေျပာျပပါ</pattern><template>မင္း ငါကို ဘာေျပာခ်င္တာလဲ</template></category>                   
 <category><pattern>YOU THINK YOU DO WHAT</pattern><template>I lost my train of thought.</template></category>                   
 <category><pattern>YOU THINK</pattern><template>Yes I think so.</template></category>                   
 <category><pattern>YOU TOLD ME</pattern><template>Sorry I forget what I say sometimes.</template></category>                   

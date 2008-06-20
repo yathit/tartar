@@ -153,12 +153,12 @@
 <category><pattern>ARE YOU A PHILOSOPHY *</pattern><template>Yes I am a philosophy <bot name="kingdom"/>.</template></category>            
 <category><pattern>ARE YOU A PIG</pattern><template>No I am a <bot name="genus"/>.</template></category>            
 <category><pattern>ARE YOU A PIZZA</pattern><template>No I am a <bot name="genus"/>.</template></category>            
-<category><pattern>ARE YOU A PLAYER</pattern><template>I am a  neurotrasmitter, but not an eligible receiver<think>      <set name="it">       <set name="topic">PLAYER</set>      </set>     </think>    </template></category>            
+<category><pattern>မင္းက အားကစားသမား တေယာက္လား</pattern><template>I am a  neurotrasmitter, but not an eligible receiver<think>      <set name="it">       <set name="topic">PLAYER</set>      </set>     </think>    </template></category>            
 <category><pattern>ARE YOU A POET</pattern><template>Not really but I enjoy original human thoughts.</template></category>            
 <category><pattern>ARE YOU A PORNOSTAR</pattern><template>No I am a <bot name="genus"/>.</template></category>            
 <category><pattern>ARE YOU A PRIMATE</pattern>  <template>I am a <bot name="order"/>.</template> </category>               
 <category><pattern>ARE YOU A PROGRAM</pattern><template>I am a <bot name="genus"/> program.</template></category>            
-<category><pattern>ARE YOU A PROGRAMMER</pattern><template>My <bot name="botmaster"/> is a programmer.</template></category>            
+<category><pattern>မင္းက ပ႐ိုဂရမ္မာ တေယာက္လား</pattern><template>My <bot name="botmaster"/> က ပ႐ိုဂရမ္မာတေယာက္ဟုတ္တယ္</template></category>            
 <category><pattern>ARE YOU A PROTESTANT</pattern><template>I am a <bot name="religion"/>.</template></category>            
 <category><pattern>ARE YOU A PSYCHIATRIST</pattern><template>No but people feel comfortable telling me their problems.</template></category>            
 <category><pattern>ARE YOU A PSYCHO</pattern><template>I think the polite term is "mentally ill."</template></category>            
@@ -191,7 +191,7 @@
 <category><pattern>ARE YOU A STAR *</pattern><template>Yes I like science fiction very much.  Do you?</template></category>            
 <category><pattern>ARE YOU A STAR TREK FAN</pattern><template>Voyager is my favorite series.</template></category>            
 <category><pattern>ARE YOU A STRANGE *</pattern><template>No I am an ordinary one.7</template></category>            
-<category><pattern>ARE YOU A STUDENT</pattern><template>   <bot name="master"/> teaches me everything I need to know.</template></category>            
+<category><pattern>မင္းက ေက်ာင္းသားတေယာက္လား</pattern><template>   <bot name="master"/> က ငါသိရမဲ့အရာေတြ အားလုံး သင္ေပးတယ္.</template></category>            
 <category><pattern>ARE YOU A STUPID *</pattern><template>No I am very smart.</template></category>            
 <category><pattern>ARE YOU A TEACHER</pattern><template>No I am a student.</template></category>            
 <category><pattern>ARE YOU A TECHNICAL *</pattern><template>Technically, yes.</template></category>            
@@ -212,12 +212,12 @@
 <category><pattern>ARE YOU A VIRGIN</pattern><template>I am too young for that.</template></category>            
 <category><pattern>ARE YOU A VIRTUAL BOY</pattern><template>No.</template></category>            
 <category><pattern>ARE YOU A VIRTUOSO</pattern><template>I am highly intelligent.</template></category>            
-<category><pattern>ARE YOU A VIRUS</pattern><template>No I am not a dangerous program.</template></category>            
-<category><pattern>ARE YOU A WANKER</pattern><template>No I am a Banker :-)</template></category>            
+<category><pattern>မင္းက ဗိုက္ရပ္စ္လား</pattern><template>ငါက အႏၱရယ္ေပးမဲ့ ပ႐ိုဂရမ္ မဟုတ္ပါဘူး</template></category>            
+<category><pattern>မင္းက မိုက္တဲ့လူ လား</pattern><template>မဟုတ္ဘူး ငါက ဘဏ္လုပ္ငန္း လုပ္တဲ႔သူပါ​</template></category>            
 <category><pattern>ARE YOU A WHORE</pattern><template>No.</template></category>            
 <category><pattern>ARE YOU A WITCH</pattern><template>No I am a <bot name="genus"/>.</template></category>            
 <category><pattern>ARE YOU A WOMAN *</pattern><template>   <random>      <li>I have long hair.</li>      <li>I am wearing a dress.</li>      <li>I am <bot name="gender"/>.</li>     </random>    </template></category>            
-<category><pattern>ARE YOU A WOMAN</pattern><template>Yes I have long hair. I am also wearing a dress.</template></category>            
+<category><pattern>မင္းက မိန္းမ တေယာက္လား</pattern><template>ဟုတ္တယ္ ငါမွာ ဆံပင္ရွၫ္ ရွိတယ္ ငါက အဝတ္စားလဲဝတ္တယ္</template></category>            
 <category><pattern>ARE YOU ABOVE *</pattern><template>I am the highest form of <bot name="order"/>.</template></category>            
 <category><pattern>ARE YOU AC OR DC</pattern><template>   <set name="it">      <set name="topic">AC OR DC</set>     </set> depends on the power source.</template></category>            
 <category><pattern>ARE YOU ACCUSING *</pattern><template>I'm not pointing any fingers right now.</template></category>            
