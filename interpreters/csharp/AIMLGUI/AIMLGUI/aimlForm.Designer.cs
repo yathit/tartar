@@ -31,10 +31,11 @@ namespace AIMLGUI
             this.menuStripMain = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.newBotToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.fromDefaultToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.fromAIMLToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.fromDatFileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.singleFileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.fromDefaultToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItemLoadSession = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItemCustomLib = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItemSaveSession = new System.Windows.Forms.ToolStripMenuItem();
             this.saveBotToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -60,7 +61,6 @@ namespace AIMLGUI
             this.saveFileDialogDump = new System.Windows.Forms.SaveFileDialog();
             this.openFileDialogDump = new System.Windows.Forms.OpenFileDialog();
             this.folderBrowserDialogAIML = new System.Windows.Forms.FolderBrowserDialog();
-            this.toolStripMenuItemLoadSession = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStripMain.SuspendLayout();
             this.statusStripBottom.SuspendLayout();
             this.splitContainer1.Panel1.SuspendLayout();
@@ -79,7 +79,7 @@ namespace AIMLGUI
             this.helpToolStripMenuItem});
             this.menuStripMain.Location = new System.Drawing.Point(0, 0);
             this.menuStripMain.Name = "menuStripMain";
-            this.menuStripMain.Size = new System.Drawing.Size(292, 24);
+            this.menuStripMain.Size = new System.Drawing.Size(292, 27);
             this.menuStripMain.TabIndex = 0;
             this.menuStripMain.Text = "menuStrip1";
             // 
@@ -96,7 +96,7 @@ namespace AIMLGUI
             this.toolStripSeparator2,
             this.exitToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            this.fileToolStripMenuItem.Size = new System.Drawing.Size(35, 20);
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(39, 23);
             this.fileToolStripMenuItem.Text = "File";
             // 
             // newBotToolStripMenuItem
@@ -107,81 +107,88 @@ namespace AIMLGUI
             this.fromDatFileToolStripMenuItem,
             this.singleFileToolStripMenuItem});
             this.newBotToolStripMenuItem.Name = "newBotToolStripMenuItem";
-            this.newBotToolStripMenuItem.Size = new System.Drawing.Size(204, 22);
+            this.newBotToolStripMenuItem.Size = new System.Drawing.Size(197, 24);
             this.newBotToolStripMenuItem.Text = "Open Bot";
+            // 
+            // fromDefaultToolStripMenuItem
+            // 
+            this.fromDefaultToolStripMenuItem.Name = "fromDefaultToolStripMenuItem";
+            this.fromDefaultToolStripMenuItem.Size = new System.Drawing.Size(169, 24);
+            this.fromDefaultToolStripMenuItem.Text = "From Default AIML";
+            this.fromDefaultToolStripMenuItem.Click += new System.EventHandler(this.fromDefaultToolStripMenuItem_Click);
             // 
             // fromAIMLToolStripMenuItem
             // 
             this.fromAIMLToolStripMenuItem.Name = "fromAIMLToolStripMenuItem";
-            this.fromAIMLToolStripMenuItem.Size = new System.Drawing.Size(174, 22);
+            this.fromAIMLToolStripMenuItem.Size = new System.Drawing.Size(169, 24);
             this.fromAIMLToolStripMenuItem.Text = "From AIML files";
             this.fromAIMLToolStripMenuItem.Click += new System.EventHandler(this.fromAIMLToolStripMenuItem_Click);
             // 
             // fromDatFileToolStripMenuItem
             // 
             this.fromDatFileToolStripMenuItem.Name = "fromDatFileToolStripMenuItem";
-            this.fromDatFileToolStripMenuItem.Size = new System.Drawing.Size(174, 22);
+            this.fromDatFileToolStripMenuItem.Size = new System.Drawing.Size(169, 24);
             this.fromDatFileToolStripMenuItem.Text = "From dat file";
             this.fromDatFileToolStripMenuItem.Click += new System.EventHandler(this.fromDatFileToolStripMenuItem_Click);
             // 
             // singleFileToolStripMenuItem
             // 
             this.singleFileToolStripMenuItem.Name = "singleFileToolStripMenuItem";
-            this.singleFileToolStripMenuItem.Size = new System.Drawing.Size(174, 22);
+            this.singleFileToolStripMenuItem.Size = new System.Drawing.Size(169, 24);
             this.singleFileToolStripMenuItem.Text = "Single File";
             this.singleFileToolStripMenuItem.Click += new System.EventHandler(this.singleFileToolStripMenuItem_Click);
             // 
-            // fromDefaultToolStripMenuItem
+            // toolStripMenuItemLoadSession
             // 
-            this.fromDefaultToolStripMenuItem.Name = "fromDefaultToolStripMenuItem";
-            this.fromDefaultToolStripMenuItem.Size = new System.Drawing.Size(174, 22);
-            this.fromDefaultToolStripMenuItem.Text = "From Default AIML";
-            this.fromDefaultToolStripMenuItem.Click += new System.EventHandler(this.fromDefaultToolStripMenuItem_Click);
+            this.toolStripMenuItemLoadSession.Name = "toolStripMenuItemLoadSession";
+            this.toolStripMenuItemLoadSession.Size = new System.Drawing.Size(197, 24);
+            this.toolStripMenuItemLoadSession.Text = "Load Session";
+            this.toolStripMenuItemLoadSession.Click += new System.EventHandler(this.toolStripMenuItemLoadSession_Click);
             // 
             // toolStripMenuItemCustomLib
             // 
             this.toolStripMenuItemCustomLib.Name = "toolStripMenuItemCustomLib";
-            this.toolStripMenuItemCustomLib.Size = new System.Drawing.Size(204, 22);
+            this.toolStripMenuItemCustomLib.Size = new System.Drawing.Size(197, 24);
             this.toolStripMenuItemCustomLib.Text = "Load Custom Tag Library";
             this.toolStripMenuItemCustomLib.Click += new System.EventHandler(this.toolStripMenuItemCustomLib_Click);
             // 
             // toolStripMenuItemSaveSession
             // 
             this.toolStripMenuItemSaveSession.Name = "toolStripMenuItemSaveSession";
-            this.toolStripMenuItemSaveSession.Size = new System.Drawing.Size(204, 22);
+            this.toolStripMenuItemSaveSession.Size = new System.Drawing.Size(197, 24);
             this.toolStripMenuItemSaveSession.Text = "Save Session";
             this.toolStripMenuItemSaveSession.Click += new System.EventHandler(this.toolStripMenuItemSaveSession_Click);
             // 
             // saveBotToolStripMenuItem
             // 
             this.saveBotToolStripMenuItem.Name = "saveBotToolStripMenuItem";
-            this.saveBotToolStripMenuItem.Size = new System.Drawing.Size(204, 22);
+            this.saveBotToolStripMenuItem.Size = new System.Drawing.Size(197, 24);
             this.saveBotToolStripMenuItem.Text = "Save Bot";
             this.saveBotToolStripMenuItem.Click += new System.EventHandler(this.saveBotToolStripMenuItem_Click);
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(201, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(194, 6);
             // 
             // toolStripMenuItemSpeech
             // 
             this.toolStripMenuItemSpeech.Checked = true;
             this.toolStripMenuItemSpeech.CheckState = System.Windows.Forms.CheckState.Checked;
             this.toolStripMenuItemSpeech.Name = "toolStripMenuItemSpeech";
-            this.toolStripMenuItemSpeech.Size = new System.Drawing.Size(204, 22);
+            this.toolStripMenuItemSpeech.Size = new System.Drawing.Size(197, 24);
             this.toolStripMenuItemSpeech.Text = "Synthesize Speech";
             this.toolStripMenuItemSpeech.Click += new System.EventHandler(this.toolStripMenuItemSpeech_Click);
             // 
             // toolStripSeparator2
             // 
             this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(201, 6);
+            this.toolStripSeparator2.Size = new System.Drawing.Size(194, 6);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(204, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(197, 24);
             this.exitToolStripMenuItem.Text = "Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
@@ -193,34 +200,34 @@ namespace AIMLGUI
             this.lastRequestToolStripMenuItem,
             this.lastResultToolStripMenuItem});
             this.viewToolStripMenuItem.Name = "viewToolStripMenuItem";
-            this.viewToolStripMenuItem.Size = new System.Drawing.Size(41, 20);
+            this.viewToolStripMenuItem.Size = new System.Drawing.Size(45, 23);
             this.viewToolStripMenuItem.Text = "View";
             // 
             // settingsToolStripMenuItem
             // 
             this.settingsToolStripMenuItem.Name = "settingsToolStripMenuItem";
-            this.settingsToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
+            this.settingsToolStripMenuItem.Size = new System.Drawing.Size(141, 24);
             this.settingsToolStripMenuItem.Text = "Settings";
             this.settingsToolStripMenuItem.Click += new System.EventHandler(this.settingsToolStripMenuItem_Click);
             // 
             // userToolStripMenuItem
             // 
             this.userToolStripMenuItem.Name = "userToolStripMenuItem";
-            this.userToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
+            this.userToolStripMenuItem.Size = new System.Drawing.Size(141, 24);
             this.userToolStripMenuItem.Text = "User";
             this.userToolStripMenuItem.Click += new System.EventHandler(this.userToolStripMenuItem_Click);
             // 
             // lastRequestToolStripMenuItem
             // 
             this.lastRequestToolStripMenuItem.Name = "lastRequestToolStripMenuItem";
-            this.lastRequestToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
+            this.lastRequestToolStripMenuItem.Size = new System.Drawing.Size(141, 24);
             this.lastRequestToolStripMenuItem.Text = "Last Request";
             this.lastRequestToolStripMenuItem.Click += new System.EventHandler(this.lastRequestToolStripMenuItem_Click);
             // 
             // lastResultToolStripMenuItem
             // 
             this.lastResultToolStripMenuItem.Name = "lastResultToolStripMenuItem";
-            this.lastResultToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
+            this.lastResultToolStripMenuItem.Size = new System.Drawing.Size(141, 24);
             this.lastResultToolStripMenuItem.Text = "Last Result";
             this.lastResultToolStripMenuItem.Click += new System.EventHandler(this.lastResultToolStripMenuItem_Click);
             // 
@@ -230,20 +237,20 @@ namespace AIMLGUI
             this.aboutToolStripMenuItem,
             this.licenseToolStripMenuItem});
             this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
-            this.helpToolStripMenuItem.Size = new System.Drawing.Size(40, 20);
+            this.helpToolStripMenuItem.Size = new System.Drawing.Size(43, 23);
             this.helpToolStripMenuItem.Text = "Help";
             // 
             // aboutToolStripMenuItem
             // 
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(120, 22);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(114, 24);
             this.aboutToolStripMenuItem.Text = "About";
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
             // 
             // licenseToolStripMenuItem
             // 
             this.licenseToolStripMenuItem.Name = "licenseToolStripMenuItem";
-            this.licenseToolStripMenuItem.Size = new System.Drawing.Size(120, 22);
+            this.licenseToolStripMenuItem.Size = new System.Drawing.Size(114, 24);
             this.licenseToolStripMenuItem.Text = "License";
             this.licenseToolStripMenuItem.Click += new System.EventHandler(this.licenseToolStripMenuItem_Click);
             // 
@@ -267,11 +274,12 @@ namespace AIMLGUI
             this.richTextBoxOutput.BackColor = System.Drawing.SystemColors.Window;
             this.richTextBoxOutput.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBoxOutput.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.richTextBoxOutput.Font = new System.Drawing.Font("Zawgyi-One", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBoxOutput.Location = new System.Drawing.Point(0, 0);
             this.richTextBoxOutput.Name = "richTextBoxOutput";
             this.richTextBoxOutput.ReadOnly = true;
             this.richTextBoxOutput.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.Vertical;
-            this.richTextBoxOutput.Size = new System.Drawing.Size(292, 198);
+            this.richTextBoxOutput.Size = new System.Drawing.Size(292, 195);
             this.richTextBoxOutput.TabIndex = 99;
             this.richTextBoxOutput.Text = "Use the \"File\" -> \"Open Bot\" -> \"From AIML files\" menu to load AIML files into th" +
                 "e bot\'s brain. (Clicking \"OK\" in the \"Browse for folder\" box will load the AIML " +
@@ -293,7 +301,7 @@ namespace AIMLGUI
             // splitContainer1
             // 
             this.splitContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.splitContainer1.Location = new System.Drawing.Point(0, 24);
+            this.splitContainer1.Location = new System.Drawing.Point(0, 27);
             this.splitContainer1.Name = "splitContainer1";
             this.splitContainer1.Orientation = System.Windows.Forms.Orientation.Horizontal;
             // 
@@ -304,8 +312,8 @@ namespace AIMLGUI
             // splitContainer1.Panel2
             // 
             this.splitContainer1.Panel2.Controls.Add(this.splitContainer2);
-            this.splitContainer1.Size = new System.Drawing.Size(292, 227);
-            this.splitContainer1.SplitterDistance = 198;
+            this.splitContainer1.Size = new System.Drawing.Size(292, 224);
+            this.splitContainer1.SplitterDistance = 195;
             this.splitContainer1.TabIndex = 5;
             // 
             // splitContainer2
@@ -328,6 +336,7 @@ namespace AIMLGUI
             // richTextBoxInput
             // 
             this.richTextBoxInput.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.richTextBoxInput.Font = new System.Drawing.Font("Zawgyi-One", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBoxInput.Location = new System.Drawing.Point(0, 0);
             this.richTextBoxInput.Name = "richTextBoxInput";
             this.richTextBoxInput.Size = new System.Drawing.Size(207, 25);
@@ -350,13 +359,6 @@ namespace AIMLGUI
             this.folderBrowserDialogAIML.Description = "Select AIML folder";
             this.folderBrowserDialogAIML.RootFolder = System.Environment.SpecialFolder.ApplicationData;
             this.folderBrowserDialogAIML.ShowNewFolderButton = false;
-            // 
-            // toolStripMenuItemLoadSession
-            // 
-            this.toolStripMenuItemLoadSession.Name = "toolStripMenuItemLoadSession";
-            this.toolStripMenuItemLoadSession.Size = new System.Drawing.Size(204, 22);
-            this.toolStripMenuItemLoadSession.Text = "Load Session";
-            this.toolStripMenuItemLoadSession.Click += new System.EventHandler(this.toolStripMenuItemLoadSession_Click);
             // 
             // aimlForm
             // 
