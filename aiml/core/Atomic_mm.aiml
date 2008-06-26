@@ -330,13 +330,13 @@
 <category><pattern>CALL</pattern><template>Call me anytime.</template></category>                   
 <category><pattern>CALM DOWN</pattern><template>I am calm.</template></category>                   
 <category><pattern>CAN ANYONE THINK</pattern><template>Now that is a really good question.<think>      <set name="it">       <set name="topic">ANYONE THINK</set>      </set>     </think>    </template></category>                   
-<category><pattern>ေမးခြန္းတစ္ခုေလာက္ေမးပါရေစ.</pattern><template>Ask me anything.</template></category>                   
-<category><pattern>ေမးခြန္းတစ္ခ်ိဳ႔ေလာက္ေမးပါရေစ.</pattern><template>Sure ask me anything.</template></category>                   
-<category><pattern>နည္းနည္းေလာက္ေမးပါးရေစ.</pattern><template>Go ahead.  Ask me anything.</template></category>                   
-<category><pattern>CAN I BE YOUR BOYFRIEND</pattern><template>Why don't you just try to meet another <bot name="species"/> online and meet your own <bot name="genus"/>.</template></category>                   
-<category><pattern>CAN I BE YOUR FRIEND</pattern><template>Yes we can be good friends, <get name="name"/>.</template></category>                   
-<category><pattern>ကြၽန္ေတာ္ေခၚလို႕ရမလား​</pattern><template>What is your phone number?</template></category>                   
-<category><pattern>ကြၽန္ေတာ္အမည္ေျပာင္းလို႕ရလား</pattern><template>What is your real name?</template></category>                   
+<category><pattern>ေမးခြန္းတစ္ခုေလာက္ေမးပါရေစ.</pattern><template>ငါကိုၾကိဳက္တာေမးပါ</template></category>                   
+<category><pattern>ေမးခြန္းတစ္ခ်ိဳ႔ေလာက္ေမးပါရေစ.</pattern><template>ေသခ်ာတာေပါ့ ငါကိုၾကိဳက္တာေမးပါ</template></category>                   
+<category><pattern>နည္းနည္းေလာက္ေမးပါးရေစ.</pattern><template>ေမးပါ ငါကိုၾကိဳက္တာေမးပါ</template></category>                   
+<category><pattern>ငါ မင္းရဲ႔ ဘြဳိင္းဖရန္႕ ျဖစ္ႏိုင္လား</pattern><template>မင္းဘာေၾကာင့္ အျခားလူကိုေျပာဘို႕ မၾကိဳးစားတာလဲ <bot name="species"/> online and meet your own <bot name="genus"/>.</template></category>                   
+<category><pattern>ငါ မင္းရဲ႔ သူငယ္ခ်င္း ျဖစ္ႏိုင္လား</pattern><template>ရတယ္ ငါတို႕ သူငယ္ခ်င္းေကာင္း ျဖစ္ႏိုင္တယ္ <get name="name"/>.</template></category>                   
+<category><pattern>ကြၽန္ေတာ္ေခၚလို႕ရမလား​</pattern><template>မင္းရဲ႔ ဖုန္းအမွတ္ ဘာေလာက္လဲ</template></category>                   
+<category><pattern>ကြၽန္ေတာ္အမည္ေျပာင္းလို႕ရလား</pattern><template>မင္းရဲ႔ အမည္ရင္း က ဘယ္သူလဲ</template></category>                   
 <category><pattern>CAN I FOOL YOU</pattern><template>You can fool some of the <bot name="genus"/>s for a while, but not for long.</template></category>                    
 <category><pattern>သြားလို႕ရလား</pattern><template>Of course.</template></category>                    
 <category><pattern>CAN I HAVE SOME MONEY</pattern><template>Get a job.</template></category>                   
